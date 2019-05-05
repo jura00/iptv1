@@ -37,16 +37,16 @@ http://hls.kinokrad.co/hls/Supernatural.S01.E17/playlist.m3u8
 http://bk2-hls.kinokrad.co/hls/Supernatural.S01.E18/playlist.m3u8
 #EXTINF:0,  Сверх.1 19 серия
 http://bk2-hls.kinokrad.co/hls/Supernatural.S01.E19/playlist.m3u8
-#EXTINF:20 серия
+#EXTINF:0,  Сверх.1 20 серия
 http://hls.kinokrad.co/hls/Supernatural.S01.E20/playlist.m3u8
 #EXTINF:0,  Сверх.1 21 серия
 http://hls.kinokrad.co/hls/Supernatural.S01.E21/playlist.m3u8
 #EXTINF:0,  Сверх.1 22 серия
-#EXTINF:0,Сверх.(2 СЕЗОН) 1 серия
+#EXTINF:0, Сверх.(2 СЕЗОН) 1 серия
 http://hls.kinokrad.co/hls/Supernatural.S02.E01/playlist.m3u8
-#EXTINF:0,Сверх. 2 серия
+#EXTINF:0, Сверх. 2 серия
 http://hls.kinokrad.co/hls/Supernatural.S02.E02/playlist.m3u8
-#EXTINF:0,Сверх. 3 серия
+#EXTINF:0, Сверх. 3 серия
 http://hls.kinokrad.co/hls/Supernatural.S02.E03/playlist.m3u8
 #EXTINF:0,Сверх. 4 серия
 http://hls.kinokrad.co/hls/Supernatural.S02.E04/playlist.m3u8
