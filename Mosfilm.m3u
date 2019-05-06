@@ -1,287 +1,309 @@
 #EXTM3U
-#EXTINF:0,Любовь и голуби
+#EXTINF:-1,Любовь и голуби
 http://meta.vcdn.biz/984059d3a8d37a0bf2fb876c8ebb2697_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17551661/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Комедия давно минувших дней
+#EXTINF:-1,Комедия давно минувших дней
 http://meta.vcdn.biz/3d01b5698c0f472ea9632fae0ef6c706_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18234921/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Китайскiй сервизъ
+#EXTINF:-1,Китайскiй сервизъ
 http://meta.vcdn.biz/a169c4d5afdd276c3106717432544e48_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18234991/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Катала
+#EXTINF:-1,Катала
 http://meta.vcdn.biz/9037161719c61e5f61d39efd7a397867_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18235031/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Звездный мальчик
+#EXTINF:-1,Звездный мальчик
 http://meta.vcdn.biz/814190b2eb665670b1f143e44f413c20_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/18236391/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Закон
+#EXTINF:-1,Закон
 http://meta.vcdn.biz/b45d6d8782a2ddb2fe3e0b6e212ed45b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961311/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Загадка Эндхауза
+#EXTINF:-1,Загадка Эндхауза
 http://meta.vcdn.biz/630d511075ebf895f4c03ca98b4f0fcc_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18236911/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,День полнолуния
+#EXTINF:-1,День полнолуния
 http://meta.vcdn.biz/f77965958e5f74a445125e50248bbb50_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18257161/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Два капитана
+#EXTINF:-1,Два капитана
 http://meta.vcdn.biz/5a2669fcf11d97905437b684810a298d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24923131/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Дамы приглашают кавалеров
+#EXTINF:-1,Дамы приглашают кавалеров
 http://meta.vcdn.biz/25c01147322f558f39db75a58ac152b0_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18257411/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Гранатовый браслет
+#EXTINF:-1,Гранатовый браслет
 http://meta.vcdn.biz/6c7f39c7912e320f73bbfe0601becaec_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18257461/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вечный зов 1
+#EXTINF:-1,Вечный зов 1
 http://meta.vcdn.biz/2d661eea336034683709f46d9f7fec19_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24919801/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вечный зов 2
+#EXTINF:-1,Вечный зов 2
 http://meta.vcdn.biz/2b9d88ee78d624bf6a8c5e7d3081439f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24942651/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вечерний лабиринт
+#EXTINF:-1,Вечерний лабиринт
 http://meta.vcdn.biz/86e01acac89919b4f3b5cd88e4ba154c_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/18344231/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Кавказская пленница, или Новые приключения Шурика
+#EXTINF:0,Война и мир (1967) (8.1)
+http://hls.kinoplayer.co/hls/Voyna.i.Mir.1967.HDRip/playlist.m3u8
+#EXTINF:0,В бой идут одни «старики» (1974) (8.7)
+http://hls.kinoplayer.co/hls/v-boy-idut-odni-stariki-1973_HDRip/playlist.m3u8
+#EXTINF:0,Свадьба в Малиновке (1967) (8.0)
+http://hls.kinoplayer.co/hls/Svadba.v.Malinovke.1967.HDRip/playlist.m3u8
+#EXTINF:0,Свой среди чужих чужой среди своих (1974) (8.1)
+http://hls.kinoplayer.co/hls/Svoy.sredi.jushih.DVDRip/playlist.m3u8
+#EXTINF:-1, или Новые приключения Шурика
 http://meta.vcdn.biz/7eed713ed91ead6a66c17f7f9fb29134_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17551841/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Иван Васильевич меняет профессию
+#EXTINF:-1,Иван Васильевич меняет профессию
 http://meta.vcdn.biz/729e08b8d77d5ea4ab253dc7130a2252_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17551871/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Гараж
+#EXTINF:-1,Гараж
 http://meta.vcdn.biz/484c05765ff8f471f24f4d7f1b656dd6_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17553821/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Джентльмены удачи
+#EXTINF:-1,Джентльмены удачи
 http://meta.vcdn.biz/0ccbaeaffae21a23d35827ce06793dff_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17551911/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,12 стульев 1
+#EXTINF:-1,12 стульев 1
 http://meta.vcdn.biz/b6cacf321ff3fe787b61fbec7ed517b2_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24917561/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,12 стульев 2
+#EXTINF:-1,12 стульев 2
 http://meta.vcdn.biz/5d300db2419b274200d1c07d4293fe58_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24917601/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Девчата
+#EXTINF:-1,Девчата
 http://meta.vcdn.biz/e61a2e0dce75c5247ee9a346e33e8be8_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17552101/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Карнавальная ночь
+#EXTINF:-1,Карнавальная ночь
 http://meta.vcdn.biz/cdbb9630c6b064e78cd1b719e99234d9_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17554921/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Операция «Ы» и другие приключения Шурика
+#EXTINF:0,Вечера на хуторе близ Диканьки (1963) (8.0)
+http://hls.kinoplayer.co/hls/Vechere.Na.Hutore.Bliz.Dikanki.DVDRip/playlist.m3u8
+#EXTINF:0,Десять негритят (1965) (8.1)
+http://bk2-hls.kinoplayer.co/hls/Desyat.Negretyat.DVDRip/playlist.m3u8
+#EXTINF:0,Три плюс два (1963) (8.0)
+http://hls.kinoplayer.co/hls/Tri.Plus.Dva.1963.HDRip/playlist.m3u8
+#EXTINF:-1,Операция «Ы» и другие приключения Шурика
 http://meta.vcdn.biz/55ae23e917d55857aa5d179bbf704666_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17552351/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Белое солнце пустыни
+#EXTINF:-1,Белое солнце пустыни
 http://meta.vcdn.biz/4ef2772a16101ba442c2c804e49b24ed_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17552611/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Афоня
+#EXTINF:-1,Афоня
 http://meta.vcdn.biz/716fcd73ce16b534c7190616a89c3f9e_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17552381/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Кин-дза-дза!
+#EXTINF:-1,Кин-дза-дза!
 http://meta.vcdn.biz/ee26328271ea18e6e0894a393dd4a515_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24937701/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Невероятные приключения итальянцев в России
+#EXTINF:-1,Невероятные приключения итальянцев в России
 http://meta.vcdn.biz/a4cdb5426d5cd75e1f48293cdf768973_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17555551/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Берегись автомобиля
+#EXTINF:-1,Берегись автомобиля
 http://meta.vcdn.biz/4c3e61cb0bc4818241fdc6732139cfd1_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17553541/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вокзал для двоих
+#EXTINF:-1,Вокзал для двоих
 http://meta.vcdn.biz/6d27c09e2bf80adeb7decbe231003315_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24923461/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вокзал для двоих 2
+#EXTINF:-1,Вокзал для двоих 2
 http://meta.vcdn.biz/d86203f3d44756f22990c5e50d7bf23f_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24923471/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Неуловимые мстители
+#EXTINF:-1,Неуловимые мстители
 http://meta.vcdn.biz/7f6b27528a4ee461f0e96edc10313cdf_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776201/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Война и мир
+#EXTINF:-1,Война и мир
 http://meta.vcdn.biz/3edcff9b0947ac6b4f50c541f0543c99_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24980011/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Большая перемена
+#EXTINF:-1,Большая перемена
 http://meta.vcdn.biz/7cd5bca683436e75d5304f11a0f58c21_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961521/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Большая перемена 2
+#EXTINF:-1,Большая перемена 2
 http://meta.vcdn.biz/0753a33705337ae7a0dda02862adbe6b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961581/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Большая перемена 3
+#EXTINF:-1,Большая перемена 3
 http://meta.vcdn.biz/47ce319db8dd5e4abef994975b2363a9_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961551/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Большая перемена 4
+#EXTINF:-1,Большая перемена 4
 http://meta.vcdn.biz/89ec2bc943ae0fe84188900948c88749_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961611/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Покровские ворота
+#EXTINF:-1,Покровские ворота
 http://meta.vcdn.biz/7a0d8b621204621df9cb4d92bd1f73bb_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24920281/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Покровские ворота 2
+#EXTINF:-1,Покровские ворота 2
 http://meta.vcdn.biz/2d67552cb0c52daf782516d81cef0114_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24920291/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Сталкер
+#EXTINF:-1,Сталкер
 http://meta.vcdn.biz/ec5aec8ff0c0acdfedb0e8428961a235_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17555671/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Самогонщики
+#EXTINF:-1,Самогонщики
 http://meta.vcdn.biz/d8ecd75443c70aba4221a343d888a896_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17553851/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Мы из джаза
+#EXTINF:-1,Мы из джаза
 http://meta.vcdn.biz/872686d9d120338281e2967ed80858e8_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17553021/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Человек с бульвара Капуцинов
+#EXTINF:-1,Человек с бульвара Капуцинов
 http://meta.vcdn.biz/ef80e70027015be5d48b832289ee8520_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17691891/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Не может быть!
+#EXTINF:-1,Не может быть!
 http://meta.vcdn.biz/2c6728ca43cc8dbd29a107437dbfd059_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17552931/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вас вызывает Таймыр
+#EXTINF:-1,Вас вызывает Таймыр
 http://meta.vcdn.biz/f50c199a214ef25c1405d93657b44ba3_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18362811/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,В четверг и больше никогда
+#EXTINF:-1,В четверг и больше никогда
 http://meta.vcdn.biz/f41fffb8907abffd8cfac29ba6c3928c_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18362851/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,В последнюю очередь
+#EXTINF:-1,В последнюю очередь
 http://meta.vcdn.biz/75fbf4defcc3069bcc661fb8cd424d4e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18362861/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Ах, водевиль, водевиль...
+#EXTINF:0,Весна на Заречной улице (1956) (7.9)
+http://hls.kinoplayer.co/hls/Vesna.na.Zarechnoy.ulice.HDRip/playlist.m3u8
+#EXTINF:-1, Ах водевиль...
 http://meta.vcdn.biz/d82216adde4d27c433c7b54df1d3f669_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18363261/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Алмазы для Марии
+#EXTINF:-1,Алмазы для Марии
 http://meta.vcdn.biz/e5133dc42e2a33dc190cd1c383c7ae55_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/18364121/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Автомобиль, скрипка и собака Клякса
+#EXTINF:-1,скрипка и собака Клякса
 http://meta.vcdn.biz/1043dad22ca40301b4b41a089868cc99_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18364321/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Авария – дочь мента
+#EXTINF:-1,Авария – дочь мента
 http://meta.vcdn.biz/8b75f5e88330e67fe934b290d3f084a9_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18364331/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Яды, или Всемирная история отравлений
+#EXTINF:-1, или Всемирная история отравлений
 http://meta.vcdn.biz/be2bb9d6b1155f671ea07d64dcd07245_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17691741/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Целуются зори
+#EXTINF:-1,Целуются зори
 http://meta.vcdn.biz/6e8153943dd5b96f9b25a4fabbc99f41_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/17691911/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Успех
+#EXTINF:-1,Успех
 http://meta.vcdn.biz/e06a4ccb450ea9692d0cd3ac3f828107_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692031/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Убить дракона
+#EXTINF:-1,Убить дракона
 http://meta.vcdn.biz/c886af2bfb8d3ed675c227b2ae212d2b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692051/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,У тихой пристани
+#EXTINF:-1,У тихой пристани
 http://meta.vcdn.biz/6c074818becd944841e29ebd3be6cfe1_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692061/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,У опасной черты
+#EXTINF:-1,У опасной черты
 http://meta.vcdn.biz/b04471a47f544464e311d66a1ad49f57_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692071/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тридцать три
+#EXTINF:-1,Тридцать три
 http://meta.vcdn.biz/54f50e5a9f4c9af66cf9e6de78226b70_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692081/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тревожное воскресенье
+#EXTINF:-1,Тревожное воскресенье
 http://meta.vcdn.biz/18ed1e56e7ebb1fe6cc8912c56166620_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692091/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Трактир на Пятницкой
+#EXTINF:-1,Трактир на Пятницкой
 http://meta.vcdn.biz/84122e2bb1b64d5ad172f148a6074e20_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692101/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Точка, точка, запятая ...
+#EXTINF:-1, запятая ...
 http://meta.vcdn.biz/b41fc3d86f4c165ce0b72efa4bc9e912_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692111/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень
+#EXTINF:-1,Тени исчезают в полдень
 http://meta.vcdn.biz/7316b0315a4ef1e6fec6135ed7cbb1cd_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952701/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень 2
+#EXTINF:-1,Тени исчезают в полдень 2
 http://meta.vcdn.biz/6f621f976581c10b8e812d286e6a61a6_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952691/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень 3
+#EXTINF:-1,Тени исчезают в полдень 3
 http://meta.vcdn.biz/b96fb697a77ba36d75eef0a52bcf2ed0_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952681/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень 4
+#EXTINF:-1,Тени исчезают в полдень 4
 http://meta.vcdn.biz/b4397633e2c40f066a33906f5811fc53_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952711/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень 5
+#EXTINF:-1,Тени исчезают в полдень 5
 http://meta.vcdn.biz/d410fe6214a7502c1046d3ccfdf70677_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952751/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень 6
+#EXTINF:-1,Тени исчезают в полдень 6
 http://meta.vcdn.biz/6a1c62f8cb193f0e7563f40d952bf54d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952771/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Тени исчезают в полдень 7
+#EXTINF:-1,Тени исчезают в полдень 7
 http://meta.vcdn.biz/44fa42b501e8e486cffe5c0781542d1b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24952791/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Страховой агент
+#EXTINF:0,Республика ШКИД (1966) (8.2)
+http://hls.kinoplayer.co/hls/Respublica.Shimd.DVDRip/playlist.m3u8
+#EXTINF:-1,Страховой агент
 http://meta.vcdn.biz/af6454f00ba765fe3659f190585ddd45_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692171/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Старый Новый год
+#EXTINF:-1,Старый Новый год
 http://meta.vcdn.biz/99739a48dfb79c8a34e4c3a8c19bdc04_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24938961/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Старый Новый год 2
+#EXTINF:-1,Старый Новый год 2
 http://meta.vcdn.biz/0110613a14f317ee1d8fe4cf7a20e23f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24938941/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Сталинград 1
+#EXTINF:-1,Сталинград 1
 http://meta.vcdn.biz/290a0da1d5b19cd3c20f68acd3469635_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24957121/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Сталинград 2
+#EXTINF:-1,Сталинград 2
 http://meta.vcdn.biz/f8984108556841bc64a1460b0200ffcf_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24960071/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Семейное счастье
+#EXTINF:-1,Семейное счастье
 http://meta.vcdn.biz/e5afccece7629b4d70833eb774251ef5_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775421/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Пеппи Длинный чулок 1
+#EXTINF:0,Полосатый рейс (1961) (8.0)
+http://hls.kinoplayer.co/hls/Polostiy.Reys.1961.HDRip/playlist.m3u8
+#EXTINF:-1,Пеппи Длинный чулок 1
 http://meta.vcdn.biz/3bf5c8b04957dcd48612f34d16da4b48_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24965411/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Пеппи Длинный чулок 2
+#EXTINF:-1,Пеппи Длинный чулок 2
 http://meta.vcdn.biz/4d3e1ea753c3c3cfd6141505e86ab9d2_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24965421/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Охота на лис
+#EXTINF:0,Подкидыш (1940) (8.1)
+http://hls.kinoplayer.co/hls/Podkidish.1939.HDRip/playlist.m3u8
+#EXTINF:-1,Охота на лис
 http://meta.vcdn.biz/15d27e40e2fc65bfe708c67239a4dd97_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775871/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Ответный ход
+#EXTINF:-1,Ответный ход
 http://meta.vcdn.biz/cbaf00ee521c9dc62c450d437643f823_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775891/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Освобождение: Прорыв
+#EXTINF:-1,Освобождение: Прорыв
 http://meta.vcdn.biz/a58c6b2ebb833591060ae62a657a052f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775911/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Освобождение: Последний штурм
+#EXTINF:-1,Освобождение: Последний штурм
 http://meta.vcdn.biz/fffba6727c641ee1262a168b31190e58_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775931/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Освобождение: Огненная дуга
+#EXTINF:-1,Освобождение: Огненная дуга
 http://meta.vcdn.biz/b8846243f952a88ca89cb0d3e44cf650_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775961/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Освобождение: Направление главного удара 1
+#EXTINF:-1,Освобождение: Направление главного удара 1
 http://meta.vcdn.biz/f4b4d8c15c6bad3f9c51d791300d636f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24945541/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Освобождение: Направление главного удара 2
+#EXTINF:-1,Освобождение: Направление главного удара 2
 http://meta.vcdn.biz/e11303c9318baa011d8774536723b67d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24946321/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Освобождение: Битва за Берлин
+#EXTINF:-1,Освобождение: Битва за Берлин
 http://meta.vcdn.biz/f0e623cbcc6618172ae50ec7fec07ae7_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776031/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Одиноким предоставляется общежитие
+#EXTINF:-1,Одиноким предоставляется общежитие
 http://meta.vcdn.biz/ae46553f24898b09ce0c8ed6146cd7c5_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776101/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,О бедном гусаре замолвите слово
+#EXTINF:-1,О бедном гусаре замолвите слово
 http://meta.vcdn.biz/46d371bce80bfb47e60e42b4e1b910a2_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24937361/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,О бедном гусаре замолвите слово 2
+#EXTINF:-1,О бедном гусаре замолвите слово 2
 http://meta.vcdn.biz/b85ca13635675823746d2cae6b13dca7_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24925451/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Не горюй!
+#EXTINF:-1,Не горюй!
 http://meta.vcdn.biz/346609bf44481fe4f9c585d7ab1711c2_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776351/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Назначение
+#EXTINF:-1,Назначение
 http://meta.vcdn.biz/12da6b0669b19ac677c951962f867dff_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776381/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Много шума из ничего
+#EXTINF:-1,Много шума из ничего
 http://meta.vcdn.biz/5761aabbe64c9b70f878cdf80a8a1340_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776781/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Михайло Ломоносов
+#EXTINF:-1,Михайло Ломоносов
 http://meta.vcdn.biz/292265c10f1aaaa52a7e9001509c6d7b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924411/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Михайло Ломоносов 2
+#EXTINF:-1,Михайло Ломоносов 2
 http://meta.vcdn.biz/c870ed741cdae6d0f37af2748f89f684_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924421/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Михайло Ломоносов 3
+#EXTINF:-1,Михайло Ломоносов 3
 http://meta.vcdn.biz/912367801cd9742197a8181f0e8c55cb_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924431/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Жили три холостяка
+#EXTINF:-1,Жили три холостяка
 http://meta.vcdn.biz/24651cd085552bdcfd765c57bf946b9b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24946131/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Жили три холостяка 2
+#EXTINF:-1,Жили три холостяка 2
 http://meta.vcdn.biz/d770d87fa66538428bfb21ab656ecb70_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24946111/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Живые и мертвые
+#EXTINF:-1,Живые и мертвые
 http://meta.vcdn.biz/a19819dca0fc7a28aeead7e1bc4bcb39_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924961/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Живые и мертвые 2
+#EXTINF:-1,Живые и мертвые 2
 http://meta.vcdn.biz/c626a9891213626276269a20315646bb_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924971/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Жених с того света
+#EXTINF:-1,Жених с того света
 http://meta.vcdn.biz/4a50aa5a2c4acd054a438d603f95716a_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18237261/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Добряки
+#EXTINF:-1,Добряки
 http://meta.vcdn.biz/f7b77c8c4bf63e717e005361184f1e2f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18257101/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Дети понедельника
+#EXTINF:-1,Дети понедельника
 http://meta.vcdn.biz/ceb60d61667422606895a55500b30a96_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18257141/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Без срока давности
+#EXTINF:-1,Без срока давности
 http://meta.vcdn.biz/f8639d51a2759559f0ec3a6929f0d256_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/18363131/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Смешные люди!
+#EXTINF:-1,Смешные люди!
 http://meta.vcdn.biz/9cb27ff95fad32d3d4077a23fcf85832_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17748511/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Земля Санникова
+#EXTINF:-1,Земля Санникова
 http://meta.vcdn.biz/90bf7b5b141453a7c241586d3e96300e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18236141/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Новые приключения неуловимых
+#EXTINF:-1,Новые приключения неуловимых
 http://meta.vcdn.biz/ef5c5e1ae28d285972d5c01f9f957758_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/17776181/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вий
+#EXTINF:-1,Вий
 http://meta.vcdn.biz/c9be47eeeafd2f2a30378734b7cefd33_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/18344141/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Холодное лето пятьдесят третьего
+#EXTINF:-1,Холодное лето пятьдесят третьего
 http://meta.vcdn.biz/37e9109329088a0c46026399768fe52d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692001/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Служили два товарища
+#EXTINF:-1,Служили два товарища
 http://meta.vcdn.biz/b71503f39c5e9921fecdead772bc1d00_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17748581/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Белый тигр
+#EXTINF:-1,Белый тигр
 http://meta.vcdn.biz/2b363bb7b35bbf00d2ce3b7d996765bb_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17551451/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Самая обаятельная и привлекательная
+#EXTINF:-1,Самая обаятельная и привлекательная
 http://meta.vcdn.biz/305590e865a3e1bf42d5341174eb62a4_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17553181/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,По семейным обстоятельствам
+#EXTINF:-1,По семейным обстоятельствам
 http://meta.vcdn.biz/6b0ded1ea497d3326d0af848e1c0646f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24937681/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,По семейным обстоятельствам 2
+#EXTINF:-1,По семейным обстоятельствам 2
 http://meta.vcdn.biz/9b21a78e74fb6db803973e9b32a985ce_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24937691/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,За спичками
+#EXTINF:-1,За спичками
 http://meta.vcdn.biz/fe3b11d5c8da9809990f947a5df572b7_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17553681/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Женитьба Бальзаминова
+#EXTINF:-1,Женитьба Бальзаминова
 http://meta.vcdn.biz/52ef1e557c0c0673256ea7fe625e72fa_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17553741/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Сказка о потерянном времени
+#EXTINF:-1,Сказка о потерянном времени
 http://meta.vcdn.biz/d476762ce52a87081f8acda973abe31e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17748951/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Формула любви
+#EXTINF:-1,Формула любви
 http://meta.vcdn.biz/0e6b6958ab013c711e0bc38a026290f1_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17553441/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Зигзаг удачи
+#EXTINF:-1,Зигзаг удачи
 http://meta.vcdn.biz/ae5bbe473946b6582bbc8a06f54eaa44_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18236071/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Добро пожаловать, или Посторонним вход воспрещен
+#EXTINF:-1, или Посторонним вход воспрещен
 http://meta.vcdn.biz/5956cfd3fba3f397f5614e0018e21242_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17553771/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Осенний марафон
+#EXTINF:-1,Осенний марафон
 http://meta.vcdn.biz/e0da1d6e6f5a90b2310fa071c8328e4d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17554301/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Спортлото-82
+#EXTINF:-1,Спортлото-82
 http://meta.vcdn.biz/145c9e203d28da3b2b063dca27a7f21b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17554581/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Дача
+#EXTINF:-1,Дача
 http://meta.vcdn.biz/efff6e53d870ad03e9a347e60f211a93_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18257371/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Они сражались за Родину
+#EXTINF:-1,Они сражались за Родину
 http://meta.vcdn.biz/1ef46063beb329e39f5b51bd95f9a0d9_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24917531/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Они сражались за Родину 2
+#EXTINF:-1,Они сражались за Родину 2
 http://meta.vcdn.biz/d3b0beb47d645191082e2474135c75a6_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/24936861/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Где находится нофелет?
+#EXTINF:-1,Где находится нофелет?
 http://meta.vcdn.biz/0bbf89386d81c6f36d867f7479a2aa16_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17555581/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Взрослые дети
+#EXTINF:-1,Взрослые дети
 http://meta.vcdn.biz/88d6614df75293acc9859d7166fb59f1_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18344171/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Сто грамм» для храбрости
+#EXTINF:-1,Сто грамм» для храбрости
 http://meta.vcdn.biz/ce838197f82bc229f732c2f8188aff61_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/17748281/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Старый знакомый
+#EXTINF:-1,Старый знакомый
 http://meta.vcdn.biz/2bbfb2d58f47a5c5d9d3c149280604db_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17748331/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Неподдающиеся
+#EXTINF:-1,Неподдающиеся
 http://meta.vcdn.biz/fe0105fe334012118b3923af1fe132a8_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17776251/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Любимая женщина механика Гаврилова
+#EXTINF:-1,Любимая женщина механика Гаврилова
 http://meta.vcdn.biz/1a8b897007c12c0b13308c03458e7869_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17786441/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Интердевочка
+#EXTINF:-1,Интердевочка
 http://meta.vcdn.biz/c96031e108aa34035f50456260e7e8fa_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24946261/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Интердевочка 2
+#EXTINF:-1,Интердевочка 2
 http://meta.vcdn.biz/89897a6040cfc217854f7976e73c83ad_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24946251/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,За витриной универмага
+#EXTINF:-1,За витриной универмага
 http://meta.vcdn.biz/928b5bb263bb0e3a1c4008f341dfa7c5_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18236971/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Версия полковника Зорина
+#EXTINF:-1,Версия полковника Зорина
 http://meta.vcdn.biz/45efaa7d327d11f96914e70ff5c19db0_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18344391/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Вас ожидает гражданка Никанорова
+#EXTINF:-1,Вас ожидает гражданка Никанорова
 http://meta.vcdn.biz/03540eb4742b841ca62b531dcd27afdb_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18344451/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Будьте моим мужем
+#EXTINF:-1,Будьте моим мужем
 http://meta.vcdn.biz/e13e5b2977aaa37fa3a99199aeef880f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18362911/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Битва за Москву
+#EXTINF:-1,Битва за Москву
 http://meta.vcdn.biz/1598c5ff41a7a1d6b696e0d5b1ad7af1_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24919481/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Битва за Москву 2
+#EXTINF:-1,Битва за Москву 2
 http://meta.vcdn.biz/9226a46d09ab1f4dc9c07eb22dd62918_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24919491/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Битва за Москву 3
+#EXTINF:-1,Битва за Москву 3
 http://meta.vcdn.biz/ad85451bb595417aba476471154b94e9_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24919501/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Битва за Москву 4
+#EXTINF:-1,Битва за Москву 4
 http://meta.vcdn.biz/bc04dfa8a8525bebc2eee46c76d8dc44_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24919511/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Белорусский вокзал
+#EXTINF:-1,Белорусский вокзал
 http://meta.vcdn.biz/e4567ec3e404c9d5084fec6a4e67ee0d_megogo/vod/hls/b/450_900_1350_1500_2000_5000/u_sid/0/o/18363091/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Безумный день
+#EXTINF:-1,Безумный день
 http://meta.vcdn.biz/627520163cae9640a8c042f688cf306d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18363101/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Батальоны просят огня
+#EXTINF:-1,Батальоны просят огня
 http://meta.vcdn.biz/0b45c95286ad2b624bf41a2902558bbc_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24936891/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Батальоны просят огня 2
+#EXTINF:-1,Батальоны просят огня 2
 http://meta.vcdn.biz/211277195c9def29307787e651293a03_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24937601/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Батальоны просят огня 3
+#EXTINF:-1,Батальоны просят огня 3
 http://meta.vcdn.biz/c1f508908ba0e67d671454d1d59c76fa_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24936901/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
-#EXTINF:0,Батальоны просят огня 4
+#EXTINF:-1,Батальоны просят огня 4
 http://meta.vcdn.biz/db1a9743a9710730578a07fb54ed375a_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24937611/u_uid/181014742/u_vod/4/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
