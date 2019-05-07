@@ -1,79 +1,38 @@
-﻿#EXTM3U
-#EXTINF:0,	Сонька Золотая Ручка	Серия 1
+#EXTM3U
+#
+EXTINF:0, Сонька. Серия 1
 #EXTGRP:Сонька Золотая Ручка
 https://calcium.cdn.apollostream.xyz/6f25552ccb4510651639cd86d98966d2:2019050717:1542504171/flv/480-cae23f7317339052ac44f95790f22cc5.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 2
+#EXTINF:0,	Сонька. Серия 2
 #EXTGRP:Сонька Золотая Ручка
 https://niobium.cdn.apollostream.xyz/2d021d7a8aaf364c643c23484eb9cb40:2019050717:1542504171/flv/480-bd419a234a889fc937cd711fd2f56397.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 3
+#EXTINF:0,	Сонька. Серия 3
 #EXTGRP:Сонька Золотая Ручка
 https://cadmium.cdn.apollostream.xyz/8f72757d167b6a0a383691ddf3fbac63:2019050717:1542504171/flv/480-2e5d8522f7c601ad8a8279f90f91c231.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 4
+#EXTINF:0,	Сонька. Серия 4
 #EXTGRP:Сонька Золотая Ручка
 https://osmium.cdn.apollostream.xyz/9e4290568b6074e9ff4f83131d27acbe:2019050717:1542504171/flv/480-2b131d2f6e1a27e3e20cb8fd310e408a.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 5
+#EXTINF:0,	Сонька. Серия 5
 #EXTGRP:Сонька Золотая Ручка
 https://vegas.cdn.apollostream.xyz/aa07ff3db3efa8933ce663d64eb45443:2019050717:1542504171/flv/480-3e5d552eab5a962d22ae63ad32c10300.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 6
+#EXTINF:0,	Сонька. Серия 6
 #EXTGRP:Сонька Золотая Ручка
 https://petra.cdn.apollostream.xyz/827f11d16061a59226ec8e2354913659:2019050717:1542504171/flv/480-c353803faebe00d782c6fd336c35eff5.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 7
+#EXTINF:0,	Сонька. Серия 7
 #EXTGRP:Сонька Золотая Ручка
 https://ununbium.cdn.apollostream.xyz/cddb7fb060f43f7dcf8c00320eda732c:2019050717:1542504171/flv/480-9a1e36854e7e1ff50576e29f57f005d5.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 8
+#EXTINF:0,	Сонька. Серия 8
 #EXTGRP:Сонька Золотая Ручка
 https://phosphorus.cdn.apollostream.xyz/eaace689df385e794eaacd6aef08e0d0:2019050717:1542504171/flv/480-78818ef063d86f4ffe7a8773f3ff0adf.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 9
+#EXTINF:0,	Сонька. Серия 9
 #EXTGRP:Сонька Золотая Ручка
 https://louvre.cdn.apollostream.xyz/642949ea7b989a0c870ff17658787847:2019050717:1542504171/flv/480-2b2cb61aad75f66426d456c35e2a633e.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 10
+#EXTINF:0,	Сонька. Серия 10
 #EXTGRP:Сонька Золотая Ручка
 https://petra.cdn.apollostream.xyz/8dc5dff23fc42daa1ec7483959709ab1:2019050717:1542504171/flv/480-de9ca44f2bda0ed7d98d359635d29797.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 11
+#EXTINF:0,	Сонька. Серия 11
 #EXTGRP:Сонька Золотая Ручка
 https://osmium.cdn.apollostream.xyz/883285d6729a53146e2551a764fba6ab:2019050717:1542504171/flv/480-f14ff9156fb4aeeb40e16b2378f0ccfd.mp4
-#EXTINF:0,	Сонька Золотая Ручка	Серия 12
+#EXTINF:0,	Сонька. Серия 12
 #EXTGRP:Сонька Золотая Ручка
 https://louvre.cdn.apollostream.xyz/fb8b2e29cb63f6a8936fb3934c6f9e20:2019050717:1542504171/flv/480-1ca466ec11ca1057f2987c7c6b7aa223.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 1
-#EXTGRP:Сонька Золотая Ручка
-http://data05-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.01.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 2
-#EXTGRP:Сонька Золотая Ручка
-http://data12-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.02.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 3
-#EXTGRP:Сонька Золотая Ручка
-http://data04-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.03.serija.iz.14.2010.DivX.DVDRip.a1.07.04.09.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 4
-#EXTGRP:Сонька Золотая Ручка
-http://data09-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.04.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 5
-#EXTGRP:Сонька Золотая Ручка
-http://data05-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.05.serija.iz.14.2010.DivX.DVDRip.a1.07.04.09.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 6
-#EXTGRP:Сонька Золотая Ручка
-http://data09-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.06.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 7
-#EXTGRP:Сонька Золотая Ручка
-http://data08-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.07.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 8
-#EXTGRP:Сонька Золотая Ручка
-http://data07-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.08.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 9
-#EXTGRP:Сонька Золотая Ручка
-http://data12-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.09.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 10
-#EXTGRP:Сонька Золотая Ручка
-http://data12-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.10.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 11
-#EXTGRP:Сонька Золотая Ручка
-http://data05-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.11.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 12
-#EXTGRP:Сонька Золотая Ручка
-http://data08-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.12.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 13
-#EXTGRP:Сонька Золотая Ручка
-http://data03-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.13.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
-#EXTINF:0,	Сонька: Продолжение легенды	Серия 14
-#EXTGRP:Сонька Золотая Ручка
-http://data12-cdn.datalock.ru/fi2lm/69da06e4fce44914629cb9af2ae6864b/7f_Sonka.Prodolzhenie.legendy.2.sezon.14.serija.iz.14.2010.DivX.DVDRip.a1.02.08.12.mp4
