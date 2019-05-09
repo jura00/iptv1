@@ -1,803 +1,803 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="UA: Перший" tvg-name="UA: Перший" tvg-logo="Logo N/A" group-title="Украина",UA: Перший
+#EXTM3U
+#EXTINF:-1 tvg-id="UA: Перший" tvg-name="UA: Перший" tvg-logo="Logo N/A" group-title="New Group",UA: Перший
 http://play.lanet.tv/index/9001.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="1+1" tvg-name="1+1" tvg-logo="Logo N/A" group-title="Украина",1+1
+#EXTINF:-1 tvg-id="1+1" tvg-name="1+1" tvg-logo="Logo N/A" group-title="New Group",1+1
 http://play.lanet.tv/index/9002.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Інтер" tvg-name="Інтер" tvg-logo="Logo N/A" group-title="Украина",Інтер
+#EXTINF:-1 tvg-id="Інтер" tvg-name="Інтер" tvg-logo="Logo N/A" group-title="New Group",Інтер
 http://play.lanet.tv/index/9005.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ICTV" tvg-name="ICTV" tvg-logo="Logo N/A" group-title="Украина",ICTV
+#EXTINF:-1 tvg-id="ICTV" tvg-name="ICTV" tvg-logo="Logo N/A" group-title="New Group",ICTV
 http://play.lanet.tv/index/9004.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Україна" tvg-name="Україна" tvg-logo="Logo N/A" group-title="Украина",Україна
+#EXTINF:-1 tvg-id="Україна" tvg-name="Україна" tvg-logo="Logo N/A" group-title="New Group",Україна
 http://play.lanet.tv/index/9008.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="СТБ" tvg-name="СТБ" tvg-logo="Logo N/A" group-title="Украина",СТБ
+#EXTINF:-1 tvg-id="СТБ" tvg-name="СТБ" tvg-logo="Logo N/A" group-title="New Group",СТБ
 http://play.lanet.tv/index/9007.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Мега" tvg-name="Мега" tvg-logo="Logo N/A" group-title="Украина",Мега
+#EXTINF:-1 tvg-id="Мега" tvg-name="Мега" tvg-logo="Logo N/A" group-title="New Group",Мега
 http://play.lanet.tv/index/9021.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Новий канал" tvg-name="Новий канал" tvg-logo="Logo N/A" group-title="Украина",Новий канал
+#EXTINF:-1 tvg-id="Новий канал" tvg-name="Новий канал" tvg-logo="Logo N/A" group-title="New Group",Новий канал
 http://play.lanet.tv/index/9006.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="НЛО TV" tvg-name="НЛО TV" tvg-logo="Logo N/A" group-title="Украина",НЛО TV
+#EXTINF:-1 tvg-id="НЛО TV" tvg-name="НЛО TV" tvg-logo="Logo N/A" group-title="New Group",НЛО TV
 http://play.lanet.tv/index/9024.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="НТН" tvg-name="НТН" tvg-logo="Logo N/A" group-title="Украина",НТН
+#EXTINF:-1 tvg-id="НТН" tvg-name="НТН" tvg-logo="Logo N/A" group-title="New Group",НТН
 http://play.lanet.tv/index/9009.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ТЕТ" tvg-name="ТЕТ" tvg-logo="Logo N/A" group-title="Украина",ТЕТ
+#EXTINF:-1 tvg-id="ТЕТ" tvg-name="ТЕТ" tvg-logo="Logo N/A" group-title="New Group",ТЕТ
 http://play.lanet.tv/index/9010.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="2+2" tvg-name="2+2" tvg-logo="Logo N/A" group-title="Украина",2+2
+#EXTINF:-1 tvg-id="2+2" tvg-name="2+2" tvg-logo="Logo N/A" group-title="New Group",2+2
 http://play.lanet.tv/index/9016.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="Квартал" group-title="Украина",Квартал
+#EXTINF:-1 tvg-name="Квартал" group-title="New Group",Квартал
 http://185.41.23.27:8000/play/a030
-#EXTINF:-1 tvg-id="Enter-фільм" tvg-name="Enter-фільм" tvg-logo="Logo N/A" group-title="Украина",Enter-фільм
+#EXTINF:-1 tvg-id="Enter-фільм" tvg-name="Enter-фільм" tvg-logo="Logo N/A" group-title="New Group",Enter-фільм
 http://play.lanet.tv/index/9023.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="Донбас" group-title="Украина",Донбас
+#EXTINF:-1 tvg-name="Донбас" group-title="New Group",Донбас
 http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
-#EXTINF:-1 tvg-id="ОЦЕ" tvg-name="ОЦЕ" tvg-logo="Logo N/A" group-title="Украина",ОЦЕ
+#EXTINF:-1 tvg-id="ОЦЕ" tvg-name="ОЦЕ" tvg-logo="Logo N/A" group-title="New Group",ОЦЕ
 http://play.lanet.tv/index/9022.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="К1" tvg-name="К1" tvg-logo="Logo N/A" group-title="Украина",К1
+#EXTINF:-1 tvg-id="К1" tvg-name="К1" tvg-logo="Logo N/A" group-title="New Group",К1
 http://play.lanet.tv/index/9012.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="К2" tvg-name="К2" tvg-logo="Logo N/A" group-title="Украина",К2
+#EXTINF:-1 tvg-id="К2" tvg-name="К2" tvg-logo="Logo N/A" group-title="New Group",К2
 http://play.lanet.tv/index/9020.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="Терра" group-title="Украина",Терра
+#EXTINF:-1 tvg-name="Терра" group-title="New Group",Терра
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0007)/index.m3u8
-#EXTINF:-1 tvg-name="Наука (UA)" group-title="Украина",Наука (UA)
+#EXTINF:-1 tvg-name="Наука (UA)" group-title="New Group",Наука (UA)
 https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0032)/index.m3u8
-#EXTINF:-1 tvg-id="Sirius" tvg-name="Sirius" tvg-logo="Logo N/A" group-title="Украина",Sirius
+#EXTINF:-1 tvg-id="Sirius" tvg-name="Sirius" tvg-logo="Logo N/A" group-title="New Group",Sirius
 http://play.lanet.tv/index/1019.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="112 Україна" tvg-name="112 Україна" tvg-logo="Logo N/A" group-title="Украина",112 Україна
+#EXTINF:-1 tvg-id="112 Україна" tvg-name="112 Україна" tvg-logo="Logo N/A" group-title="New Group",112 Україна
 http://play.lanet.tv/index/9053.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Прямий" tvg-name="Прямий" tvg-logo="Logo N/A" group-title="Украина",Прямий
+#EXTINF:-1 tvg-id="Прямий" tvg-name="Прямий" tvg-logo="Logo N/A" group-title="New Group",Прямий
 http://play.lanet.tv/index/9011.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Oboz TV" tvg-name="Oboz TV" tvg-logo="Logo N/A" group-title="Украина",Oboz TV
+#EXTINF:-1 tvg-id="Oboz TV" tvg-name="Oboz TV" tvg-logo="Logo N/A" group-title="New Group",Oboz TV
 http://play.lanet.tv/index/9032.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="NewsOne" group-title="Украина",NewsOne
+#EXTINF:-1 tvg-name="NewsOne" group-title="New Group",NewsOne
 http://185.41.23.27:8000/play/a02e
-#EXTINF:-1 tvg-id="Всі новини" tvg-name="Всі новини" tvg-logo="Logo N/A" group-title="Украина",Всі новини
+#EXTINF:-1 tvg-id="Всі новини" tvg-name="Всі новини" tvg-logo="Logo N/A" group-title="New Group",Всі новини
 http://play.lanet.tv/index/9183.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Перший Діловий" tvg-name="Перший Діловий" tvg-logo="Logo N/A" group-title="Украина",Перший Діловий
+#EXTINF:-1 tvg-id="Перший Діловий" tvg-name="Перший Діловий" tvg-logo="Logo N/A" group-title="New Group",Перший Діловий
 http://play.lanet.tv/index/9037.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Еспресо" tvg-name="Еспресо" tvg-logo="Logo N/A" group-title="Украина",Еспресо
+#EXTINF:-1 tvg-id="Еспресо" tvg-name="Еспресо" tvg-logo="Logo N/A" group-title="New Group",Еспресо
 http://play.lanet.tv/index/9060.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="24 Канал" tvg-name="24 Канал" tvg-logo="Logo N/A" group-title="Украина",24 Канал
+#EXTINF:-1 tvg-id="24 Канал" tvg-name="24 Канал" tvg-logo="Logo N/A" group-title="New Group",24 Канал
 http://play.lanet.tv/index/9035.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ZIK" tvg-name="ZIK" tvg-logo="Logo N/A" group-title="Украина",ZIK
+#EXTINF:-1 tvg-id="ZIK" tvg-name="ZIK" tvg-logo="Logo N/A" group-title="New Group",ZIK
 http://play.lanet.tv/index/9031.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Zoom" tvg-name="Zoom" tvg-logo="Logo N/A" group-title="Украина",Zoom
+#EXTINF:-1 tvg-id="Zoom" tvg-name="Zoom" tvg-logo="Logo N/A" group-title="New Group",Zoom
 http://play.lanet.tv/index/9027.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="Макси ТВ" group-title="Украина",Макси ТВ
+#EXTINF:-1 tvg-name="Макси ТВ" group-title="New Group",Макси ТВ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1 tvg-id="Київ" tvg-name="Київ" tvg-logo="Logo N/A" group-title="Украина",Київ
+#EXTINF:-1 tvg-id="Київ" tvg-name="Київ" tvg-logo="Logo N/A" group-title="New Group",Київ
 http://play.lanet.tv/index/9003.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Рада" tvg-name="Рада" tvg-logo="Logo N/A" group-title="Украина",Рада
+#EXTINF:-1 tvg-id="Рада" tvg-name="Рада" tvg-logo="Logo N/A" group-title="New Group",Рада
 http://play.lanet.tv/index/9018.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Канал 402" tvg-name="Канал 402" tvg-logo="Logo N/A" group-title="Украина",Канал 402
+#EXTINF:-1 tvg-id="Канал 402" tvg-name="Канал 402" tvg-logo="Logo N/A" group-title="New Group",Канал 402
 http://play.lanet.tv/index/9061.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Skrypin UA" tvg-name="Skrypin UA" tvg-logo="Logo N/A" group-title="Украина",Skrypin UA
+#EXTINF:-1 tvg-id="Skrypin UA" tvg-name="Skrypin UA" tvg-logo="Logo N/A" group-title="New Group",Skrypin UA
 http://play.lanet.tv/index/1008.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ukraїner" tvg-name="Ukraїner" tvg-logo="Logo N/A" group-title="Украина",Ukraїner
+#EXTINF:-1 tvg-id="Ukraїner" tvg-name="Ukraїner" tvg-logo="Logo N/A" group-title="New Group",Ukraїner
 http://play.lanet.tv/index/1028.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Перший Київський" tvg-name="Перший Київський" tvg-logo="Logo N/A" group-title="Украина",Перший Київський
+#EXTINF:-1 tvg-id="Перший Київський" tvg-name="Перший Київський" tvg-logo="Logo N/A" group-title="New Group",Перший Київський
 http://play.lanet.tv/index/9184.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Paramount Comedy" tvg-name="Paramount Comedy" tvg-logo="Logo N/A" group-title="Украина",Paramount Comedy
+#EXTINF:-1 tvg-id="Paramount Comedy" tvg-name="Paramount Comedy" tvg-logo="Logo N/A" group-title="New Group",Paramount Comedy
 http://play.lanet.tv/index/9188.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ПравдаТУТ" tvg-name="ПравдаТУТ" tvg-logo="Logo N/A" group-title="Украина",ПравдаТУТ
+#EXTINF:-1 tvg-id="ПравдаТУТ" tvg-name="ПравдаТУТ" tvg-logo="Logo N/A" group-title="New Group",ПравдаТУТ
 http://play.lanet.tv/index/9094.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ПравдаТУТ Київ" tvg-name="ПравдаТУТ Київ" tvg-logo="Logo N/A" group-title="Украина",ПравдаТУТ Київ
+#EXTINF:-1 tvg-id="ПравдаТУТ Київ" tvg-name="ПравдаТУТ Київ" tvg-logo="Logo N/A" group-title="New Group",ПравдаТУТ Київ
 http://play.lanet.tv/index/1017.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ПравдаТУТ Львів" tvg-name="ПравдаТУТ Львів" tvg-logo="Logo N/A" group-title="Украина",ПравдаТУТ Львів
+#EXTINF:-1 tvg-id="ПравдаТУТ Львів" tvg-name="ПравдаТУТ Львів" tvg-logo="Logo N/A" group-title="New Group",ПравдаТУТ Львів
 http://play.lanet.tv/index/9196.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="М1" tvg-name="М1" tvg-logo="Logo N/A" group-title="Украина",М1
+#EXTINF:-1 tvg-id="М1" tvg-name="М1" tvg-logo="Logo N/A" group-title="New Group",М1
 http://play.lanet.tv/index/9013.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="М2" tvg-name="М2" tvg-logo="Logo N/A" group-title="Украина",М2
+#EXTINF:-1 tvg-id="М2" tvg-name="М2" tvg-logo="Logo N/A" group-title="New Group",М2
 http://play.lanet.tv/index/9029.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="КРТ" tvg-name="КРТ" tvg-logo="Logo N/A" group-title="Украина",КРТ
+#EXTINF:-1 tvg-id="КРТ" tvg-name="КРТ" tvg-logo="Logo N/A" group-title="New Group",КРТ
 http://play.lanet.tv/index/9049.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Малятко TV" tvg-name="Малятко TV" tvg-logo="Logo N/A" group-title="Украина",Малятко TV
+#EXTINF:-1 tvg-id="Малятко TV" tvg-name="Малятко TV" tvg-logo="Logo N/A" group-title="New Group",Малятко TV
 http://play.lanet.tv/index/9052.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Сонце" tvg-name="Сонце" tvg-logo="Logo N/A" group-title="Украина",Сонце
+#EXTINF:-1 tvg-id="Сонце" tvg-name="Сонце" tvg-logo="Logo N/A" group-title="New Group",Сонце
 http://play.lanet.tv/index/9063.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="Logo N/A" group-title="Украина",Duck TV
+#EXTINF:-1 tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="Logo N/A" group-title="New Group",Duck TV
 http://play.lanet.tv/index/9096.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="12 канал" tvg-name="12 канал" tvg-logo="Logo N/A" group-title="Украина",12 канал
+#EXTINF:-1 tvg-id="12 канал" tvg-name="12 канал" tvg-logo="Logo N/A" group-title="New Group",12 канал
 http://play.lanet.tv/index/1018.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="3 Студія" tvg-name="3 Студія" tvg-logo="Logo N/A" group-title="Украина",3 Студія
+#EXTINF:-1 tvg-id="3 Студія" tvg-name="3 Студія" tvg-logo="Logo N/A" group-title="New Group",3 Студія
 http://play.lanet.tv/index/9171.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="UA: Донбас" tvg-name="UA: Донбас" tvg-logo="Logo N/A" group-title="Украина",UA: Донбас
+#EXTINF:-1 tvg-id="UA: Донбас" tvg-name="UA: Донбас" tvg-logo="Logo N/A" group-title="New Group",UA: Донбас
 http://play.lanet.tv/index/1014.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="UA: Житомир" tvg-name="UA: Житомир" tvg-logo="Logo N/A" group-title="Украина",UA: Житомир
+#EXTINF:-1 tvg-id="UA: Житомир" tvg-name="UA: Житомир" tvg-logo="Logo N/A" group-title="New Group",UA: Житомир
 http://play.lanet.tv/index/1012.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="UA: Крим" tvg-name="UA: Крим" tvg-logo="Logo N/A" group-title="Украина",UA: Крим
+#EXTINF:-1 tvg-id="UA: Крим" tvg-name="UA: Крим" tvg-logo="Logo N/A" group-title="New Group",UA: Крим
 http://play.lanet.tv/index/9163.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="UA: Культура" tvg-name="UA: Культура" tvg-logo="Logo N/A" group-title="Украина",UA: Культура
+#EXTINF:-1 tvg-id="UA: Культура" tvg-name="UA: Культура" tvg-logo="Logo N/A" group-title="New Group",UA: Культура
 http://play.lanet.tv/index/9066.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="UA: Рівне" tvg-name="UA: Рівне" tvg-logo="Logo N/A" group-title="Украина",UA: Рівне
+#EXTINF:-1 tvg-id="UA: Рівне" tvg-name="UA: Рівне" tvg-logo="Logo N/A" group-title="New Group",UA: Рівне
 http://play.lanet.tv/index/9200.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="36.6" tvg-name="36.6" tvg-logo="Logo N/A" group-title="Украина",36.6
+#EXTINF:-1 tvg-id="36.6" tvg-name="36.6" tvg-logo="Logo N/A" group-title="New Group",36.6
 http://play.lanet.tv/index/8211.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="4 канал" tvg-name="4 канал" tvg-logo="Logo N/A" group-title="Украина",4 канал
+#EXTINF:-1 tvg-id="4 канал" tvg-name="4 канал" tvg-logo="Logo N/A" group-title="New Group",4 канал
 http://play.lanet.tv/index/9203.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="5 канал" tvg-name="5 канал" tvg-logo="Logo N/A" group-title="Украина",5 канал
+#EXTINF:-1 tvg-id="5 канал" tvg-name="5 канал" tvg-logo="Logo N/A" group-title="New Group",5 канал
 http://play.lanet.tv/index/9014.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="УНІАН" tvg-name="УНІАН" tvg-logo="Logo N/A" group-title="Украина",УНІАН
+#EXTINF:-1 tvg-id="УНІАН" tvg-name="УНІАН" tvg-logo="Logo N/A" group-title="New Group",УНІАН
 http://play.lanet.tv/index/9065.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ЦК" tvg-name="ЦК" tvg-logo="Logo N/A" group-title="Украина",ЦК
+#EXTINF:-1 tvg-id="ЦК" tvg-name="ЦК" tvg-logo="Logo N/A" group-title="New Group",ЦК
 http://play.lanet.tv/index/9033.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ЧП.info" tvg-name="ЧП.info" tvg-logo="Logo N/A" group-title="Украина",ЧП.info
+#EXTINF:-1 tvg-id="ЧП.info" tvg-name="ЧП.info" tvg-logo="Logo N/A" group-title="New Group",ЧП.info
 http://play.lanet.tv/index/9039.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="8 канал" tvg-name="8 канал" tvg-logo="Logo N/A" group-title="Украина",8 канал
+#EXTINF:-1 tvg-id="8 канал" tvg-name="8 канал" tvg-logo="Logo N/A" group-title="New Group",8 канал
 http://play.lanet.tv/index/9055.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ATR" tvg-name="ATR" tvg-logo="Logo N/A" group-title="Украина",ATR
+#EXTINF:-1 tvg-id="ATR" tvg-name="ATR" tvg-logo="Logo N/A" group-title="New Group",ATR
 http://play.lanet.tv/index/9057.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Bambarbia TV" tvg-name="Bambarbia TV" tvg-logo="Logo N/A" group-title="Украина",Bambarbia TV
+#EXTINF:-1 tvg-id="Bambarbia TV" tvg-name="Bambarbia TV" tvg-logo="Logo N/A" group-title="New Group",Bambarbia TV
 http://play.lanet.tv/index/9156.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="CNL" tvg-name="CNL" tvg-logo="Logo N/A" group-title="Украина",CNL
+#EXTINF:-1 tvg-id="CNL" tvg-name="CNL" tvg-logo="Logo N/A" group-title="New Group",CNL
 http://play.lanet.tv/index/9089.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="English Club TV" tvg-name="English Club TV" tvg-logo="Logo N/A" group-title="Украина",English Club TV
+#EXTINF:-1 tvg-id="English Club TV" tvg-name="English Club TV" tvg-logo="Logo N/A" group-title="New Group",English Club TV
 http://play.lanet.tv/index/9058.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="EU Music" tvg-name="EU Music" tvg-logo="Logo N/A" group-title="Украина",EU Music
+#EXTINF:-1 tvg-id="EU Music" tvg-name="EU Music" tvg-logo="Logo N/A" group-title="New Group",EU Music
 http://play.lanet.tv/index/9025.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="Logo N/A" group-title="Украина",EuroNews
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="Logo N/A" group-title="New Group",EuroNews
 http://play.lanet.tv/index/9070.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="FilmUA Live" tvg-name="FilmUA Live" tvg-logo="Logo N/A" group-title="Украина",FilmUA Live
+#EXTINF:-1 tvg-id="FilmUA Live" tvg-name="FilmUA Live" tvg-logo="Logo N/A" group-title="New Group",FilmUA Live
 http://play.lanet.tv/index/9219.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ILand" tvg-name="ILand" tvg-logo="Logo N/A" group-title="Украина",ILand
+#EXTINF:-1 tvg-id="ILand" tvg-name="ILand" tvg-logo="Logo N/A" group-title="New Group",ILand
 http://play.lanet.tv/index/1013.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Lale" tvg-name="Lale" tvg-logo="Logo N/A" group-title="Украина",Lale
+#EXTINF:-1 tvg-id="Lale" tvg-name="Lale" tvg-logo="Logo N/A" group-title="New Group",Lale
 http://play.lanet.tv/index/9097.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Megogo Live" tvg-name="Megogo Live" tvg-logo="Logo N/A" group-title="Украина",Megogo Live
+#EXTINF:-1 tvg-id="Megogo Live" tvg-name="Megogo Live" tvg-logo="Logo N/A" group-title="New Group",Megogo Live
 http://play.lanet.tv/index/9210.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Music Box UA" tvg-name="Music Box UA" tvg-logo="Logo N/A" group-title="Украина",Music Box UA
+#EXTINF:-1 tvg-id="Music Box UA" tvg-name="Music Box UA" tvg-logo="Logo N/A" group-title="New Group",Music Box UA
 http://play.lanet.tv/index/9028.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="NASA.TV" tvg-name="NASA.TV" tvg-logo="Logo N/A" group-title="Украина",NASA.TV
+#EXTINF:-1 tvg-id="NASA.TV" tvg-name="NASA.TV" tvg-logo="Logo N/A" group-title="New Group",NASA.TV
 http://play.lanet.tv/index/9206.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="O-TV" tvg-name="O-TV" tvg-logo="Logo N/A" group-title="Украина",O-TV
+#EXTINF:-1 tvg-id="O-TV" tvg-name="O-TV" tvg-logo="Logo N/A" group-title="New Group",O-TV
 http://play.lanet.tv/index/9026.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="PAI" tvg-name="PAI" tvg-logo="Logo N/A" group-title="Украина",PAI
+#EXTINF:-1 tvg-id="PAI" tvg-name="PAI" tvg-logo="Logo N/A" group-title="New Group",PAI
 http://play.lanet.tv/index/9174.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="XSport" tvg-name="XSport" tvg-logo="Logo N/A" group-title="Украина",XSport
+#EXTINF:-1 tvg-id="XSport" tvg-name="XSport" tvg-logo="Logo N/A" group-title="New Group",XSport
 http://play.lanet.tv/index/9056.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Індиго TV" tvg-name="Індиго TV" tvg-logo="Logo N/A" group-title="Украина",Індиго TV
+#EXTINF:-1 tvg-id="Індиго TV" tvg-name="Індиго TV" tvg-logo="Logo N/A" group-title="New Group",Індиго TV
 http://play.lanet.tv/index/9087.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Антена" tvg-name="Антена" tvg-logo="Logo N/A" group-title="Украина",Антена
+#EXTINF:-1 tvg-id="Антена" tvg-name="Антена" tvg-logo="Logo N/A" group-title="New Group",Антена
 http://play.lanet.tv/index/1021.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Бужнет ТВ" tvg-name="Бужнет ТВ" tvg-logo="Logo N/A" group-title="Украина",Бужнет ТВ
+#EXTINF:-1 tvg-id="Бужнет ТВ" tvg-name="Бужнет ТВ" tvg-logo="Logo N/A" group-title="New Group",Бужнет ТВ
 http://play.lanet.tv/index/9129.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Бігуді" tvg-name="Бігуді" tvg-logo="Logo N/A" group-title="Украина",Бігуді
+#EXTINF:-1 tvg-id="Бігуді" tvg-name="Бігуді" tvg-logo="Logo N/A" group-title="New Group",Бігуді
 http://play.lanet.tv/index/9047.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Бігус.Інфо" tvg-name="Бігус.Інфо" tvg-logo="Logo N/A" group-title="Украина",Бігус.Інфо
+#EXTINF:-1 tvg-id="Бігус.Інфо" tvg-name="Бігус.Інфо" tvg-logo="Logo N/A" group-title="New Group",Бігус.Інфо
 http://play.lanet.tv/index/1016.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Вежа" tvg-name="Вежа" tvg-logo="Logo N/A" group-title="Украина",Вежа
+#EXTINF:-1 tvg-id="Вежа" tvg-name="Вежа" tvg-logo="Logo N/A" group-title="New Group",Вежа
 http://play.lanet.tv/index/9173.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Вечір з Яніною Соколовою" tvg-name="Вечір з Яніною Соколовою" tvg-logo="Logo N/A" group-title="Украина",Вечір з Яніною Соколовою
+#EXTINF:-1 tvg-id="Вечір з Яніною Соколовою" tvg-name="Вечір з Яніною Соколовою" tvg-logo="Logo N/A" group-title="New Group",Вечір з Яніною Соколовою
 http://play.lanet.tv/index/1027.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Вінтаж" tvg-name="Вінтаж" tvg-logo="Logo N/A" group-title="Украина",Вінтаж
+#EXTINF:-1 tvg-id="Вінтаж" tvg-name="Вінтаж" tvg-logo="Logo N/A" group-title="New Group",Вінтаж
 http://play.lanet.tv/index/9185.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Галичина" tvg-name="Галичина" tvg-logo="Logo N/A" group-title="Украина",Галичина
+#EXTINF:-1 tvg-id="Галичина" tvg-name="Галичина" tvg-logo="Logo N/A" group-title="New Group",Галичина
 http://play.lanet.tv/index/9166.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Глас" tvg-name="Глас" tvg-logo="Logo N/A" group-title="Украина",Глас
+#EXTINF:-1 tvg-id="Глас" tvg-name="Глас" tvg-logo="Logo N/A" group-title="New Group",Глас
 http://play.lanet.tv/index/9043.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Громадське" tvg-name="Громадське" tvg-logo="Logo N/A" group-title="Украина",Громадське
+#EXTINF:-1 tvg-id="Громадське" tvg-name="Громадське" tvg-logo="Logo N/A" group-title="New Group",Громадське
 http://play.lanet.tv/index/1001.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Дніпро TV" tvg-name="Дніпро TV" tvg-logo="Logo N/A" group-title="Украина",Дніпро TV
+#EXTINF:-1 tvg-id="Дніпро TV" tvg-name="Дніпро TV" tvg-logo="Logo N/A" group-title="New Group",Дніпро TV
 http://play.lanet.tv/index/1023.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Донеччина TV" tvg-name="Донеччина TV" tvg-logo="Logo N/A" group-title="Украина",Донеччина TV
+#EXTINF:-1 tvg-id="Донеччина TV" tvg-name="Донеччина TV" tvg-logo="Logo N/A" group-title="New Group",Донеччина TV
 http://play.lanet.tv/index/1020.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="ЕСКУЛАП-ТВ" group-title="Украина",ЕСКУЛАП-ТВ
+#EXTINF:-1 tvg-name="ЕСКУЛАП-ТВ" group-title="New Group",ЕСКУЛАП-ТВ
 http://46.175.163.130:7000/Eskulap
-#EXTINF:-1 tvg-id="Еко TV" tvg-name="Еко TV" tvg-logo="Logo N/A" group-title="Украина",Еко TV
+#EXTINF:-1 tvg-id="Еко TV" tvg-name="Еко TV" tvg-logo="Logo N/A" group-title="New Group",Еко TV
 http://play.lanet.tv/index/9045.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Надія" tvg-name="Надія" tvg-logo="Logo N/A" group-title="Украина",Надія
+#EXTINF:-1 tvg-id="Надія" tvg-name="Надія" tvg-logo="Logo N/A" group-title="New Group",Надія
 http://play.lanet.tv/index/9076.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Настоящее время" tvg-name="Настоящее время" tvg-logo="Logo N/A" group-title="Украина",Настоящее время
+#EXTINF:-1 tvg-id="Настоящее время" tvg-name="Настоящее время" tvg-logo="Logo N/A" group-title="New Group",Настоящее время
 http://play.lanet.tv/index/9119.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Наш" tvg-name="Наш" tvg-logo="Logo N/A" group-title="Украина",Наш
+#EXTINF:-1 tvg-id="Наш" tvg-name="Наш" tvg-logo="Logo N/A" group-title="New Group",Наш
 http://play.lanet.tv/index/9201.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Наш Kids" tvg-name="Наш Kids" tvg-logo="Logo N/A" group-title="Украина",Наш Kids
+#EXTINF:-1 tvg-id="Наш Kids" tvg-name="Наш Kids" tvg-logo="Logo N/A" group-title="New Group",Наш Kids
 http://play.lanet.tv/index/9209.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Наше Music" tvg-name="Наше Music" tvg-logo="Logo N/A" group-title="Украина",Наше Music
+#EXTINF:-1 tvg-id="Наше Music" tvg-name="Наше Music" tvg-logo="Logo N/A" group-title="New Group",Наше Music
 http://play.lanet.tv/index/9208.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Перший Західний" tvg-name="Перший Західний" tvg-logo="Logo N/A" group-title="Украина",Перший Західний
+#EXTINF:-1 tvg-id="Перший Західний" tvg-name="Перший Західний" tvg-logo="Logo N/A" group-title="New Group",Перший Західний
 http://play.lanet.tv/index/9099.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="ПлюсПлюс" tvg-name="ПлюсПлюс" tvg-logo="Logo N/A" group-title="Украина",ПлюсПлюс
+#EXTINF:-1 tvg-id="ПлюсПлюс" tvg-name="ПлюсПлюс" tvg-logo="Logo N/A" group-title="New Group",ПлюсПлюс
 http://play.lanet.tv/index/9017.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Південна Хвиля" tvg-name="Південна Хвиля" tvg-logo="Logo N/A" group-title="Украина",Південна Хвиля
+#EXTINF:-1 tvg-id="Південна Хвиля" tvg-name="Південна Хвиля" tvg-logo="Logo N/A" group-title="New Group",Південна Хвиля
 http://play.lanet.tv/index/1009.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Піксель" tvg-name="Піксель" tvg-logo="Logo N/A" group-title="Украина",Піксель
+#EXTINF:-1 tvg-id="Піксель" tvg-name="Піксель" tvg-logo="Logo N/A" group-title="New Group",Піксель
 http://play.lanet.tv/index/9030.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Рівне 1" tvg-name="Рівне 1" tvg-logo="Logo N/A" group-title="Украина",Рівне 1
+#EXTINF:-1 tvg-id="Рівне 1" tvg-name="Рівне 1" tvg-logo="Logo N/A" group-title="New Group",Рівне 1
 http://play.lanet.tv/index/1022.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="СК1" tvg-name="СК1" tvg-logo="Logo N/A" group-title="Украина",СК1
+#EXTINF:-1 tvg-id="СК1" tvg-name="СК1" tvg-logo="Logo N/A" group-title="New Group",СК1
 http://play.lanet.tv/index/1010.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Телевсесвіт" tvg-name="Телевсесвіт" tvg-logo="Logo N/A" group-title="Украина",Телевсесвіт
+#EXTINF:-1 tvg-id="Телевсесвіт" tvg-name="Телевсесвіт" tvg-logo="Logo N/A" group-title="New Group",Телевсесвіт
 http://play.lanet.tv/index/9130.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Тернопіль 1" tvg-name="Тернопіль 1" tvg-logo="Logo N/A" group-title="Украина",Тернопіль 1
+#EXTINF:-1 tvg-id="Тернопіль 1" tvg-name="Тернопіль 1" tvg-logo="Logo N/A" group-title="New Group",Тернопіль 1
 http://play.lanet.tv/index/1026.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Чорноморська ТРК" tvg-name="Чорноморська ТРК" tvg-logo="Logo N/A" group-title="Украина",Чорноморська ТРК
+#EXTINF:-1 tvg-id="Чорноморська ТРК" tvg-name="Чорноморська ТРК" tvg-logo="Logo N/A" group-title="New Group",Чорноморська ТРК
 http://play.lanet.tv/index/9051.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="MostVideo" tvg-name="MostVideo" tvg-logo="Logo N/A" group-title="Украина",MostVideo
+#EXTINF:-1 tvg-id="MostVideo" tvg-name="MostVideo" tvg-logo="Logo N/A" group-title="New Group",MostVideo
 http://play.lanet.tv/index/1005.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Boutique TV" tvg-name="Boutique TV" tvg-logo="Logo N/A" group-title="Украина",Boutique TV
+#EXTINF:-1 tvg-id="Boutique TV" tvg-name="Boutique TV" tvg-logo="Logo N/A" group-title="New Group",Boutique TV
 http://play.lanet.tv/index/9059.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Караван TV" tvg-name="Караван TV" tvg-logo="Logo N/A" group-title="Украина",Караван TV
+#EXTINF:-1 tvg-id="Караван TV" tvg-name="Караван TV" tvg-logo="Logo N/A" group-title="New Group",Караван TV
 http://play.lanet.tv/index/9218.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Milady" tvg-name="Milady" tvg-logo="Logo N/A" group-title="Украина",Milady
+#EXTINF:-1 tvg-id="Milady" tvg-name="Milady" tvg-logo="Logo N/A" group-title="New Group",Milady
 http://play.lanet.tv/index/9085.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-name="Фауна" group-title="Украина",Фауна
+#EXTINF:-1 tvg-name="Фауна" group-title="New Group",Фауна
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0001_nd)/index.m3u8
-#EXTINF:-1 tvg-name="Эпоха" group-title="Украина",Эпоха
+#EXTINF:-1 tvg-name="Эпоха" group-title="New Group",Эпоха
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0044)/index.m3u8
-#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="Logo N/A" group-title="Украина",Da Vinci Learning
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="Logo N/A" group-title="New Group",Da Vinci Learning
 http://play.lanet.tv/index/9068.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="Logo N/A" group-title="Украина",Deutsche Welle
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="Logo N/A" group-title="New Group",Deutsche Welle
 http://play.lanet.tv/index/9078.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="A1" tvg-name="A1" tvg-logo="Logo N/A" group-title="Кино",A1
+#EXTINF:-1 tvg-id="A1" tvg-name="A1" tvg-logo="Logo N/A" group-title="New Group",A1
 http://tv.terra-line.net:20005/c/2102
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" tvg-logo="Logo N/A" group-title="Кино",A2
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" tvg-logo="Logo N/A" group-title="New Group",A2
 http://tv.terra-line.net:20005/c/2117
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="Logo N/A" group-title="Кино",Hollywood
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="Logo N/A" group-title="New Group",Hollywood
 http://tv.terra-line.net:20005/c/2112
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="Hollywood HD" tvg-logo="Logo N/A" group-title="Кино",Hollywood HD
+#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="Hollywood HD" tvg-logo="Logo N/A" group-title="New Group",Hollywood HD
 http://tv.terra-line.net:20006/c/20104
-#EXTINF:-1 tvg-id="AMEDIA HIT" tvg-name="AMEDIA HIT" tvg-logo="Logo N/A" group-title="Кино",AMEDIA HIT
+#EXTINF:-1 tvg-id="AMEDIA HIT" tvg-name="AMEDIA HIT" tvg-logo="Logo N/A" group-title="New Group",AMEDIA HIT
 http://tv.terra-line.net:20005/c/2103
-#EXTINF:-1 tvg-id="Amedia Premium" tvg-name="Amedia Premium" tvg-logo="Logo N/A" group-title="Кино",Amedia Premium
+#EXTINF:-1 tvg-id="Amedia Premium" tvg-name="Amedia Premium" tvg-logo="Logo N/A" group-title="New Group",Amedia Premium
 http://tv.terra-line.net:20005/c/2104
-#EXTINF:-1 tvg-id="Amedia Premium HD" tvg-name="Amedia Premium HD" tvg-logo="Logo N/A" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-id="Amedia Premium HD" tvg-name="Amedia Premium HD" tvg-logo="Logo N/A" group-title="New Group",Amedia Premium HD
 http://tv.terra-line.net:20007/c/26003
-#EXTINF:-1 tvg-id="Bollywood" tvg-name="Bollywood" tvg-logo="Logo N/A" group-title="Кино",Bollywood
+#EXTINF:-1 tvg-id="Bollywood" tvg-name="Bollywood" tvg-logo="Logo N/A" group-title="New Group",Bollywood
 http://tv.terra-line.net:20005/c/2110
-#EXTINF:-1 tvg-id="Bollywood HD" tvg-name="Bollywood HD" tvg-logo="Logo N/A" group-title="Кино",Bollywood HD
+#EXTINF:-1 tvg-id="Bollywood HD" tvg-name="Bollywood HD" tvg-logo="Logo N/A" group-title="New Group",Bollywood HD
 http://tv.terra-line.net:20007/c/26007
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="Logo N/A" group-title="Кино",FOX
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="Logo N/A" group-title="New Group",FOX
 http://tv.terra-line.net:20002/c/19115
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="Logo N/A" group-title="Кино",FOX HD
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="Logo N/A" group-title="New Group",FOX HD
 http://tv.terra-line.net:20003/c/17101
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="Logo N/A" group-title="Кино",Fox Life
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="Logo N/A" group-title="New Group",Fox Life
 http://tv.terra-line.net:20009/c/806
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="Logo N/A" group-title="Кино",Paramount Channel
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="Logo N/A" group-title="New Group",Paramount Channel
 http://tv.terra-line.net:20002/c/19121
-#EXTINF:-1 tvg-id="Paramount Comedy" tvg-name="Paramount Comedy" tvg-logo="Logo N/A" group-title="Кино",Paramount Comedy
+#EXTINF:-1 tvg-id="Paramount Comedy" tvg-name="Paramount Comedy" tvg-logo="Logo N/A" group-title="New Group",Paramount Comedy
 http://tv.terra-line.net:20002/c/19118
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="Logo N/A" group-title="Кино",SONY CHANNEL
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="Logo N/A" group-title="New Group",SONY CHANNEL
 http://tv.terra-line.net:20008/c/710
-#EXTINF:-1 tvg-id="Sony Sci-Fi" tvg-name="Sony Sci-Fi" tvg-logo="Logo N/A" group-title="Кино",Sony Sci-Fi
+#EXTINF:-1 tvg-id="Sony Sci-Fi" tvg-name="Sony Sci-Fi" tvg-logo="Logo N/A" group-title="New Group",Sony Sci-Fi
 http://tv.terra-line.net:20008/c/711
-#EXTINF:-1 tvg-id="Sony Turbo" tvg-name="Sony Turbo" tvg-logo="Logo N/A" group-title="Кино",Sony Turbo
+#EXTINF:-1 tvg-id="Sony Turbo" tvg-name="Sony Turbo" tvg-logo="Logo N/A" group-title="New Group",Sony Turbo
 http://tv.terra-line.net:20008/c/712
-#EXTINF:-1 tvg-id="Spike" tvg-name="Spike" tvg-logo="Logo N/A" group-title="Кино",Spike
+#EXTINF:-1 tvg-id="Spike" tvg-name="Spike" tvg-logo="Logo N/A" group-title="New Group",Spike
 http://tv.terra-line.net:20008/c/706
-#EXTINF:-1 tvg-id="TB 1000 Русское кино" tvg-name="TB 1000 Русское кино" tvg-logo="Logo N/A" group-title="Кино",TB 1000 Русское кино
+#EXTINF:-1 tvg-id="TB 1000 Русское кино" tvg-name="TB 1000 Русское кино" tvg-logo="Logo N/A" group-title="New Group",TB 1000 Русское кино
 http://tv.terra-line.net:20002/c/19104
-#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="Logo N/A" group-title="Кино",TV 1000
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="Logo N/A" group-title="New Group",TV 1000
 http://tv.terra-line.net:20002/c/19102
-#EXTINF:-1 tvg-id="TV 1000 Action" tvg-name="TV 1000 Action" tvg-logo="Logo N/A" group-title="Кино",TV 1000 Action
+#EXTINF:-1 tvg-id="TV 1000 Action" tvg-name="TV 1000 Action" tvg-logo="Logo N/A" group-title="New Group",TV 1000 Action
 http://tv.terra-line.net:20002/c/19103
-#EXTINF:-1 tvg-id="VIP Comedy" tvg-name="VIP Comedy" tvg-logo="Logo N/A" group-title="Кино",VIP Comedy
+#EXTINF:-1 tvg-id="VIP Comedy" tvg-name="VIP Comedy" tvg-logo="Logo N/A" group-title="New Group",VIP Comedy
 http://tv.terra-line.net:20003/c/17102
-#EXTINF:-1 tvg-id="VIP Megahit" tvg-name="VIP Megahit" tvg-logo="Logo N/A" group-title="Кино",VIP Megahit
+#EXTINF:-1 tvg-id="VIP Megahit" tvg-name="VIP Megahit" tvg-logo="Logo N/A" group-title="New Group",VIP Megahit
 http://tv.terra-line.net:20003/c/17103
-#EXTINF:-1 tvg-id="VIP Premiere" tvg-name="VIP Premiere" tvg-logo="Logo N/A" group-title="Кино",VIP Premiere
+#EXTINF:-1 tvg-id="VIP Premiere" tvg-name="VIP Premiere" tvg-logo="Logo N/A" group-title="New Group",VIP Premiere
 http://tv.terra-line.net:20003/c/17104
-#EXTINF:-1 tvg-id="Дом Кино" tvg-name="Дом Кино" tvg-logo="Logo N/A" group-title="Кино",Дом Кино
+#EXTINF:-1 tvg-id="Дом Кино" tvg-name="Дом Кино" tvg-logo="Logo N/A" group-title="New Group",Дом Кино
 http://tv.terra-line.net:20009/c/820
-#EXTINF:-1 tvg-id="Дом Кино Премиум HD" tvg-name="Дом Кино Премиум HD" tvg-logo="Logo N/A" group-title="Кино",Дом Кино Премиум HD
+#EXTINF:-1 tvg-id="Дом Кино Премиум HD" tvg-name="Дом Кино Премиум HD" tvg-logo="Logo N/A" group-title="New Group",Дом Кино Премиум HD
 http://tv.terra-line.net:20015/c/2205
-#EXTINF:-1 tvg-id="Дорама" tvg-name="Дорама" tvg-logo="Logo N/A" group-title="Кино",Дорама
+#EXTINF:-1 tvg-id="Дорама" tvg-name="Дорама" tvg-logo="Logo N/A" group-title="New Group",Дорама
 http://tv.terra-line.net:20012/c/430
-#EXTINF:-1 tvg-id="ЕвроКино" tvg-name="ЕвроКино" tvg-logo="Logo N/A" group-title="Кино",ЕвроКино
+#EXTINF:-1 tvg-id="ЕвроКино" tvg-name="ЕвроКино" tvg-logo="Logo N/A" group-title="New Group",ЕвроКино
 http://tv.terra-line.net:20005/c/2107
-#EXTINF:-1 tvg-id="ИНДИЙСКОЕ КИНО" tvg-name="ИНДИЙСКОЕ КИНО" tvg-logo="Logo N/A" group-title="Кино",ИНДИЙСКОЕ КИНО
+#EXTINF:-1 tvg-id="ИНДИЙСКОЕ КИНО" tvg-name="ИНДИЙСКОЕ КИНО" tvg-logo="Logo N/A" group-title="New Group",ИНДИЙСКОЕ КИНО
 http://tv.terra-line.net:20010/c/104
-#EXTINF:-1 tvg-id="Иллюзион+" tvg-name="Иллюзион+" tvg-logo="Logo N/A" group-title="Кино",Иллюзион+
+#EXTINF:-1 tvg-id="Иллюзион+" tvg-name="Иллюзион+" tvg-logo="Logo N/A" group-title="New Group",Иллюзион+
 http://tv.terra-line.net:20008/c/721
-#EXTINF:-1 tvg-id="КИНО ТВ" tvg-name="КИНО ТВ" tvg-logo="Logo N/A" group-title="Кино",КИНО ТВ
+#EXTINF:-1 tvg-id="КИНО ТВ" tvg-name="КИНО ТВ" tvg-logo="Logo N/A" group-title="New Group",КИНО ТВ
 http://tv.terra-line.net:20016/c/1114
-#EXTINF:-1 tvg-id="КИНОКОМЕДИЯ" tvg-name="КИНОКОМЕДИЯ" tvg-logo="Logo N/A" group-title="Кино",КИНОКОМЕДИЯ
+#EXTINF:-1 tvg-id="КИНОКОМЕДИЯ" tvg-name="КИНОКОМЕДИЯ" tvg-logo="Logo N/A" group-title="New Group",КИНОКОМЕДИЯ
 http://tv.terra-line.net:20010/c/108
-#EXTINF:-1 tvg-id="КИНОМИКС" tvg-name="КИНОМИКС" tvg-logo="Logo N/A" group-title="Кино",КИНОМИКС
+#EXTINF:-1 tvg-id="КИНОМИКС" tvg-name="КИНОМИКС" tvg-logo="Logo N/A" group-title="New Group",КИНОМИКС
 http://tv.terra-line.net:20010/c/105
-#EXTINF:-1 tvg-id="КИНОПРЕМЬЕРА HD" tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="Logo N/A" group-title="Кино",КИНОПРЕМЬЕРА HD
+#EXTINF:-1 tvg-id="КИНОПРЕМЬЕРА HD" tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="Logo N/A" group-title="New Group",КИНОПРЕМЬЕРА HD
 http://tv.terra-line.net:20011/c/12101
-#EXTINF:-1 tvg-id="КИНОСВИДАНИЕ" tvg-name="КИНОСВИДАНИЕ" tvg-logo="Logo N/A" group-title="Кино",КИНОСВИДАНИЕ
+#EXTINF:-1 tvg-id="КИНОСВИДАНИЕ" tvg-name="КИНОСВИДАНИЕ" tvg-logo="Logo N/A" group-title="New Group",КИНОСВИДАНИЕ
 http://tv.terra-line.net:20010/c/106
-#EXTINF:-1 tvg-id="КИНОСЕМЬЯ" tvg-name="КИНОСЕМЬЯ" tvg-logo="Logo N/A" group-title="Кино",КИНОСЕМЬЯ
+#EXTINF:-1 tvg-id="КИНОСЕМЬЯ" tvg-name="КИНОСЕМЬЯ" tvg-logo="Logo N/A" group-title="New Group",КИНОСЕМЬЯ
 http://tv.terra-line.net:20010/c/119
-#EXTINF:-1 tvg-id="КИНОСЕРИЯ" tvg-name="КИНОСЕРИЯ" tvg-logo="Logo N/A" group-title="Кино",КИНОСЕРИЯ
+#EXTINF:-1 tvg-id="КИНОСЕРИЯ" tvg-name="КИНОСЕРИЯ" tvg-logo="Logo N/A" group-title="New Group",КИНОСЕРИЯ
 http://tv.terra-line.net:20010/c/113
-#EXTINF:-1 tvg-id="КИНОХИТ" tvg-name="КИНОХИТ" tvg-logo="Logo N/A" group-title="Кино",КИНОХИТ
+#EXTINF:-1 tvg-id="КИНОХИТ" tvg-name="КИНОХИТ" tvg-logo="Logo N/A" group-title="New Group",КИНОХИТ
 http://tv.terra-line.net:20010/c/107
-#EXTINF:-1 tvg-id="Комедия" tvg-name="Комедия" tvg-logo="Logo N/A" group-title="Кино",Комедия
+#EXTINF:-1 tvg-id="Комедия" tvg-name="Комедия" tvg-logo="Logo N/A" group-title="New Group",Комедия
 http://tv.terra-line.net:20016/c/1115
-#EXTINF:-1 tvg-id="Любимое Кино" tvg-name="Любимое Кино" tvg-logo="Logo N/A" group-title="Кино",Любимое Кино
+#EXTINF:-1 tvg-id="Любимое Кино" tvg-name="Любимое Кино" tvg-logo="Logo N/A" group-title="New Group",Любимое Кино
 http://tv.terra-line.net:20008/c/722
-#EXTINF:-1 tvg-id="Мир сериала" tvg-name="Мир сериала" tvg-logo="Logo N/A" group-title="Кино",Мир сериала
+#EXTINF:-1 tvg-id="Мир сериала" tvg-name="Мир сериала" tvg-logo="Logo N/A" group-title="New Group",Мир сериала
 http://tv.terra-line.net:20008/c/719
-#EXTINF:-1 tvg-id="МУЖСКОЕ КИНО" tvg-name="МУЖСКОЕ КИНО" tvg-logo="Logo N/A" group-title="Кино",МУЖСКОЕ КИНО
+#EXTINF:-1 tvg-id="МУЖСКОЕ КИНО" tvg-name="МУЖСКОЕ КИНО" tvg-logo="Logo N/A" group-title="New Group",МУЖСКОЕ КИНО
 http://tv.terra-line.net:20010/c/114
-#EXTINF:-1 tvg-id="НАШЕ НОВОЕ КИНО" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="Logo N/A" group-title="Кино",НАШЕ НОВОЕ КИНО
+#EXTINF:-1 tvg-id="НАШЕ НОВОЕ КИНО" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="Logo N/A" group-title="New Group",НАШЕ НОВОЕ КИНО
 http://tv.terra-line.net:20010/c/116
-#EXTINF:-1 tvg-id="НСТ" tvg-name="НСТ" tvg-logo="Logo N/A" group-title="Кино",НСТ
+#EXTINF:-1 tvg-id="НСТ" tvg-name="НСТ" tvg-logo="Logo N/A" group-title="New Group",НСТ
 http://tv.terra-line.net:20009/c/804
-#EXTINF:-1 tvg-id="НТВ Сериал" tvg-name="НТВ Сериал" tvg-logo="Logo N/A" group-title="Кино",НТВ Сериал
+#EXTINF:-1 tvg-id="НТВ Сериал" tvg-name="НТВ Сериал" tvg-logo="Logo N/A" group-title="New Group",НТВ Сериал
 http://tv.terra-line.net:20012/c/408
-#EXTINF:-1 tvg-id="НТВ-ХИТ" tvg-name="НТВ-ХИТ" tvg-logo="Logo N/A" group-title="Кино",НТВ-ХИТ
+#EXTINF:-1 tvg-id="НТВ-ХИТ" tvg-name="НТВ-ХИТ" tvg-logo="Logo N/A" group-title="New Group",НТВ-ХИТ
 http://tv.terra-line.net:20012/c/412
-#EXTINF:-1 tvg-id="Продвижение" tvg-name="Продвижение" tvg-logo="Logo N/A" group-title="Кино",Продвижение
+#EXTINF:-1 tvg-id="Продвижение" tvg-name="Продвижение" tvg-logo="Logo N/A" group-title="New Group",Продвижение
 http://tv.terra-line.net:20008/c/714
-#EXTINF:-1 tvg-id="РОДНОЕ КИНО" tvg-name="РОДНОЕ КИНО" tvg-logo="Logo N/A" group-title="Кино",РОДНОЕ КИНО
+#EXTINF:-1 tvg-id="РОДНОЕ КИНО" tvg-name="РОДНОЕ КИНО" tvg-logo="Logo N/A" group-title="New Group",РОДНОЕ КИНО
 http://tv.terra-line.net:20010/c/115
-#EXTINF:-1 tvg-id="Русский бестселлер" tvg-name="Русский бестселлер" tvg-logo="Logo N/A" group-title="Кино",Русский бестселлер
+#EXTINF:-1 tvg-id="Русский бестселлер" tvg-name="Русский бестселлер" tvg-logo="Logo N/A" group-title="New Group",Русский бестселлер
 http://tv.terra-line.net:20012/c/421
-#EXTINF:-1 tvg-id="Русский Иллюзион" tvg-name="Русский Иллюзион" tvg-logo="Logo N/A" group-title="Кино",Русский Иллюзион
+#EXTINF:-1 tvg-id="Русский Иллюзион" tvg-name="Русский Иллюзион" tvg-logo="Logo N/A" group-title="New Group",Русский Иллюзион
 http://tv.terra-line.net:20005/c/2111
-#EXTINF:-1 tvg-id="Русский роман" tvg-name="Русский роман" tvg-logo="Logo N/A" group-title="Кино",Русский роман
+#EXTINF:-1 tvg-id="Русский роман" tvg-name="Русский роман" tvg-logo="Logo N/A" group-title="New Group",Русский роман
 http://tv.terra-line.net:20012/c/424
-#EXTINF:-1 tvg-name="Шокирующее HD" group-title="Кино",Шокирующее HD
+#EXTINF:-1 tvg-name="Шокирующее HD" group-title="New Group",Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1 tvg-name="Комедийное HD" group-title="Кино",Комедийное HD
+#EXTINF:-1 tvg-name="Комедийное HD" group-title="New Group",Комедийное HD
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 tvg-id="KINO 24" tvg-name="KINO 24" tvg-logo="Logo N/A" group-title="Кино",KINO 24
+#EXTINF:-1 tvg-id="KINO 24" tvg-name="KINO 24" tvg-logo="Logo N/A" group-title="New Group",KINO 24
 http://82.193.71.93/Kino24LV/video.m3u8
-#EXTINF:-1 tvg-id="Кинозал Зарубежная киноклассика" tvg-name="Кинозал Зарубежная киноклассика" tvg-logo="Logo N/A" group-title="Кино",Кинозал Зарубежная киноклассика
+#EXTINF:-1 tvg-id="Кинозал Зарубежная киноклассика" tvg-name="Кинозал Зарубежная киноклассика" tvg-logo="Logo N/A" group-title="New Group",Кинозал Зарубежная киноклассика
 http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
-#EXTINF:-1 tvg-id="Кинозал Советская киноклассика" tvg-name="Кинозал Советская киноклассика" tvg-logo="Logo N/A" group-title="Кино",Кинозал Советская киноклассика
+#EXTINF:-1 tvg-id="Кинозал Советская киноклассика" tvg-name="Кинозал Советская киноклассика" tvg-logo="Logo N/A" group-title="New Group",Кинозал Советская киноклассика
 http://streams.tv.mts.by/soviet_classic/1/index.m3u8
-#EXTINF:-1 tvg-id="Кинозал Индийская киноклассика" tvg-name="Кинозал Индийская киноклассика" tvg-logo="Logo N/A" group-title="Кино",Кинозал Индийская киноклассика
+#EXTINF:-1 tvg-id="Кинозал Индийская киноклассика" tvg-name="Кинозал Индийская киноклассика" tvg-logo="Logo N/A" group-title="New Group",Кинозал Индийская киноклассика
 http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
-#EXTINF:-1 tvg-id="Кинозал Классика Голливуда" tvg-name="Кинозал Классика Голливуда" tvg-logo="Logo N/A" group-title="Кино",Кинозал Классика Голливуда
+#EXTINF:-1 tvg-id="Кинозал Классика Голливуда" tvg-name="Кинозал Классика Голливуда" tvg-logo="Logo N/A" group-title="New Group",Кинозал Классика Голливуда
 http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
-#EXTINF:-1 tvg-name="PRO 100 TV" group-title="Кино",PRO 100 TV
+#EXTINF:-1 tvg-name="PRO 100 TV" group-title="New Group",PRO 100 TV
 http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
-#EXTINF:-1 tvg-name="KinoBOOM" group-title="Кино",KinoBOOM
+#EXTINF:-1 tvg-name="KinoBOOM" group-title="New Group",KinoBOOM
 http://v2.myowntv.org/content/35448/index.m3u8?seg-vkcom/iptv4.ts
-#EXTINF:-1 tvg-name="Киносат" group-title="Кино",Киносат
+#EXTINF:-1 tvg-name="Киносат" group-title="New Group",Киносат
 http://86.57.198.17:8000/play/a00u
-#EXTINF:-1 tvg-name="Наш Кинороман HD" group-title="Кино",Наш Кинороман HD
+#EXTINF:-1 tvg-name="Наш Кинороман HD" group-title="New Group",Наш Кинороман HD
 http://ru.ottg.tv:9096/play/a0j3/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-name="Наше крутое HD" group-title="Кино",Наше крутое HD
+#EXTINF:-1 tvg-name="Наше крутое HD" group-title="New Group",Наше крутое HD
 http://ru.ottg.tv:9096/play/a0j4/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-id="КиноЗаказ 1" tvg-name="КиноЗаказ 1" tvg-logo="Logo N/A" group-title="Кино",КиноЗаказ 1
+#EXTINF:-1 tvg-id="КиноЗаказ 1" tvg-name="КиноЗаказ 1" tvg-logo="Logo N/A" group-title="New Group",КиноЗаказ 1
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1 tvg-id="КиноЗаказ 2" tvg-name="КиноЗаказ 2" tvg-logo="Logo N/A" group-title="Кино",КиноЗаказ 2
+#EXTINF:-1 tvg-id="КиноЗаказ 2" tvg-name="КиноЗаказ 2" tvg-logo="Logo N/A" group-title="New Group",КиноЗаказ 2
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-id="ABTO24" tvg-name="ABTO24" tvg-logo="Logo N/A" group-title="Развлечения",ABTO24
+#EXTINF:-1 tvg-id="ABTO24" tvg-name="ABTO24" tvg-logo="Logo N/A" group-title="New Group",ABTO24
 http://tv.terra-line.net:20008/c/702
-#EXTINF:-1 tvg-id="ACB TV" tvg-name="ACB TV" tvg-logo="Logo N/A" group-title="Развлечения",ACB TV
+#EXTINF:-1 tvg-id="ACB TV" tvg-name="ACB TV" tvg-logo="Logo N/A" group-title="New Group",ACB TV
 http://tv.terra-line.net:20012/c/409
-#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="Logo N/A" group-title="Развлечения",CBS Reality
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="Logo N/A" group-title="New Group",CBS Reality
 http://tv.terra-line.net:20005/c/2106
-#EXTINF:-1 tvg-id="CTC Love" tvg-name="CTC Love" tvg-logo="Logo N/A" group-title="Развлечения",CTC Love
+#EXTINF:-1 tvg-id="CTC Love" tvg-name="CTC Love" tvg-logo="Logo N/A" group-title="New Group",CTC Love
 http://tv.terra-line.net:20016/c/1106
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="Logo N/A" group-title="Развлечения",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="Logo N/A" group-title="New Group",Discovery Channel
 http://tv.terra-line.net:20009/c/803
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="Logo N/A" group-title="Развлечения",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="Logo N/A" group-title="New Group",Discovery Channel HD
 http://tv.terra-line.net:20011/c/12105
-#EXTINF:-1 tvg-id="Fashion TV Network" tvg-name="Fashion TV Network" tvg-logo="Logo N/A" group-title="Развлечения",Fashion TV Network
+#EXTINF:-1 tvg-id="Fashion TV Network" tvg-name="Fashion TV Network" tvg-logo="Logo N/A" group-title="New Group",Fashion TV Network
 http://tv.terra-line.net:20012/c/405
-#EXTINF:-1 tvg-id="Fine Living" tvg-name="Fine Living" tvg-logo="Logo N/A" group-title="Развлечения",Fine Living
+#EXTINF:-1 tvg-id="Fine Living" tvg-name="Fine Living" tvg-logo="Logo N/A" group-title="New Group",Fine Living
 http://tv.terra-line.net:20012/c/404
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="Logo N/A" group-title="Развлечения",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="Logo N/A" group-title="New Group",Food Network
 http://tv.terra-line.net:20012/c/416
-#EXTINF:-1 tvg-id="Game Show" tvg-name="Game Show" tvg-logo="Logo N/A" group-title="Развлечения",Game Show
+#EXTINF:-1 tvg-id="Game Show" tvg-name="Game Show" tvg-logo="Logo N/A" group-title="New Group",Game Show
 http://tv.terra-line.net:20012/c/423
-#EXTINF:-1 tvg-id="HD Life" tvg-name="HD Life" tvg-logo="Logo N/A" group-title="Развлечения",HD Life
+#EXTINF:-1 tvg-id="HD Life" tvg-name="HD Life" tvg-logo="Logo N/A" group-title="New Group",HD Life
 http://tv.terra-line.net:20011/c/12103
-#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="Logo N/A" group-title="Развлечения",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="Logo N/A" group-title="New Group",Investigation Discovery
 http://tv.terra-line.net:20009/c/807
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="Logo N/A" group-title="Развлечения",Mezzo
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="Logo N/A" group-title="New Group",Mezzo
 http://tv.terra-line.net:20002/c/19126
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="Logo N/A" group-title="Развлечения",Mezzo Live HD
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="Logo N/A" group-title="New Group",Mezzo Live HD
 http://tv.terra-line.net:20006/c/20103
-#EXTINF:-1 tvg-id="OCEAN-TV" tvg-name="OCEAN-TV" tvg-logo="Logo N/A" group-title="Развлечения",OCEAN-TV
+#EXTINF:-1 tvg-id="OCEAN-TV" tvg-name="OCEAN-TV" tvg-logo="Logo N/A" group-title="New Group",OCEAN-TV
 http://tv.terra-line.net:20002/c/19122
-#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="Outdoor Channel" tvg-logo="Logo N/A" group-title="Развлечения",Outdoor Channel
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="Outdoor Channel" tvg-logo="Logo N/A" group-title="New Group",Outdoor Channel
 http://tv.terra-line.net:20004/c/1811
-#EXTINF:-1 tvg-id="Shop&Show" tvg-name="Shop&Show" tvg-logo="Logo N/A" group-title="Развлечения",Shop&Show
+#EXTINF:-1 tvg-id="Shop&Show" tvg-name="Shop&Show" tvg-logo="Logo N/A" group-title="New Group",Shop&Show
 http://tv.terra-line.net:20001/c/1323
-#EXTINF:-1 tvg-id="Shop24" tvg-name="Shop24" tvg-logo="Logo N/A" group-title="Развлечения",Shop24
+#EXTINF:-1 tvg-id="Shop24" tvg-name="Shop24" tvg-logo="Logo N/A" group-title="New Group",Shop24
 http://tv.terra-line.net:20014/c/1012
-#EXTINF:-1 tvg-id="Shopping Live" tvg-name="Shopping Live" tvg-logo="Logo N/A" group-title="Развлечения",Shopping Live
+#EXTINF:-1 tvg-id="Shopping Live" tvg-name="Shopping Live" tvg-logo="Logo N/A" group-title="New Group",Shopping Live
 http://tv.terra-line.net:20014/c/1011
-#EXTINF:-1 tvg-id="ТНТ" tvg-name="ТНТ" tvg-logo="Logo N/A" group-title="Развлечения",ТНТ
+#EXTINF:-1 tvg-id="ТНТ" tvg-name="ТНТ" tvg-logo="Logo N/A" group-title="New Group",ТНТ
 http://tv.terra-line.net:20001/c/1319
-#EXTINF:-1 tvg-id="ТНТ +2" tvg-name="ТНТ +2" tvg-logo="Logo N/A" group-title="Развлечения",ТНТ +2
+#EXTINF:-1 tvg-id="ТНТ +2" tvg-name="ТНТ +2" tvg-logo="Logo N/A" group-title="New Group",ТНТ +2
 http://tv.terra-line.net:20004/c/1804
-#EXTINF:-1 tvg-id="ТНТ HD" tvg-name="ТНТ HD" tvg-logo="Logo N/A" group-title="Развлечения",ТНТ HD
+#EXTINF:-1 tvg-id="ТНТ HD" tvg-name="ТНТ HD" tvg-logo="Logo N/A" group-title="New Group",ТНТ HD
 http://tv.terra-line.net:20015/c/2207
-#EXTINF:-1 tvg-id="THT4" tvg-name="THT4" tvg-logo="Logo N/A" group-title="Развлечения",THT4
+#EXTINF:-1 tvg-id="THT4" tvg-name="THT4" tvg-logo="Logo N/A" group-title="New Group",THT4
 http://tv.terra-line.net:20004/c/1820
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="Logo N/A" group-title="Развлечения",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="Logo N/A" group-title="New Group",TLC
 http://tv.terra-line.net:20009/c/815
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="Logo N/A" group-title="Развлечения",TLC HD
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="Logo N/A" group-title="New Group",TLC HD
 http://tv.terra-line.net:20007/c/26005
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="Logo N/A" group-title="Развлечения",Travel Channel
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="Logo N/A" group-title="New Group",Travel Channel
 http://tv.terra-line.net:20004/c/1813
-#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="Logo N/A" group-title="Развлечения",Travel Channel HD
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="Logo N/A" group-title="New Group",Travel Channel HD
 http://tv.terra-line.net:20007/c/26006
-#EXTINF:-1 tvg-id="Travel+Adventure" tvg-name="Travel+Adventure" tvg-logo="Logo N/A" group-title="Развлечения",Travel+Adventure
+#EXTINF:-1 tvg-id="Travel+Adventure" tvg-name="Travel+Adventure" tvg-logo="Logo N/A" group-title="New Group",Travel+Adventure
 http://tv.terra-line.net:20008/c/713
-#EXTINF:-1 tvg-id="TВ-21М" tvg-name="TВ-21М" tvg-logo="Logo N/A" group-title="Развлечения",TВ-21М
+#EXTINF:-1 tvg-id="TВ-21М" tvg-name="TВ-21М" tvg-logo="Logo N/A" group-title="New Group",TВ-21М
 http://tv.terra-line.net:20005/c/2116
-#EXTINF:-1 tvg-id="World Fashion" tvg-name="World Fashion" tvg-logo="Logo N/A" group-title="Развлечения",World Fashion
+#EXTINF:-1 tvg-id="World Fashion" tvg-name="World Fashion" tvg-logo="Logo N/A" group-title="New Group",World Fashion
 http://tv.terra-line.net:20001/c/1322
-#EXTINF:-1 tvg-id="Авто Плюс" tvg-name="Авто Плюс" tvg-logo="Logo N/A" group-title="Развлечения",Авто Плюс
+#EXTINF:-1 tvg-id="Авто Плюс" tvg-name="Авто Плюс" tvg-logo="Logo N/A" group-title="New Group",Авто Плюс
 http://tv.terra-line.net:20010/c/102
-#EXTINF:-1 tvg-id="БОБЁР" tvg-name="БОБЁР" tvg-logo="Logo N/A" group-title="Развлечения",БОБЁР
+#EXTINF:-1 tvg-id="БОБЁР" tvg-name="БОБЁР" tvg-logo="Logo N/A" group-title="New Group",БОБЁР
 http://tv.terra-line.net:20009/c/818
-#EXTINF:-1 tvg-id="Время: далекое и близкое" tvg-name="Время: далекое и близкое" tvg-logo="Logo N/A" group-title="Развлечения",Время: далекое и близкое
+#EXTINF:-1 tvg-id="Время: далекое и близкое" tvg-name="Время: далекое и близкое" tvg-logo="Logo N/A" group-title="New Group",Время: далекое и близкое
 http://tv.terra-line.net:20009/c/819
-#EXTINF:-1 tvg-id="Диалоги о рыбалке" tvg-name="Диалоги о рыбалке" tvg-logo="Logo N/A" group-title="Развлечения",Диалоги о рыбалке
+#EXTINF:-1 tvg-id="Диалоги о рыбалке" tvg-name="Диалоги о рыбалке" tvg-logo="Logo N/A" group-title="New Group",Диалоги о рыбалке
 http://tv.terra-line.net:20005/c/2105
-#EXTINF:-1 tvg-id="Дикий" tvg-name="Дикий" tvg-logo="Logo N/A" group-title="Развлечения",Дикий
+#EXTINF:-1 tvg-id="Дикий" tvg-name="Дикий" tvg-logo="Logo N/A" group-title="New Group",Дикий
 http://tv.terra-line.net:20005/c/2128
-#EXTINF:-1 tvg-id="ДОМАШНИЕ ЖИВОТНЫЕ" tvg-name="ДОМАШНИЕ ЖИВОТНЫЕ" tvg-logo="Logo N/A" group-title="Развлечения",ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTINF:-1 tvg-id="ДОМАШНИЕ ЖИВОТНЫЕ" tvg-name="ДОМАШНИЕ ЖИВОТНЫЕ" tvg-logo="Logo N/A" group-title="New Group",ДОМАШНИЕ ЖИВОТНЫЕ
 http://tv.terra-line.net:20002/c/19112
-#EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="Logo N/A" group-title="Развлечения",Домашний
+#EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="Logo N/A" group-title="New Group",Домашний
 http://tv.terra-line.net:20016/c/1102
-#EXTINF:-1 tvg-id="ЖИВИ!" tvg-name="ЖИВИ!" tvg-logo="Logo N/A" group-title="Развлечения",ЖИВИ!
+#EXTINF:-1 tvg-id="ЖИВИ!" tvg-name="ЖИВИ!" tvg-logo="Logo N/A" group-title="New Group",ЖИВИ!
 http://tv.terra-line.net:20012/c/418
-#EXTINF:-1 tvg-id="Загородная жизнь" tvg-name="Загородная жизнь" tvg-logo="Logo N/A" group-title="Развлечения",Загородная жизнь
+#EXTINF:-1 tvg-id="Загородная жизнь" tvg-name="Загородная жизнь" tvg-logo="Logo N/A" group-title="New Group",Загородная жизнь
 http://tv.terra-line.net:20008/c/715
-#EXTINF:-1 tvg-id="Зоопарк" tvg-name="Зоопарк" tvg-logo="Logo N/A" group-title="Развлечения",Зоопарк
+#EXTINF:-1 tvg-id="Зоопарк" tvg-name="Зоопарк" tvg-logo="Logo N/A" group-title="New Group",Зоопарк
 http://tv.terra-line.net:20016/c/1113
-#EXTINF:-1 tvg-id="КВН ТВ" tvg-name="КВН ТВ" tvg-logo="Logo N/A" group-title="Развлечения",КВН ТВ
+#EXTINF:-1 tvg-id="КВН ТВ" tvg-name="КВН ТВ" tvg-logo="Logo N/A" group-title="New Group",КВН ТВ
 http://tv.terra-line.net:20010/c/124
-#EXTINF:-1 tvg-id="КОННЫЙ МИР HD" tvg-name="КОННЫЙ МИР HD" tvg-logo="Logo N/A" group-title="Развлечения",КОННЫЙ МИР HD
+#EXTINF:-1 tvg-id="КОННЫЙ МИР HD" tvg-name="КОННЫЙ МИР HD" tvg-logo="Logo N/A" group-title="New Group",КОННЫЙ МИР HD
 http://tv.terra-line.net:20015/c/2203
-#EXTINF:-1 tvg-id="Кухня ТВ" tvg-name="Кухня ТВ" tvg-logo="Logo N/A" group-title="Развлечения",Кухня ТВ
+#EXTINF:-1 tvg-id="Кухня ТВ" tvg-name="Кухня ТВ" tvg-logo="Logo N/A" group-title="New Group",Кухня ТВ
 http://tv.terra-line.net:20010/c/110
-#EXTINF:-1 tvg-id="Мама" tvg-name="Мама" tvg-logo="Logo N/A" group-title="Развлечения",Мама
+#EXTINF:-1 tvg-id="Мама" tvg-name="Мама" tvg-logo="Logo N/A" group-title="New Group",Мама
 http://tv.terra-line.net:20002/c/19120
-#EXTINF:-1 tvg-id="МИР" tvg-name="МИР" tvg-logo="Logo N/A" group-title="Развлечения",МИР
+#EXTINF:-1 tvg-id="МИР" tvg-name="МИР" tvg-logo="Logo N/A" group-title="New Group",МИР
 http://tv.terra-line.net:20014/c/1010
-#EXTINF:-1 tvg-id="МИР HD" tvg-name="МИР HD" tvg-logo="Logo N/A" group-title="Развлечения",МИР HD
+#EXTINF:-1 tvg-id="МИР HD" tvg-name="МИР HD" tvg-logo="Logo N/A" group-title="New Group",МИР HD
 http://tv.terra-line.net:20013/c/1407
-#EXTINF:-1 tvg-id="Москва Доверие" tvg-name="Москва Доверие" tvg-logo="Logo N/A" group-title="Развлечения",Москва Доверие
+#EXTINF:-1 tvg-id="Москва Доверие" tvg-name="Москва Доверие" tvg-logo="Logo N/A" group-title="New Group",Москва Доверие
 http://tv.terra-line.net:20012/c/417
-#EXTINF:-1 tvg-id="Ностальгия" tvg-name="Ностальгия" tvg-logo="Logo N/A" group-title="Развлечения",Ностальгия
+#EXTINF:-1 tvg-id="Ностальгия" tvg-name="Ностальгия" tvg-logo="Logo N/A" group-title="New Group",Ностальгия
 http://tv.terra-line.net:20010/c/117
-#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="Logo N/A" group-title="Развлечения",НТВ
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="Logo N/A" group-title="New Group",НТВ
 http://tv.terra-line.net:20001/c/1315
-#EXTINF:-1 tvg-id="НТВ HD" tvg-name="НТВ HD" tvg-logo="Logo N/A" group-title="Развлечения",НТВ HD
+#EXTINF:-1 tvg-id="НТВ HD" tvg-name="НТВ HD" tvg-logo="Logo N/A" group-title="New Group",НТВ HD
 http://tv.terra-line.net:20015/c/2201
-#EXTINF:-1 tvg-id="НТВ Право" tvg-name="НТВ Право" tvg-logo="Logo N/A" group-title="Развлечения",НТВ Право
+#EXTINF:-1 tvg-id="НТВ Право" tvg-name="НТВ Право" tvg-logo="Logo N/A" group-title="New Group",НТВ Право
 http://tv.terra-line.net:20012/c/406
-#EXTINF:-1 tvg-id="НТВ Стиль" tvg-name="НТВ Стиль" tvg-logo="Logo N/A" group-title="Развлечения",НТВ Стиль
+#EXTINF:-1 tvg-id="НТВ Стиль" tvg-name="НТВ Стиль" tvg-logo="Logo N/A" group-title="New Group",НТВ Стиль
 http://tv.terra-line.net:20012/c/415
-#EXTINF:-1 tvg-id="Первый Вегетарианский" tvg-name="Первый Вегетарианский" tvg-logo="Logo N/A" group-title="Развлечения",Первый Вегетарианский
+#EXTINF:-1 tvg-id="Первый Вегетарианский" tvg-name="Первый Вегетарианский" tvg-logo="Logo N/A" group-title="New Group",Первый Вегетарианский
 http://tv.terra-line.net:20002/c/19128
-#EXTINF:-1 tvg-id="ПЯТНИЦА" tvg-name="ПЯТНИЦА" tvg-logo="Logo N/A" group-title="Развлечения",ПЯТНИЦА
+#EXTINF:-1 tvg-id="ПЯТНИЦА" tvg-name="ПЯТНИЦА" tvg-logo="Logo N/A" group-title="New Group",ПЯТНИЦА
 http://tv.terra-line.net:20014/c/1009
-#EXTINF:-1 tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="Logo N/A" group-title="Развлечения",РЕН ТВ
+#EXTINF:-1 tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="Logo N/A" group-title="New Group",РЕН ТВ
 http://tv.terra-line.net:20014/c/1004
-#EXTINF:-1 tvg-id="Сарафан" tvg-name="Сарафан" tvg-logo="Logo N/A" group-title="Развлечения",Сарафан
+#EXTINF:-1 tvg-id="Сарафан" tvg-name="Сарафан" tvg-logo="Logo N/A" group-title="New Group",Сарафан
 http://tv.terra-line.net:20012/c/419
-#EXTINF:-1 tvg-id="Совершенно секретно" tvg-name="Совершенно секретно" tvg-logo="Logo N/A" group-title="Развлечения",Совершенно секретно
+#EXTINF:-1 tvg-id="Совершенно секретно" tvg-name="Совершенно секретно" tvg-logo="Logo N/A" group-title="New Group",Совершенно секретно
 http://tv.terra-line.net:20005/c/2115
-#EXTINF:-1 tvg-id="СПАС" tvg-name="СПАС" tvg-logo="Logo N/A" group-title="Развлечения",СПАС
+#EXTINF:-1 tvg-id="СПАС" tvg-name="СПАС" tvg-logo="Logo N/A" group-title="New Group",СПАС
 http://tv.terra-line.net:20014/c/1007
-#EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="Logo N/A" group-title="Развлечения",СТС
+#EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="Logo N/A" group-title="New Group",СТС
 http://tv.terra-line.net:20016/c/1105
-#EXTINF:-1 tvg-id="Супер" tvg-name="Супер" tvg-logo="Logo N/A" group-title="Развлечения",Супер
+#EXTINF:-1 tvg-id="Супер" tvg-name="Супер" tvg-logo="Logo N/A" group-title="New Group",Супер
 http://tv.terra-line.net:20001/c/1321
-#EXTINF:-1 tvg-id="ТВ-3" tvg-name="ТВ-3" tvg-logo="Logo N/A" group-title="Развлечения",ТВ-3
+#EXTINF:-1 tvg-id="ТВ-3" tvg-name="ТВ-3" tvg-logo="Logo N/A" group-title="New Group",ТВ-3
 http://tv.terra-line.net:20014/c/1008
-#EXTINF:-1 tvg-id="ТВОЙ ДОМ" tvg-name="ТВОЙ ДОМ" tvg-logo="Logo N/A" group-title="Развлечения",ТВОЙ ДОМ
+#EXTINF:-1 tvg-id="ТВОЙ ДОМ" tvg-name="ТВОЙ ДОМ" tvg-logo="Logo N/A" group-title="New Group",ТВОЙ ДОМ
 http://tv.terra-line.net:20014/c/1015
-#EXTINF:-1 tvg-id="ТВЦ" tvg-name="ТВЦ" tvg-logo="Logo N/A" group-title="Развлечения",ТВЦ
+#EXTINF:-1 tvg-id="ТВЦ" tvg-name="ТВЦ" tvg-logo="Logo N/A" group-title="New Group",ТВЦ
 http://tv.terra-line.net:20005/c/2113
-#EXTINF:-1 tvg-id="ТДК" tvg-name="ТДК" tvg-logo="Logo N/A" group-title="Развлечения",ТДК
+#EXTINF:-1 tvg-id="ТДК" tvg-name="ТДК" tvg-logo="Logo N/A" group-title="New Group",ТДК
 http://tv.terra-line.net:20016/c/1107
-#EXTINF:-1 tvg-id="Телеканал 360" tvg-name="Телеканал 360" tvg-logo="Logo N/A" group-title="Развлечения",Телеканал 360
+#EXTINF:-1 tvg-id="Телеканал 360" tvg-name="Телеканал 360" tvg-logo="Logo N/A" group-title="New Group",Телеканал 360
 http://tv.terra-line.net:20001/c/1316
-#EXTINF:-1 tvg-id="ТЕЛЕКАФЕ" tvg-name="ТЕЛЕКАФЕ" tvg-logo="Logo N/A" group-title="Развлечения",ТЕЛЕКАФЕ
+#EXTINF:-1 tvg-id="ТЕЛЕКАФЕ" tvg-name="ТЕЛЕКАФЕ" tvg-logo="Logo N/A" group-title="New Group",ТЕЛЕКАФЕ
 http://tv.terra-line.net:20009/c/824
-#EXTINF:-1 tvg-id="ТНВ-Планета" tvg-name="ТНВ-Планета" tvg-logo="Logo N/A" group-title="Развлечения",ТНВ-Планета
+#EXTINF:-1 tvg-id="ТНВ-Планета" tvg-name="ТНВ-Планета" tvg-logo="Logo N/A" group-title="New Group",ТНВ-Планета
 http://tv.terra-line.net:20016/c/1108
-#EXTINF:-1 tvg-id="Усадьба-ТВ" tvg-name="Усадьба-ТВ" tvg-logo="Logo N/A" group-title="Развлечения",Усадьба-ТВ
+#EXTINF:-1 tvg-id="Усадьба-ТВ" tvg-name="Усадьба-ТВ" tvg-logo="Logo N/A" group-title="New Group",Усадьба-ТВ
 http://tv.terra-line.net:20002/c/19113
-#EXTINF:-1 tvg-id="Че" tvg-name="Че" tvg-logo="Logo N/A" group-title="Развлечения",Че
+#EXTINF:-1 tvg-id="Че" tvg-name="Че" tvg-logo="Logo N/A" group-title="New Group",Че
 http://tv.terra-line.net:20016/c/1109
-#EXTINF:-1 tvg-id="Ювелирочка" tvg-name="Ювелирочка" tvg-logo="Logo N/A" group-title="Развлечения",Ювелирочка
+#EXTINF:-1 tvg-id="Ювелирочка" tvg-name="Ювелирочка" tvg-logo="Logo N/A" group-title="New Group",Ювелирочка
 http://tv.terra-line.net:20004/c/1817
-#EXTINF:-1 tvg-id="Ю-ТВ" tvg-name="Ю-ТВ" tvg-logo="Logo N/A" group-title="Развлечения",Ю-ТВ
+#EXTINF:-1 tvg-id="Ю-ТВ" tvg-name="Ю-ТВ" tvg-logo="Logo N/A" group-title="New Group",Ю-ТВ
 http://tv.terra-line.net:20001/c/1320
-#EXTINF:-1 tvg-id="Fashion One (4K)" tvg-name="Fashion One (4K)" tvg-logo="Logo N/A" group-title="Развлечения",Fashion One (4K)
+#EXTINF:-1 tvg-id="Fashion One (4K)" tvg-name="Fashion One (4K)" tvg-logo="Logo N/A" group-title="New Group",Fashion One (4K)
 http://tv.terra-line.net:20017/c/201
-#EXTINF:-1 tvg-id="HOME 4K (TECT)" tvg-name="HOME 4K (TECT)" tvg-logo="Logo N/A" group-title="Развлечения",HOME 4K (TECT)
+#EXTINF:-1 tvg-id="HOME 4K (TECT)" tvg-name="HOME 4K (TECT)" tvg-logo="Logo N/A" group-title="New Group",HOME 4K (TECT)
 http://tv.terra-line.net:20017/c/202
-#EXTINF:-1 tvg-id="Festival 4K" tvg-name="Festival 4K" tvg-logo="Logo N/A" group-title="Развлечения",Festival 4K
+#EXTINF:-1 tvg-id="Festival 4K" tvg-name="Festival 4K" tvg-logo="Logo N/A" group-title="New Group",Festival 4K
 http://tv.terra-line.net:20017/c/203
-#EXTINF:-1 tvg-id="Перец" tvg-name="Перец" tvg-logo="Logo N/A" group-title="Развлечения",Перец
+#EXTINF:-1 tvg-id="Перец" tvg-name="Перец" tvg-logo="Logo N/A" group-title="New Group",Перец
 http://streams.tv.mts.by/peretz_int/1/index.m3u8
-#EXTINF:-1 tvg-name="Техно 24" group-title="Развлечения",Техно 24
+#EXTINF:-1 tvg-name="Техно 24" group-title="New Group",Техно 24
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 tvg-name="Неизвестная планета HD 720" group-title="Развлечения",Неизвестная планета HD 720
+#EXTINF:-1 tvg-name="Неизвестная планета HD 720" group-title="New Group",Неизвестная планета HD 720
 http://serv25.vintera.tv:8081/neplaneta/np/chunks.m3u8
-#EXTINF:-1 tvg-name="Русский экстрим" group-title="Развлечения",Русский экстрим
+#EXTINF:-1 tvg-name="Русский экстрим" group-title="New Group",Русский экстрим
 http://ru.ottg.tv:9096/play/285/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-id="365 дней ТВ" tvg-name="365 дней ТВ" tvg-logo="Logo N/A" group-title="Наука",365 дней ТВ
+#EXTINF:-1 tvg-id="365 дней ТВ" tvg-name="365 дней ТВ" tvg-logo="Logo N/A" group-title="New Group",365 дней ТВ
 http://tv.terra-line.net:20010/c/101
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="Logo N/A" group-title="Наука",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="Logo N/A" group-title="New Group",Animal Planet
 http://tv.terra-line.net:20009/c/801
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="Logo N/A" group-title="Наука",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="Logo N/A" group-title="New Group",Animal Planet HD
 http://tv.terra-line.net:20015/c/2202
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="Logo N/A" group-title="Наука",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="Logo N/A" group-title="New Group",Discovery Science
 http://tv.terra-line.net:20016/c/1110
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="Logo N/A" group-title="Наука",History
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="Logo N/A" group-title="New Group",History
 http://tv.terra-line.net:20004/c/1808
-#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="Logo N/A" group-title="Наука",History HD
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="Logo N/A" group-title="New Group",History HD
 http://tv.terra-line.net:20007/c/26004
-#EXTINF:-1 tvg-name="History2 HD" group-title="Наука",History2 HD
+#EXTINF:-1 tvg-name="History2 HD" group-title="New Group",History2 HD
 http://ru.ottg.tv:9096/play/65/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="Logo N/A" group-title="Наука",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="Logo N/A" group-title="New Group",Nat Geo Wild
 http://tv.terra-line.net:20002/c/19116
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="Logo N/A" group-title="Наука",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="Logo N/A" group-title="New Group",Nat Geo Wild HD
 http://tv.terra-line.net:20006/c/20101
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="Logo N/A" group-title="Наука",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="Logo N/A" group-title="New Group",National Geographic
 http://tv.terra-line.net:20009/c/813
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="Logo N/A" group-title="Наука",National Geographic HD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="Logo N/A" group-title="New Group",National Geographic HD
 http://tv.terra-line.net:20007/c/26002
-#EXTINF:-1 tvg-id="RTG HD" tvg-name="RTG HD" tvg-logo="Logo N/A" group-title="Наука",RTG HD
+#EXTINF:-1 tvg-id="RTG HD" tvg-name="RTG HD" tvg-logo="Logo N/A" group-title="New Group",RTG HD
 http://tv.terra-line.net:20006/c/20102
-#EXTINF:-1 tvg-id="RTG TV" tvg-name="RTG TV" tvg-logo="Logo N/A" group-title="Наука",RTG TV
+#EXTINF:-1 tvg-id="RTG TV" tvg-name="RTG TV" tvg-logo="Logo N/A" group-title="New Group",RTG TV
 http://tv.terra-line.net:20004/c/1816
-#EXTINF:-1 tvg-id="Viasat Explore" tvg-name="Viasat Explore" tvg-logo="Logo N/A" group-title="Наука",Viasat Explore
+#EXTINF:-1 tvg-id="Viasat Explore" tvg-name="Viasat Explore" tvg-logo="Logo N/A" group-title="New Group",Viasat Explore
 http://tv.terra-line.net:20002/c/19105
-#EXTINF:-1 tvg-id="Viasat History" tvg-name="Viasat History" tvg-logo="Logo N/A" group-title="Наука",Viasat History
+#EXTINF:-1 tvg-id="Viasat History" tvg-name="Viasat History" tvg-logo="Logo N/A" group-title="New Group",Viasat History
 http://tv.terra-line.net:20002/c/19106
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-name="Viasat Nature" tvg-logo="Logo N/A" group-title="Наука",Viasat Nature
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-name="Viasat Nature" tvg-logo="Logo N/A" group-title="New Group",Viasat Nature
 http://tv.terra-line.net:20002/c/19107
-#EXTINF:-1 tvg-id="Viasat Nature/History HD" tvg-name="Viasat Nature/History HD" tvg-logo="Logo N/A" group-title="Наука",Viasat Nature/History HD
+#EXTINF:-1 tvg-id="Viasat Nature/History HD" tvg-name="Viasat Nature/History HD" tvg-logo="Logo N/A" group-title="New Group",Viasat Nature/History HD
 http://tv.terra-line.net:20003/c/17105
-#EXTINF:-1 tvg-id="Доктор" tvg-name="Доктор" tvg-logo="Logo N/A" group-title="Наука",Доктор
+#EXTINF:-1 tvg-id="Доктор" tvg-name="Доктор" tvg-logo="Logo N/A" group-title="New Group",Доктор
 http://tv.terra-line.net:20001/c/1310
-#EXTINF:-1 tvg-id="История" tvg-name="История" tvg-logo="Logo N/A" group-title="Наука",История
+#EXTINF:-1 tvg-id="История" tvg-name="История" tvg-logo="Logo N/A" group-title="New Group",История
 http://tv.terra-line.net:20004/c/1822
-#EXTINF:-1 tvg-id="Кто есть кто" tvg-name="Кто есть кто" tvg-logo="Logo N/A" group-title="Наука",Кто есть кто
+#EXTINF:-1 tvg-id="Кто есть кто" tvg-name="Кто есть кто" tvg-logo="Logo N/A" group-title="New Group",Кто есть кто
 http://tv.terra-line.net:20010/c/109
-#EXTINF:-1 tvg-id="Морской" tvg-name="Морской" tvg-logo="Logo N/A" group-title="Наука",Морской
+#EXTINF:-1 tvg-id="Морской" tvg-name="Морской" tvg-logo="Logo N/A" group-title="New Group",Морской
 http://tv.terra-line.net:20012/c/414
-#EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="Logo N/A" group-title="Наука",Моя Планета
+#EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="Logo N/A" group-title="New Group",Моя Планета
 http://tv.terra-line.net:20004/c/1805
-#EXTINF:-1 tvg-name="Планета HD" group-title="Наука",Планета HD
+#EXTINF:-1 tvg-name="Планета HD" group-title="New Group",Планета HD
 http://ru.ottg.tv:9096/play/115/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-id="Наука 2.0" tvg-name="Наука 2.0" tvg-logo="Logo N/A" group-title="Наука",Наука 2.0
+#EXTINF:-1 tvg-id="Наука 2.0" tvg-name="Наука 2.0" tvg-logo="Logo N/A" group-title="New Group",Наука 2.0
 http://tv.terra-line.net:20004/c/1806
-#EXTINF:-1 tvg-id="Первый образовательный" tvg-name="Первый образовательный" tvg-logo="Logo N/A" group-title="Наука",Первый образовательный
+#EXTINF:-1 tvg-id="Первый образовательный" tvg-name="Первый образовательный" tvg-logo="Logo N/A" group-title="New Group",Первый образовательный
 http://tv.terra-line.net:20002/c/19111
-#EXTINF:-1 tvg-id="ПРОСВЕЩЕНИЕ" tvg-name="ПРОСВЕЩЕНИЕ" tvg-logo="Logo N/A" group-title="Наука",ПРОСВЕЩЕНИЕ
+#EXTINF:-1 tvg-id="ПРОСВЕЩЕНИЕ" tvg-name="ПРОСВЕЩЕНИЕ" tvg-logo="Logo N/A" group-title="New Group",ПРОСВЕЩЕНИЕ
 http://tv.terra-line.net:20005/c/2127
-#EXTINF:-1 tvg-id="Страна" tvg-name="Страна" tvg-logo="Logo N/A" group-title="Наука",Страна
+#EXTINF:-1 tvg-id="Страна" tvg-name="Страна" tvg-logo="Logo N/A" group-title="New Group",Страна
 http://tv.terra-line.net:20012/c/420
-#EXTINF:-1 tvg-id="Телеканал Да Винчи" tvg-name="Телеканал Да Винчи" tvg-logo="Logo N/A" group-title="Наука",Телеканал Да Винчи
+#EXTINF:-1 tvg-id="Телеканал Да Винчи" tvg-name="Телеканал Да Винчи" tvg-logo="Logo N/A" group-title="New Group",Телеканал Да Винчи
 http://tv.terra-line.net:20002/c/19101
-#EXTINF:-1 tvg-name="Эврика HD" group-title="Наука",Эврика HD
+#EXTINF:-1 tvg-name="Эврика HD" group-title="New Group",Эврика HD
 http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8
-#EXTINF:-1 tvg-name="Оружие" group-title="Наука",Оружие
+#EXTINF:-1 tvg-name="Оружие" group-title="New Group",Оружие
 http://78.29.1.69/live/oruzhie/copy/playlist.m3u8
-#EXTINF:-1 tvg-name="Terra Incognita" group-title="Наука",Terra Incognita
+#EXTINF:-1 tvg-name="Terra Incognita" group-title="New Group",Terra Incognita
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-name="Живая планета" group-title="Наука",Живая планета
+#EXTINF:-1 tvg-name="Живая планета" group-title="New Group",Живая планета
 http://stream.euroasia.lfstrm.tv/jivaya_planeta/1/index.m3u8
-#EXTINF:-1 tvg-name="Победа HD" group-title="Наука",Победа HD
+#EXTINF:-1 tvg-name="Победа HD" group-title="New Group",Победа HD
 http://ru.ottg.tv:9096/play/252/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-name="В мире животных HD" group-title="Наука",В мире животных HD
+#EXTINF:-1 tvg-name="В мире животных HD" group-title="New Group",В мире животных HD
 http://ru.ottg.tv:9096/play/a0hl/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-name="Психология 21" group-title="Наука",Психология 21
+#EXTINF:-1 tvg-name="Психология 21" group-title="New Group",Психология 21
 http://004433.geydslrsgq4c4mrtgyxdimi.cmle.ru/udp/238.1.1.103:1234
-#EXTINF:-1 tvg-name="Вопросы и ответы" group-title="Наука",Вопросы и ответы
+#EXTINF:-1 tvg-name="Вопросы и ответы" group-title="New Group",Вопросы и ответы
 http://ru.ottg.tv:9096/play/a0hm/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="Logo N/A" group-title="Информационные",Россия 1
+#EXTINF:-1 tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="Logo N/A" group-title="New Group",Россия 1
 http://tv.terra-line.net:20014/c/1001
-#EXTINF:-1 tvg-id="Terra-Line CAM1" tvg-name="Terra-Line CAM1" tvg-logo="Logo N/A" group-title="Информационные",Terra-Line CAM1
+#EXTINF:-1 tvg-id="Terra-Line CAM1" tvg-name="Terra-Line CAM1" tvg-logo="Logo N/A" group-title="New Group",Terra-Line CAM1
 http://tv.terra-line.net:20100/channel/9999
-#EXTINF:-1 tvg-id="Новороссия" tvg-name="Новороссия" tvg-logo="Logo N/A" group-title="Информационные",Новороссия
+#EXTINF:-1 tvg-id="Новороссия" tvg-name="Новороссия" tvg-logo="Logo N/A" group-title="New Group",Новороссия
 http://tv.terra-line.net:20100/channel/1
-#EXTINF:-1 tvg-id="Оплот" tvg-name="Оплот" tvg-logo="Logo N/A" group-title="Информационные",Оплот
+#EXTINF:-1 tvg-id="Оплот" tvg-name="Оплот" tvg-logo="Logo N/A" group-title="New Group",Оплот
 http://tv.terra-line.net:20100/channel/4
-#EXTINF:-1 tvg-id="Оплот 2" tvg-name="Оплот 2" tvg-logo="Logo N/A" group-title="Информационные",Оплот 2
+#EXTINF:-1 tvg-id="Оплот 2" tvg-name="Оплот 2" tvg-logo="Logo N/A" group-title="New Group",Оплот 2
 http://tv.terra-line.net:20100/channel/6
-#EXTINF:-1 tvg-id="Республиканский" tvg-name="Республиканский" tvg-logo="Logo N/A" group-title="Информационные",Республиканский
+#EXTINF:-1 tvg-id="Республиканский" tvg-name="Республиканский" tvg-logo="Logo N/A" group-title="New Group",Республиканский
 http://tv.terra-line.net:20100/channel/2
-#EXTINF:-1 tvg-id="ТРК Юнион" tvg-name="ТРК Юнион" tvg-logo="Logo N/A" group-title="Информационные",ТРК Юнион
+#EXTINF:-1 tvg-id="ТРК Юнион" tvg-name="ТРК Юнион" tvg-logo="Logo N/A" group-title="New Group",ТРК Юнион
 http://tv.terra-line.net:20100/channel/3
-#EXTINF:-1 tvg-id="8 канал" tvg-name="8 канал" tvg-logo="Logo N/A" group-title="Информационные",8 канал
+#EXTINF:-1 tvg-id="8 канал" tvg-name="8 канал" tvg-logo="Logo N/A" group-title="New Group",8 канал
 http://tv.terra-line.net:20008/c/701
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="Logo N/A" group-title="Информационные",Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="Logo N/A" group-title="New Group",Euronews
 http://tv.terra-line.net:20002/c/19114
-#EXTINF:-1 tvg-id="RTД (русск.)" tvg-name="RTД (русск.)" tvg-logo="Logo N/A" group-title="Информационные",RTД (русск.)
+#EXTINF:-1 tvg-id="RTД (русск.)" tvg-name="RTД (русск.)" tvg-logo="Logo N/A" group-title="New Group",RTД (русск.)
 http://tv.terra-line.net:20004/c/1814
-#EXTINF:-1 tvg-id="Астрахань 24" tvg-name="Астрахань 24" tvg-logo="Logo N/A" group-title="Информационные",Астрахань 24
+#EXTINF:-1 tvg-id="Астрахань 24" tvg-name="Астрахань 24" tvg-logo="Logo N/A" group-title="New Group",Астрахань 24
 http://tv.terra-line.net:20004/c/1810
-#EXTINF:-1 tvg-id="БелРос (ТРО)" tvg-name="БелРос (ТРО)" tvg-logo="Logo N/A" group-title="Информационные",БелРос (ТРО)
+#EXTINF:-1 tvg-id="БелРос (ТРО)" tvg-name="БелРос (ТРО)" tvg-logo="Logo N/A" group-title="New Group",БелРос (ТРО)
 http://tv.terra-line.net:20004/c/1807
-#EXTINF:-1 tvg-id="Брянская Губерния" tvg-name="Брянская Губерния" tvg-logo="Logo N/A" group-title="Информационные",Брянская Губерния
+#EXTINF:-1 tvg-id="Брянская Губерния" tvg-name="Брянская Губерния" tvg-logo="Logo N/A" group-title="New Group",Брянская Губерния
 http://tv.terra-line.net:20008/c/720
-#EXTINF:-1 tvg-id="ДОН 24" tvg-name="ДОН 24" tvg-logo="Logo N/A" group-title="Информационные",ДОН 24
+#EXTINF:-1 tvg-id="ДОН 24" tvg-name="ДОН 24" tvg-logo="Logo N/A" group-title="New Group",ДОН 24
 http://tv.terra-line.net:20008/c/717
-#EXTINF:-1 tvg-id="Звезда" tvg-name="Звезда" tvg-logo="Logo N/A" group-title="Информационные",Звезда
+#EXTINF:-1 tvg-id="Звезда" tvg-name="Звезда" tvg-logo="Logo N/A" group-title="New Group",Звезда
 http://tv.terra-line.net:20001/c/1311
-#EXTINF:-1 tvg-id="Известия" tvg-name="Известия" tvg-logo="Logo N/A" group-title="Информационные",Известия
+#EXTINF:-1 tvg-id="Известия" tvg-name="Известия" tvg-logo="Logo N/A" group-title="New Group",Известия
 http://tv.terra-line.net:20005/c/2129
-#EXTINF:-1 tvg-id="МИР 24" tvg-name="МИР 24" tvg-logo="Logo N/A" group-title="Информационные",МИР 24
+#EXTINF:-1 tvg-id="МИР 24" tvg-name="МИР 24" tvg-logo="Logo N/A" group-title="New Group",МИР 24
 http://tv.terra-line.net:20004/c/1823
-#EXTINF:-1 tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="Logo N/A" group-title="Информационные",Москва 24
+#EXTINF:-1 tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="Logo N/A" group-title="New Group",Москва 24
 http://tv.terra-line.net:20005/c/2114
-#EXTINF:-1 tvg-id="ОТР" tvg-name="ОТР" tvg-logo="Logo N/A" group-title="Информационные",ОТР
+#EXTINF:-1 tvg-id="ОТР" tvg-name="ОТР" tvg-logo="Logo N/A" group-title="New Group",ОТР
 http://tv.terra-line.net:20001/c/1308
-#EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="Logo N/A" group-title="Информационные",Первый канал
+#EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="Logo N/A" group-title="New Group",Первый канал
 http://tv.terra-line.net:20016/c/1101
-#EXTINF:-1 tvg-id="Первый канал HD" tvg-name="Первый канал HD" tvg-logo="Logo N/A" group-title="Информационные",Первый канал HD
+#EXTINF:-1 tvg-id="Первый канал HD" tvg-name="Первый канал HD" tvg-logo="Logo N/A" group-title="New Group",Первый канал HD
 http://tv.terra-line.net:20006/c/20105
-#EXTINF:-1 tvg-id="Первый МЕТЕО" tvg-name="Первый МЕТЕО" tvg-logo="Logo N/A" group-title="Информационные",Первый МЕТЕО
+#EXTINF:-1 tvg-id="Первый МЕТЕО" tvg-name="Первый МЕТЕО" tvg-logo="Logo N/A" group-title="New Group",Первый МЕТЕО
 http://tv.terra-line.net:20005/c/2124
-#EXTINF:-1 tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="Logo N/A" group-title="Информационные",Пятый канал
+#EXTINF:-1 tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="Logo N/A" group-title="New Group",Пятый канал
 http://tv.terra-line.net:20014/c/1003
-#EXTINF:-1 tvg-id="РБК-ТВ" tvg-name="РБК-ТВ" tvg-logo="Logo N/A" group-title="Информационные",РБК-ТВ
+#EXTINF:-1 tvg-id="РБК-ТВ" tvg-name="РБК-ТВ" tvg-logo="Logo N/A" group-title="New Group",РБК-ТВ
 http://tv.terra-line.net:20001/c/1317
-#EXTINF:-1 tvg-id="Россия 1 HD" tvg-name="Россия 1 HD" tvg-logo="Logo N/A" group-title="Информационные",Россия 1 HD
+#EXTINF:-1 tvg-id="Россия 1 HD" tvg-name="Россия 1 HD" tvg-logo="Logo N/A" group-title="New Group",Россия 1 HD
 http://tv.terra-line.net:20006/c/20106
-#EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="Logo N/A" group-title="Информационные",Россия 24
+#EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="Logo N/A" group-title="New Group",Россия 24
 http://tv.terra-line.net:20014/c/1006
-#EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="Logo N/A" group-title="Информационные",Россия К
+#EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="Logo N/A" group-title="New Group",Россия К
 http://tv.terra-line.net:20014/c/1005
-#EXTINF:-1 tvg-id="Санкт-Петербург" tvg-name="Санкт-Петербург" tvg-logo="Logo N/A" group-title="Информационные",Санкт-Петербург
+#EXTINF:-1 tvg-id="Санкт-Петербург" tvg-name="Санкт-Петербург" tvg-logo="Logo N/A" group-title="New Group",Санкт-Петербург
 http://tv.terra-line.net:20004/c/1825
-#EXTINF:-1 tvg-id="418" tvg-name="Дождь" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/53.png" group-title="Информационные",Дождь
+#EXTINF:-1 tvg-id="418" tvg-name="Дождь" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/53.png" group-title="New Group",Дождь
 http://37.235.165.86:81/udp/225.50.76.1:1234
-#EXTINF:-1 tvg-name="RTVi" group-title="Информационные",RTVi
+#EXTINF:-1 tvg-name="RTVi" group-title="New Group",RTVi
 http://ru.ottg.tv:9096/play/a0hi/index.m3u8?auth=Alex542:umc80505425516
-#EXTINF:-1 tvg-id="2X2" tvg-name="2X2" tvg-logo="Logo N/A" group-title="Детские",2X2
+#EXTINF:-1 tvg-id="2X2" tvg-name="2X2" tvg-logo="Logo N/A" group-title="New Group",2X2
 http://tv.terra-line.net:20005/c/2101
-#EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="Logo N/A" group-title="Детские",Ani
+#EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="Logo N/A" group-title="New Group",Ani
 http://tv.terra-line.net:20004/c/1821
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="Logo N/A" group-title="Детские",Boomerang
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="Logo N/A" group-title="New Group",Boomerang
 http://tv.terra-line.net:20009/c/821
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Logo N/A" group-title="Детские",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Logo N/A" group-title="New Group",Cartoon Network
 http://tv.terra-line.net:20009/c/802
-#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="Logo N/A" group-title="Детские",Gulli Girl
+#EXTINF:-1 tvg-id="Gulli Girl" tvg-name="Gulli Girl" tvg-logo="Logo N/A" group-title="New Group",Gulli Girl
 http://tv.terra-line.net:20005/c/2122
-#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="Logo N/A" group-title="Детские",JimJam
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="Logo N/A" group-title="New Group",JimJam
 http://tv.terra-line.net:20008/c/708
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="Logo N/A" group-title="Детские",Nick Jr.
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="Logo N/A" group-title="New Group",Nick Jr.
 http://tv.terra-line.net:20009/c/814
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="Logo N/A" group-title="Детские",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="Logo N/A" group-title="New Group",Nickelodeon
 http://tv.terra-line.net:20008/c/709
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="Logo N/A" group-title="Детские",Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="Logo N/A" group-title="New Group",Nickelodeon HD
 http://tv.terra-line.net:20013/c/14106
-#EXTINF:-1 tvg-id="O!" tvg-name="O!" tvg-logo="Logo N/A" group-title="Детские",O!
+#EXTINF:-1 tvg-id="O!" tvg-name="O!" tvg-logo="Logo N/A" group-title="New Group",O!
 http://tv.terra-line.net:20009/c/808
-#EXTINF:-1 tvg-id="TiJi" tvg-name="TiJi" tvg-logo="Logo N/A" group-title="Детские",TiJi
+#EXTINF:-1 tvg-id="TiJi" tvg-name="TiJi" tvg-logo="Logo N/A" group-title="New Group",TiJi
 http://tv.terra-line.net:20005/c/2121
-#EXTINF:-1 tvg-id="В гостях у сказки" tvg-name="В гостях у сказки" tvg-logo="Logo N/A" group-title="Детские",В гостях у сказки
+#EXTINF:-1 tvg-id="В гостях у сказки" tvg-name="В гостях у сказки" tvg-logo="Logo N/A" group-title="New Group",В гостях у сказки
 http://tv.terra-line.net:20012/c/425
-#EXTINF:-1 tvg-id="Детский" tvg-name="Детский" tvg-logo="Logo N/A" group-title="Детские",Детский
+#EXTINF:-1 tvg-id="Детский" tvg-name="Детский" tvg-logo="Logo N/A" group-title="New Group",Детский
 http://tv.terra-line.net:20016/c/1112
-#EXTINF:-1 tvg-id="Детский мир/Телеклуб" tvg-name="Детский мир/Телеклуб" tvg-logo="Logo N/A" group-title="Детские",Детский мир/Телеклуб
+#EXTINF:-1 tvg-id="Детский мир/Телеклуб" tvg-name="Детский мир/Телеклуб" tvg-logo="Logo N/A" group-title="New Group",Детский мир/Телеклуб
 http://tv.terra-line.net:20008/c/703
-#EXTINF:-1 tvg-id="Канал Disney" tvg-name="Канал Disney" tvg-logo="Logo N/A" group-title="Детские",Канал Disney
+#EXTINF:-1 tvg-id="Канал Disney" tvg-name="Канал Disney" tvg-logo="Logo N/A" group-title="New Group",Канал Disney
 http://tv.terra-line.net:20001/c/1312
-#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель" tvg-logo="Logo N/A" group-title="Детские",Карусель
+#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель" tvg-logo="Logo N/A" group-title="New Group",Карусель
 http://tv.terra-line.net:20009/c/822
-#EXTINF:-1 tvg-id="Малыш ТВ" tvg-name="Малыш ТВ" tvg-logo="Logo N/A" group-title="Детские",Малыш ТВ
+#EXTINF:-1 tvg-id="Малыш ТВ" tvg-name="Малыш ТВ" tvg-logo="Logo N/A" group-title="New Group",Малыш ТВ
 http://tv.terra-line.net:20005/c/2125
-#EXTINF:-1 tvg-id="Мульт" tvg-name="Мульт" tvg-logo="Logo N/A" group-title="Детские",Мульт
+#EXTINF:-1 tvg-id="Мульт" tvg-name="Мульт" tvg-logo="Logo N/A" group-title="New Group",Мульт
 http://tv.terra-line.net:20012/c/407
-#EXTINF:-1 tvg-id="Мультимания" tvg-name="Мультимания" tvg-logo="Logo N/A" group-title="Детские",Мультимания
+#EXTINF:-1 tvg-id="Мультимания" tvg-name="Мультимания" tvg-logo="Logo N/A" group-title="New Group",Мультимания
 http://tv.terra-line.net:20012/c/428
-#EXTINF:-1 tvg-id="Мультимузыка" tvg-name="Мультимузыка" tvg-logo="Logo N/A" group-title="Детские",Мультимузыка
+#EXTINF:-1 tvg-id="Мультимузыка" tvg-name="Мультимузыка" tvg-logo="Logo N/A" group-title="New Group",Мультимузыка
 http://tv.terra-line.net:20012/c/420
-#EXTINF:-1 tvg-id="Радость моя" tvg-name="Радость моя" tvg-logo="Logo N/A" group-title="Детские",Радость моя
+#EXTINF:-1 tvg-id="Радость моя" tvg-name="Радость моя" tvg-logo="Logo N/A" group-title="New Group",Радость моя
 http://tv.terra-line.net:20008/c/716
-#EXTINF:-1 tvg-id="Тлум HD" tvg-name="Тлум HD" tvg-logo="Logo N/A" group-title="Детские",Тлум HD
+#EXTINF:-1 tvg-id="Тлум HD" tvg-name="Тлум HD" tvg-logo="Logo N/A" group-title="New Group",Тлум HD
 http://tv.terra-line.net:20011/c/12107
-#EXTINF:-1 tvg-id="BRIDGE HD" tvg-name="BRIDGE HD" tvg-logo="Logo N/A" group-title="Музыка",BRIDGE HD
+#EXTINF:-1 tvg-id="BRIDGE HD" tvg-name="BRIDGE HD" tvg-logo="Logo N/A" group-title="New Group",BRIDGE HD
 http://tv.terra-line.net:20015/c/2206
-#EXTINF:-1 tvg-id="BRIDGE TV" tvg-name="BRIDGE TV" tvg-logo="Logo N/A" group-title="Музыка",BRIDGE TV
+#EXTINF:-1 tvg-id="BRIDGE TV" tvg-name="BRIDGE TV" tvg-logo="Logo N/A" group-title="New Group",BRIDGE TV
 http://tv.terra-line.net:20005/c/2118
-#EXTINF:-1 tvg-id="BRIDGE TV DANCE" tvg-name="BRIDGE TV DANCE" tvg-logo="Logo N/A" group-title="Музыка",BRIDGE TV DANCE
+#EXTINF:-1 tvg-id="BRIDGE TV DANCE" tvg-name="BRIDGE TV DANCE" tvg-logo="Logo N/A" group-title="New Group",BRIDGE TV DANCE
 http://tv.terra-line.net:20004/c/1818
-#EXTINF:-1 tvg-id="BRIDGE TV Русский Хит" tvg-name="BRIDGE TV Русский Хит" tvg-logo="Logo N/A" group-title="Музыка",BRIDGE TV Русский Хит
+#EXTINF:-1 tvg-id="BRIDGE TV Русский Хит" tvg-name="BRIDGE TV Русский Хит" tvg-logo="Logo N/A" group-title="New Group",BRIDGE TV Русский Хит
 http://tv.terra-line.net:20005/c/2119
-#EXTINF:-1 tvg-id="MCM Top" tvg-name="MCM Top" tvg-logo="Logo N/A" group-title="Музыка",MCM Top
+#EXTINF:-1 tvg-id="MCM Top" tvg-name="MCM Top" tvg-logo="Logo N/A" group-title="New Group",MCM Top
 http://tv.terra-line.net:20004/c/1809
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="Logo N/A" group-title="Музыка",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="Logo N/A" group-title="New Group",MTV
 http://tv.terra-line.net:20009/c/809
-#EXTINF:-1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="Logo N/A" group-title="Музыка",MTV Dance
+#EXTINF:-1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="Logo N/A" group-title="New Group",MTV Dance
 http://tv.terra-line.net:20009/c/810
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="Logo N/A" group-title="Музыка",MTV Hits
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="Logo N/A" group-title="New Group",MTV Hits
 http://tv.terra-line.net:20009/c/811
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="Logo N/A" group-title="Музыка",MTV Live HD
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="Logo N/A" group-title="New Group",MTV Live HD
 http://tv.terra-line.net:20013/c/1404
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="MTV Rocks" tvg-logo="Logo N/A" group-title="Музыка",MTV Rocks
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="MTV Rocks" tvg-logo="Logo N/A" group-title="New Group",MTV Rocks
 http://tv.terra-line.net:20009/c/812
-#EXTINF:-1 tvg-id="RU.TV" tvg-name="RU.TV" tvg-logo="Logo N/A" group-title="Музыка",RU.TV
+#EXTINF:-1 tvg-id="RU.TV" tvg-name="RU.TV" tvg-logo="Logo N/A" group-title="New Group",RU.TV
 http://tv.terra-line.net:20004/c/1812
-#EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="Logo N/A" group-title="Музыка",THT MUSIC
+#EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="Logo N/A" group-title="New Group",THT MUSIC
 http://tv.terra-line.net:20001/c/1324
-#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="Logo N/A" group-title="Музыка",VH1 Classic
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="Logo N/A" group-title="New Group",VH1 Classic
 http://tv.terra-line.net:20009/c/816
-#EXTINF:-1 tvg-id="VH1 European" tvg-name="VH1 European" tvg-logo="Logo N/A" group-title="Музыка",VH1 European
+#EXTINF:-1 tvg-id="VH1 European" tvg-name="VH1 European" tvg-logo="Logo N/A" group-title="New Group",VH1 European
 http://tv.terra-line.net:20009/c/817
-#EXTINF:-1 tvg-id="Европа Плюс ТВ" tvg-name="Европа Плюс ТВ" tvg-logo="Logo N/A" group-title="Музыка",Европа Плюс ТВ
+#EXTINF:-1 tvg-id="Европа Плюс ТВ" tvg-name="Европа Плюс ТВ" tvg-logo="Logo N/A" group-title="New Group",Европа Плюс ТВ
 http://tv.terra-line.net:20010/c/103
-#EXTINF:-1 tvg-id="ЖАРА" tvg-name="ЖАРА" tvg-logo="Logo N/A" group-title="Музыка",ЖАРА
+#EXTINF:-1 tvg-id="ЖАРА" tvg-name="ЖАРА" tvg-logo="Logo N/A" group-title="New Group",ЖАРА
 http://tv.terra-line.net:20010/c/123
-#EXTINF:-1 tvg-id="Ля-минор ТВ" tvg-name="Ля-минор ТВ" tvg-logo="Logo N/A" group-title="Музыка",Ля-минор ТВ
+#EXTINF:-1 tvg-id="Ля-минор ТВ" tvg-name="Ля-минор ТВ" tvg-logo="Logo N/A" group-title="New Group",Ля-минор ТВ
 http://tv.terra-line.net:20010/c/111
-#EXTINF:-1 tvg-id="МУЗ" tvg-name="МУЗ" tvg-logo="Logo N/A" group-title="Музыка",МУЗ
+#EXTINF:-1 tvg-id="МУЗ" tvg-name="МУЗ" tvg-logo="Logo N/A" group-title="New Group",МУЗ
 http://tv.terra-line.net:20001/c/1313
-#EXTINF:-1 tvg-id="Музыка Первого" tvg-name="Музыка Первого" tvg-logo="Logo N/A" group-title="Музыка",Музыка Первого
+#EXTINF:-1 tvg-id="Музыка Первого" tvg-name="Музыка Первого" tvg-logo="Logo N/A" group-title="New Group",Музыка Первого
 http://tv.terra-line.net:20009/c/823
-#EXTINF:-1 tvg-id="НАШЕ ТВ" tvg-name="НАШЕ ТВ" tvg-logo="Logo N/A" group-title="Музыка",НАШЕ ТВ
+#EXTINF:-1 tvg-id="НАШЕ ТВ" tvg-name="НАШЕ ТВ" tvg-logo="Logo N/A" group-title="New Group",НАШЕ ТВ
 http://tv.terra-line.net:20005/c/2109
-#EXTINF:-1 tvg-id="Шансон-ТВ" tvg-name="Шансон-ТВ" tvg-logo="Logo N/A" group-title="Музыка",Шансон-ТВ
+#EXTINF:-1 tvg-id="Шансон-ТВ" tvg-name="Шансон-ТВ" tvg-logo="Logo N/A" group-title="New Group",Шансон-ТВ
 http://tv.terra-line.net:20008/c/724
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="Logo N/A" group-title="Спорт",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="Logo N/A" group-title="New Group",Eurosport 1
 http://tv.terra-line.net:20008/c/704
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="Logo N/A" group-title="Спорт",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="Logo N/A" group-title="New Group",EUROSPORT 1 HD
 http://tv.terra-line.net:20007/c/26001
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="Logo N/A" group-title="Спорт",EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="Logo N/A" group-title="New Group",EUROSPORT 2 HD
 http://tv.terra-line.net:20003/c/17107
-#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="Logo N/A" group-title="Спорт",Extreme Sports
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="Logo N/A" group-title="New Group",Extreme Sports
 http://tv.terra-line.net:20002/c/19109
-#EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat Sport" tvg-logo="Logo N/A" group-title="Спорт",Viasat Sport
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat Sport" tvg-logo="Logo N/A" group-title="New Group",Viasat Sport
 http://tv.terra-line.net:20002/c/19108
-#EXTINF:-1 tvg-id="Viasat Sport HD" tvg-name="Viasat Sport HD" tvg-logo="Logo N/A" group-title="Спорт",Viasat Sport HD
+#EXTINF:-1 tvg-id="Viasat Sport HD" tvg-name="Viasat Sport HD" tvg-logo="Logo N/A" group-title="New Group",Viasat Sport HD
 http://tv.terra-line.net:20003/c/17106
-#EXTINF:-1 tvg-id="БОКС ТВ" tvg-name="БОКС ТВ" tvg-logo="Logo N/A" group-title="Спорт",БОКС ТВ
+#EXTINF:-1 tvg-id="БОКС ТВ" tvg-name="БОКС ТВ" tvg-logo="Logo N/A" group-title="New Group",БОКС ТВ
 http://tv.terra-line.net:20012/c/422
-#EXTINF:-1 tvg-id="МАТЧ!" tvg-name="МАТЧ!" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ!
+#EXTINF:-1 tvg-id="МАТЧ!" tvg-name="МАТЧ!" tvg-logo="Logo N/A" group-title="New Group",МАТЧ!
 http://tv.terra-line.net:20014/c/1002
-#EXTINF:-1 tvg-id="МАТЧ! HD" tvg-name="МАТЧ! HD" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! HD
+#EXTINF:-1 tvg-id="МАТЧ! HD" tvg-name="МАТЧ! HD" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! HD
 http://tv.terra-line.net:20015/c/2204
-#EXTINF:-1 tvg-id="МАТЧ! АРЕНА" tvg-name="МАТЧ! АРЕНА" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! АРЕНА
+#EXTINF:-1 tvg-id="МАТЧ! АРЕНА" tvg-name="МАТЧ! АРЕНА" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! АРЕНА
 http://tv.terra-line.net:20001/c/1301
-#EXTINF:-1 tvg-id="МАТЧ! АРЕНА HD" tvg-name="МАТЧ! АРЕНА HD" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! АРЕНА HD
+#EXTINF:-1 tvg-id="МАТЧ! АРЕНА HD" tvg-name="МАТЧ! АРЕНА HD" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! АРЕНА HD
 http://tv.terra-line.net:20011/c/12104
-#EXTINF:-1 tvg-id="МАТЧ! БОЕЦ" tvg-name="МАТЧ! БОЕЦ" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! БОЕЦ
+#EXTINF:-1 tvg-id="МАТЧ! БОЕЦ" tvg-name="МАТЧ! БОЕЦ" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! БОЕЦ
 http://tv.terra-line.net:20001/c/1302
-#EXTINF:-1 tvg-id="МАТЧ! ИГРА" tvg-name="МАТЧ! ИГРА" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ИГРА
+#EXTINF:-1 tvg-id="МАТЧ! ИГРА" tvg-name="МАТЧ! ИГРА" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ИГРА
 http://tv.terra-line.net:20001/c/1303
-#EXTINF:-1 tvg-id="МАТЧ! ИГРА HD" tvg-name="МАТЧ! ИГРА HD" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ИГРА HD
+#EXTINF:-1 tvg-id="МАТЧ! ИГРА HD" tvg-name="МАТЧ! ИГРА HD" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ИГРА HD
 http://tv.terra-line.net:20011/c/12102
-#EXTINF:-1 tvg-id="МАТЧ! НАШ СПОРТ" tvg-name="МАТЧ! НАШ СПОРТ" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! НАШ СПОРТ
+#EXTINF:-1 tvg-id="МАТЧ! НАШ СПОРТ" tvg-name="МАТЧ! НАШ СПОРТ" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! НАШ СПОРТ
 http://tv.terra-line.net:20001/c/1304
-#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ФУТБОЛ 1
+#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ФУТБОЛ 1
 http://tv.terra-line.net:20001/c/1305
-#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 1 HD" tvg-name="МАТЧ! ФУТБОЛ 1 HD" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
+#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 1 HD" tvg-name="МАТЧ! ФУТБОЛ 1 HD" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ФУТБОЛ 1 HD
 http://tv.terra-line.net:20013/c/14105
-#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ФУТБОЛ 2
+#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ФУТБОЛ 2
 http://tv.terra-line.net:20001/c/1306
-#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 2 HD" tvg-name="МАТЧ! ФУТБОЛ 2 HD" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
+#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 2 HD" tvg-name="МАТЧ! ФУТБОЛ 2 HD" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ФУТБОЛ 2 HD
 http://tv.terra-line.net:20013/c/1401
-#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ФУТБОЛ 3
+#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ФУТБОЛ 3
 http://tv.terra-line.net:20001/c/1307
-#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 3 HD" tvg-name="МАТЧ! ФУТБОЛ 3 HD" tvg-logo="Logo N/A" group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD
+#EXTINF:-1 tvg-id="МАТЧ! ФУТБОЛ 3 HD" tvg-name="МАТЧ! ФУТБОЛ 3 HD" tvg-logo="Logo N/A" group-title="New Group",МАТЧ! ФУТБОЛ 3 HD
 http://tv.terra-line.net:20013/c/1402
-#EXTINF:-1 tvg-id="НАШ ФУТБОЛ" tvg-name="НАШ ФУТБОЛ" tvg-logo="Logo N/A" group-title="Спорт",НАШ ФУТБОЛ
+#EXTINF:-1 tvg-id="НАШ ФУТБОЛ" tvg-name="НАШ ФУТБОЛ" tvg-logo="Logo N/A" group-title="New Group",НАШ ФУТБОЛ
 http://tv.terra-line.net:20001/c/1314
-#EXTINF:-1 tvg-id="НАШ ФУТБОЛ HD" tvg-name="НАШ ФУТБОЛ HD" tvg-logo="Logo N/A" group-title="Спорт",НАШ ФУТБОЛ HD
+#EXTINF:-1 tvg-id="НАШ ФУТБОЛ HD" tvg-name="НАШ ФУТБОЛ HD" tvg-logo="Logo N/A" group-title="New Group",НАШ ФУТБОЛ HD
 http://tv.terra-line.net:20013/c/1403
-#EXTINF:-1 tvg-id="Телеканал КХЛ" tvg-name="Телеканал КХЛ" tvg-logo="Logo N/A" group-title="Спорт",Телеканал КХЛ
+#EXTINF:-1 tvg-id="Телеканал КХЛ" tvg-name="Телеканал КХЛ" tvg-logo="Logo N/A" group-title="New Group",Телеканал КХЛ
 http://tv.terra-line.net:20001/c/1318
-#EXTINF:-1 tvg-id="Телеканал КХЛ HD" tvg-name="Телеканал КХЛ HD" tvg-logo="Logo N/A" group-title="Спорт",Телеканал КХЛ HD
+#EXTINF:-1 tvg-id="Телеканал КХЛ HD" tvg-name="Телеканал КХЛ HD" tvg-logo="Logo N/A" group-title="New Group",Телеканал КХЛ HD
 http://tv.terra-line.net:20011/c/12106
-#EXTINF:-1 tvg-id="Точка отрыва" tvg-name="Точка отрыва" tvg-logo="Logo N/A" group-title="Спорт",Точка отрыва
+#EXTINF:-1 tvg-id="Точка отрыва" tvg-name="Точка отрыва" tvg-logo="Logo N/A" group-title="New Group",Точка отрыва
 http://tv.terra-line.net:20002/c/19110
-#EXTINF:-1 tvg-id="Ланет INFO" tvg-name="Ланет INFO" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет INFO
+#EXTINF:-1 tvg-id="Ланет INFO" tvg-name="Ланет INFO" tvg-logo="Logo N/A" group-title="New Group",Ланет INFO
 http://play.lanet.tv/index/2010.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет LIVE" tvg-name="Ланет LIVE" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет LIVE
+#EXTINF:-1 tvg-id="Ланет LIVE" tvg-name="Ланет LIVE" tvg-logo="Logo N/A" group-title="New Group",Ланет LIVE
 http://play.lanet.tv/index/2008.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет FLIX" tvg-name="Ланет FLIX" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет FLIX
+#EXTINF:-1 tvg-id="Ланет FLIX" tvg-name="Ланет FLIX" tvg-logo="Logo N/A" group-title="New Group",Ланет FLIX
 http://play.lanet.tv/index/2001.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет PLAY" tvg-name="Ланет PLAY" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет PLAY
+#EXTINF:-1 tvg-id="Ланет PLAY" tvg-name="Ланет PLAY" tvg-logo="Logo N/A" group-title="New Group",Ланет PLAY
 http://play.lanet.tv/index/2003.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет FIGHT" tvg-name="Ланет FIGHT" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет FIGHT
+#EXTINF:-1 tvg-id="Ланет FIGHT" tvg-name="Ланет FIGHT" tvg-logo="Logo N/A" group-title="New Group",Ланет FIGHT
 http://play.lanet.tv/index/2006.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет BRAIN" tvg-name="Ланет BRAIN" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет BRAIN
+#EXTINF:-1 tvg-id="Ланет BRAIN" tvg-name="Ланет BRAIN" tvg-logo="Logo N/A" group-title="New Group",Ланет BRAIN
 http://play.lanet.tv/index/2007.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет HOME" tvg-name="Ланет HOME" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет HOME
+#EXTINF:-1 tvg-id="Ланет HOME" tvg-name="Ланет HOME" tvg-logo="Logo N/A" group-title="New Group",Ланет HOME
 http://play.lanet.tv/index/2009.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет LIFE" tvg-name="Ланет LIFE" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет LIFE
+#EXTINF:-1 tvg-id="Ланет LIFE" tvg-name="Ланет LIFE" tvg-logo="Logo N/A" group-title="New Group",Ланет LIFE
 http://play.lanet.tv/index/1025.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
-#EXTINF:-1 tvg-id="Ланет AVENUE" tvg-name="Ланет AVENUE" tvg-logo="Logo N/A" group-title="Ланет TV",Ланет AVENUE
+#EXTINF:-1 tvg-id="Ланет AVENUE" tvg-name="Ланет AVENUE" tvg-logo="Logo N/A" group-title="New Group",Ланет AVENUE
 http://play.lanet.tv/index/2004.m3u8?key=TOKgC3KOGK0jL4hv&q=max&ssl=false
