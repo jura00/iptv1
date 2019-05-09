@@ -1,0 +1,355 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Україна",UA: Перший
+https://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",1+1
+http://185.41.23.27:8000/play/a001
+#EXTINF:-1 group-title="Україна",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ICTV
+http://185.41.23.27:8000/play/a00p
+#EXTINF:-1 group-title="Україна",Україна
+http://185.41.23.27:8000/play/a031
+#EXTINF:-1 group-title="Україна",Україна
+http://78.26.128.52:6666
+#EXTINF:-1 group-title="Україна",СТБ
+http://185.41.23.27:8000/play/a00y
+#EXTINF:-1 group-title="Україна",Мега
+http://185.41.23.27:8000/play/a01z
+#EXTINF:-1 group-title="Україна",Новий канал
+http://185.41.23.27:8000/play/a00v
+#EXTINF:-1 group-title="Україна",НЛО
+http://185.41.23.27:8000/play/a03f
+#EXTINF:-1 group-title="Україна",2+2
+http://185.41.23.27:8000/play/a011
+#EXTINF:-1 group-title="Україна",ТЕТ
+http://185.41.23.27:8000/play/a010
+#EXTINF:-1 group-title="Україна",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Україна",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Україна",К2
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0025_nd)/index.m3u8
+#EXTINF:-1 group-title="Україна",Ентер фільм
+http://185.41.23.27:8000/play/a032
+#EXTINF:-1 group-title="Україна",Квартал
+http://185.41.23.27:8000/play/a030
+#EXTINF:-1 group-title="Україна",Бігуді
+http://185.41.23.27:8000/play/a003
+#EXTINF:-1 group-title="Україна",Сонце
+http://185.41.23.27:8000/play/a00g
+#EXTINF:-1 group-title="Україна",Оце
+http://185.41.23.27:8000/play/a00w
+#EXTINF:-1 group-title="Україна",Наука
+http://185.41.23.27:8000/play/a027
+#EXTINF:-1 group-title="Україна",Фауна
+http://185.41.23.27:8000/play/a02i
+#EXTINF:-1 group-title="Україна",Терра
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0007)/index.m3u8
+#EXTINF:-1 group-title="Україна",Індиго
+http://185.41.23.27:8000/play/a02y
+#EXTINF:-1 group-title="Україна",Bolt
+http://185.41.23.27:8000/play/a02v
+#EXTINF:-1 group-title="Україна",FILM.UA Драма
+http://185.41.23.27:8000/play/a01p
+#EXTINF:-1 group-title="Україна",Всі Новини
+http://185.41.23.27:8000/play/a02w
+#EXTINF:-1 group-title="Україна",NewsOne
+http://185.41.23.27:8000/play/a02e
+#EXTINF:-1 group-title="Україна",News Network
+http://185.41.23.27:8000/play/a03d
+#EXTINF:-1 group-title="Україна",Zik
+http://185.41.23.27:8000/play/a00n
+#EXTINF:-1 group-title="Україна",Трофей
+http://185.41.23.27:8000/play/a03p
+#EXTINF:-1 group-title="Україна",Дача
+http://185.41.23.27:8000/play/a01i
+#EXTINF:-1 group-title="Україна",UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 group-title="Україна",UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title="Україна",UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1 group-title="Україна",UA:Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 group-title="Україна",UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1 group-title="Україна",Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1 group-title="Україна",Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="Україна",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="Україна",5 канал Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1 group-title="Україна",Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title="Україна",112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 group-title="Україна",Громадське ТБ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:-1 group-title="Україна",Новини 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title="Україна",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="Україна",Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 group-title="Україна",Наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="Україна",Тиса 1
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0029)/index.m3u8
+#EXTINF:-1 group-title="Україна",4 Київ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Україна",34
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1 group-title="Україна",Перший західний
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
+#EXTINF:-1 group-title="Україна",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="Україна",ЕКО-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Україна",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="Україна",Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+#EXTINF:-1 group-title="Україна",Odessa Fashion
+http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
+#EXTINF:-1 group-title="Україна",Черноморская ТРК
+http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
+#EXTINF:-1 group-title="Україна",ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1 group-title="Україна",UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1 group-title="Україна",Прямий TIM
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Україна",112 Украина
+http://95.67.12.67/hls/112hd-letter/index.m3u8
+#EXTINF:-1 group-title="Україна",112 Україна HD
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",Громадське HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="Україна",4 Київ HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1 group-title="Україна",ЧП Інфо
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1 group-title="Україна",Обоз ТВ
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1 group-title="Україна",Обоз ТВ HD
+https://player.obozrevatel.com/live3/stream.m3u8
+#EXTINF:-1 group-title="Україна",Правда ТУТ HD (Київ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",Перший західний
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Первый деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",Донеччина TV HD
+http://stream.dn.ua/hls/stream.m3u8
+#EXTINF:-1 group-title="Україна",34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Київ ТВ
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Україна",НТК ТВ Україна
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Україна",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Україна",Sirius
+http://open-cdn.lanet.tv/live/1019.m3u8
+#EXTINF:-1 group-title="Україна",ЕСКУЛАП-ТВ
+http://46.175.163.130:7000/Eskulap
+#EXTINF:-1 group-title="Україна",Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Черноморска ТРК
+http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="Україна",UA: Культура
+http://ua-culture-hls1.cosmonova.net.ua/hls/ua-culture_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",Тернопіль 1
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="Україна",4 ТВ Тернопіль
+http://vs35.vcdn.biz/565911f150470715ddf783b99e3d607e_megogo/live/hls/u_sid/0/o/71044361/u_uid/0/u_vod/1/u_device/embed_all/type.live/chunklist-sid1623484848-b700000.m3u8
+#EXTINF:-1 group-title="Україна",Чернiвцi
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ТВА Чернівці
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 group-title="Україна",Черновицкий Проминь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Україна",Херсон плюс
+http://iptv.rubintele.com:8552/play/a001
+#EXTINF:-1 group-title="Україна",Скіфія (Херсон)
+https://cdn1.suspilne.media/hls/reg/scythia.m3u8
+#EXTINF:-1 group-title="Україна",ВТВ Плюс (Херсон)
+rtmp://live.vtvplus.com.ua/live/online
+#EXTINF:-1 group-title="Україна",KRATU (Херсон)
+http://212.113.32.169:8080/Apple/2/index.m3u8
+#EXTINF:-1 group-title="Україна",Твой Плюс (Херсон)
+http://62.64.92.118:8080/Apple/1/index.m3u8
+#EXTINF:-1 group-title="Україна",ЯТБ Херсон
+http://46.175.163.130/vod/9/index.m3u8
+#EXTINF:-1 group-title="Україна",Первый Городской HD (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Україна",1-й городской
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна",А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна",А1 HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Третий цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Україна",М1
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0013_nd)/index.m3u8
+#EXTINF:-1 group-title="Україна",M2
+http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0012_nd)/index.m3u8
+#EXTINF:-1 group-title="Україна",Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 group-title="Україна",UA: Донбас
+https://cdn1.suspilne.media/hls/reg/donbass.m3u8
+#EXTINF:-1 group-title="Україна",UA: Буковина
+https://cdn1.suspilne.media/hls/reg/bykovyna.m3u8
+#EXTINF:-1 group-title="Україна",UA: Полтава
+https://cdn1.suspilne.media/hls/reg/ltava.m3u8
+#EXTINF:-1 group-title="Україна",UA: Карпати
+https://cdn1.suspilne.media/hls/reg/karpaty.m3u8
+#EXTINF:-1 group-title="Україна",UA: Львів
+https://cdn1.suspilne.media/hls/reg/lviv.m3u8
+#EXTINF:-1 group-title="Україна",UA: Одеса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1 group-title="Україна",UA: Харьков
+https://cdn1.suspilne.media/hls/reg/otb.m3u8
+#EXTINF:-1 group-title="Україна",UA: Суми
+https://cdn1.suspilne.media/hls/reg/sumy.m3u8
+#EXTINF:-1 group-title="Україна",UA: Чернігів
+https://cdn1.suspilne.media/hls/reg/syver.m3u8
+#EXTINF:-1 group-title="Україна",UA: Черкаси
+https://cdn1.suspilne.media/hls/reg/ros.m3u8
+#EXTINF:-1 group-title="Україна",UA: Вінниця
+https://cdn1.suspilne.media/hls/reg/vintera.m3u8
+#EXTINF:-1 group-title="Україна",UA: Волинь
+https://cdn1.suspilne.media/hls/reg/nova-volyn.m3u8
+#EXTINF:-1 group-title="Україна",UA: Рівне
+https://cdn1.suspilne.media/hls/reg/rtb.m3u8
+#EXTINF:-1 group-title="Україна",UA: Запоріжжя
+https://cdn1.suspilne.media/hls/reg/zaporizhia.m3u8
+#EXTINF:-1 group-title="Україна",UA: Поділля
+https://cdn1.suspilne.media/hls/reg/podillia-center.m3u8
+#EXTINF:-1 group-title="Україна",UA: Крипивницький
+https://cdn1.suspilne.media/hls/reg/kirovohrad.m3u8
+#EXTINF:-1 group-title="Україна",STV (Одесса)
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Olvia (Одесса)
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ТРК Репортер (Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Думская ТВ (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Южная Волна ТВ (Одесса)
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Южная Волна ТВ HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ТРК Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 group-title="Україна",G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",G TV (Одесса) [HD]
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ТВ-Дом (Одесса)
+http://46.149.48.21:1234
+#EXTINF:-1 group-title="Україна",Медіа Інформ (Одесса)
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Кілія (Одесса)
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Первый городской (Кривий Ріг)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ТРК Рудана HD (Кривий Ріг)
+http://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1 group-title="Україна",TV5 (Запоріжжя)
+http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
+#EXTINF:-1 group-title="Україна",Алекс (Запоріжжя)
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:-1 group-title="Україна",Z (Запоріжжя)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Україна",М-студіо (Мукачево)
+http://213.174.23.59:8080/MS
+#EXTINF:-1 group-title="Україна",21 канал Ужгород
+http://s9.crafit.com:8087/live/qa6pk3/hls/live.m3u8
+#EXTINF:-1 group-title="Україна",TV7+ (Хмельницкий)
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:-1 group-title="Україна",33 канал (Хмельницкий)
+http://77.120.29.10/hls/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Антенна (Черкаси)
+http://streamer.antenna.com.ua/hls/antenna.m3u8
+#EXTINF:-1 group-title="Україна",Антенна HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Україна",Аверс ТВ (Луцк)
+http://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 group-title="Україна",Архат ТВ HD (Украина)
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="Україна",НТА (Львов)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 group-title="Україна",НТА (Львов) (HD)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",НТА (Львов) [FHD]
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",Одеса
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",11 канал (Днепропетровск)
+http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Україна",КТМ (Александрия)
+http://109.196.177.12:55555
+#EXTINF:-1 group-title="Україна",Центральный
+http://159.224.182.177:8080/stream5/stream.m3u8
+#EXTINF:-1 group-title="Україна",Орбіта
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 group-title="Україна",Сімон
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Україна",СК1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна",СК1 HD
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Пульсар UA
+rtmp://78.154.164.191:19350/Pulsar/forever
+#EXTINF:-1 group-title="Україна",Общественное Независимое ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Україна",Перший Казацький
+rtmp://217.20.182.229/live/livestream
+#EXTINF:-1 group-title="Україна",Boutique TV
+http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Skrypin UA
+http://play.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="Україна",Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:-1 group-title="Україна",Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Надiя
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700_av-p.m3u8
+#EXTINF:-1 group-title="Україна",Глас UA
+rtmp://gigaz.wi.com.ua/hallDemo/glassua
+#EXTINF:-1 group-title="Україна",Возрождение TV HD
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
+#EXTINF:-1 group-title="Україна",TBN_HD Україна
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Україна",ID Fashion HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",MostVideo UA HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
