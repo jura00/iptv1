@@ -1,0 +1,1605 @@
+#EXTM3U list-autor="© http://ProxyTV.ru"
+#EXTINF:-1 group-title="ProxyTV.ru",1-BRIDGE TV РУССКИЙ ХИТ
+http://85.114.189.252:4022/udp/232.0.1.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",2-BRIDGE TV
+http://85.114.189.252:4022/udp/232.0.1.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",3-ЧЕ
+http://85.114.189.252:4022/udp/232.0.1.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",4-РБК
+http://85.114.189.252:4022/udp/232.0.1.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",5-ПЕРВЫЙ КАНАЛ HD
+http://85.114.189.252:4022/udp/232.0.1.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",6-TV XXI
+http://85.114.189.252:4022/udp/232.0.1.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",7-Ю
+http://85.114.189.252:4022/udp/232.0.1.25:1234
+#EXTINF:-1 group-title="ProxyTV.ru",8-1HD
+http://85.114.189.252:4022/udp/232.0.1.26:1234
+#EXTINF:-1 group-title="ProxyTV.ru",9-РОССИЯ 1 HD
+http://85.114.189.252:4022/udp/232.0.1.57:1234
+#EXTINF:-1 group-title="ProxyTV.ru",10-МИР PREMIUM HD
+http://85.114.189.252:4022/udp/232.0.1.58:1234
+#EXTINF:-1 group-title="ProxyTV.ru",11-ZOOПАРК
+http://85.114.189.252:4022/udp/232.0.1.62:1234
+#EXTINF:-1 group-title="ProxyTV.ru",12-MUSIC BOX RUSSIAN
+http://85.114.189.252:4022/udp/232.0.2.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",13-???
+http://85.114.189.252:4022/udp/232.0.2.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",14-РОССИЯ РТР
+http://85.114.189.252:4022/udp/232.0.2.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",15-2X2
+http://85.114.189.252:4022/udp/232.0.2.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",16-ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://85.114.189.252:4022/udp/232.0.2.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",17-ЗВЕЗДА
+http://85.114.189.252:4022/udp/232.0.2.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",18-БЕЛРОС
+http://85.114.189.252:4022/udp/232.0.2.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",19-DISNEY CHANNEL
+http://85.114.189.252:4022/udp/232.0.2.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",20-РАДОСТЬ МОЯ
+http://85.114.189.252:4022/udp/232.0.2.25:1234
+#EXTINF:-1 group-title="ProxyTV.ru",21-СТС LOVE
+http://85.114.189.252:4022/udp/232.0.2.48:1234
+#EXTINF:-1 group-title="ProxyTV.ru",22-ДЕТСКИЙ
+http://85.114.189.252:4022/udp/232.0.2.49:1234
+#EXTINF:-1 group-title="ProxyTV.ru",23-РУССКИЙ ИЛЛЮЗИОН
+http://85.114.189.252:4022/udp/232.0.2.57:1234
+#EXTINF:-1 group-title="ProxyTV.ru",24-ИЛЛЮЗИОН+
+http://85.114.189.252:4022/udp/232.0.2.59:1234
+#EXTINF:-1 group-title="ProxyTV.ru",25-МАТЧ! HD
+http://85.114.189.252:4022/udp/232.0.2.63:1234
+#EXTINF:-1 group-title="ProxyTV.ru",26-ПЕРВЫЙ КАНАЛ
+http://85.114.189.252:4022/udp/232.0.3.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",27-РОССИЯ 1
+http://85.114.189.252:4022/udp/232.0.3.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",28-МАТЧ!
+http://85.114.189.252:4022/udp/232.0.3.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",29-НТВ
+http://85.114.189.252:4022/udp/232.0.3.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",30-РОССИЯ К
+http://85.114.189.252:4022/udp/232.0.3.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",31-РОССИЯ 24
+http://85.114.189.252:4022/udp/232.0.3.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",32-КАРУСЕЛЬ
+http://85.114.189.252:4022/udp/232.0.3.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",33-ОТР
+http://85.114.189.252:4022/udp/232.0.3.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",34-ТВЦ
+http://85.114.189.252:4022/udp/232.0.3.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",35-РЕН ТВ
+http://85.114.189.252:4022/udp/232.0.3.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",36-СПАС
+http://85.114.189.252:4022/udp/232.0.3.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",37-СТС
+http://85.114.189.252:4022/udp/232.0.3.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",38-ДОМАШНИЙ
+http://85.114.189.252:4022/udp/232.0.3.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",39-ПЯТНИЦА
+http://85.114.189.252:4022/udp/232.0.3.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",40-ЗВЕЗДА
+http://85.114.189.252:4022/udp/232.0.3.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",41-МИР
+http://85.114.189.252:4022/udp/232.0.3.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",42-ТНТ
+http://85.114.189.252:4022/udp/232.0.3.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",43-МУЗ ТВ
+http://85.114.189.252:4022/udp/232.0.3.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",44-ГУБЕРНИЯ
+http://85.114.189.252:4022/udp/232.0.3.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",45-1HD
+http://164.215.94.88:81/udp/233.12.144.101:5050
+#EXTINF:-1 group-title="ProxyTV.ru",46-2X2
+http://164.215.94.88:81/udp/233.12.144.2:5050
+#EXTINF:-1 group-title="ProxyTV.ru",47-360° HD
+http://164.215.94.88:81/udp/226.100.10.102:1234
+#EXTINF:-1 group-title="ProxyTV.ru",48-365 ДНЕЙ
+http://164.215.94.88:81/udp/233.12.144.132:5050
+#EXTINF:-1 group-title="ProxyTV.ru",49-ПЯТЫЙ КАНАЛ
+http://164.215.94.88:81/udp/238.1.1.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",50-ПЯТЫЙ КАНАЛ
+http://164.215.94.88:81/udp/238.1.1.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",51-АИСТ
+http://164.215.94.88:81/udp/238.1.1.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",52-АИСТ
+http://164.215.94.88:81/udp/238.1.1.76:1234
+#EXTINF:-1 group-title="ProxyTV.ru",53-БЕЛРОС
+http://164.215.94.88:81/udp/226.100.10.113:1234
+#EXTINF:-1 group-title="ProxyTV.ru",54-БОБЕР
+http://164.215.94.88:81/udp/226.100.10.123:1234
+#EXTINF:-1 group-title="ProxyTV.ru",55-БОБЕР
+http://164.215.94.88:81/udp/233.12.144.45:5050
+#EXTINF:-1 group-title="ProxyTV.ru",56-ВМЕСТЕ РФ
+http://164.215.94.88:81/udp/226.100.10.110:1234
+#EXTINF:-1 group-title="ProxyTV.ru",57-ВРЕМЯ
+http://164.215.94.88:81/udp/226.100.10.121:1234
+#EXTINF:-1 group-title="ProxyTV.ru",58-ВРЕМЯ
+http://164.215.94.88:81/udp/233.12.144.29:5050
+#EXTINF:-1 group-title="ProxyTV.ru",59-ДЕТСКИЙ
+http://164.215.94.88:81/udp/233.12.144.30:5050
+#EXTINF:-1 group-title="ProxyTV.ru",60-ДЕТСКИЙ МИР
+http://164.215.94.88:81/udp/233.12.144.31:5050
+#EXTINF:-1 group-title="ProxyTV.ru",61-ДИАЛОГИ О РЫБАЛКЕ 
+http://164.215.94.88:81/udp/233.12.144.106:5050
+#EXTINF:-1 group-title="ProxyTV.ru",62-ДОМ КИНО
+http://164.215.94.88:81/udp/226.100.10.116:1234
+#EXTINF:-1 group-title="ProxyTV.ru",63-ДОМАШНИЙ
+http://164.215.94.88:81/udp/238.1.1.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",64-ДОМАШНИЙ
+http://164.215.94.88:81/udp/238.1.1.45:1234
+#EXTINF:-1 group-title="ProxyTV.ru",65-ДРАЙВ
+http://164.215.94.88:81/udp/233.12.144.35:5050
+#EXTINF:-1 group-title="ProxyTV.ru",66-ЕДА
+http://164.215.94.88:81/udp/233.12.144.231:5050
+#EXTINF:-1 group-title="ProxyTV.ru",67-ЖИВИ!
+http://164.215.94.88:81/udp/233.12.144.129:5050
+#EXTINF:-1 group-title="ProxyTV.ru",68-ЗАГОРОДНАЯ ЖИЗНЬ
+http://164.215.94.88:81/udp/233.12.144.232:5050
+#EXTINF:-1 group-title="ProxyTV.ru",69-ЗАГОРОДНЫЙ
+http://164.215.94.88:81/udp/233.12.144.233:5050
+#EXTINF:-1 group-title="ProxyTV.ru",70-ЗВЕЗДА
+http://164.215.94.88:81/udp/238.1.1.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",71-ЗВЕЗДА
+http://164.215.94.88:81/udp/238.1.1.48:1234
+#EXTINF:-1 group-title="ProxyTV.ru",72-ЗВЕЗДА
+http://164.215.94.88:81/udp/233.12.144.36:5050
+#EXTINF:-1 group-title="ProxyTV.ru",73-ИЛЛЮЗИОН+
+http://164.215.94.88:81/udp/233.12.144.38:5050
+#EXTINF:-1 group-title="ProxyTV.ru",74-КАЛЕЙДАСКОП ТВ
+http://164.215.94.88:81/udp/226.100.10.104:1234
+#EXTINF:-1 group-title="ProxyTV.ru",75-КАРУСЕЛЬ
+http://164.215.94.88:81/udp/238.1.1.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",76-КАРУСЕЛЬ
+http://164.215.94.88:81/udp/238.1.1.39:1234
+#EXTINF:-1 group-title="ProxyTV.ru",77-КАРУСЕЛЬ
+http://164.215.94.88:81/udp/233.12.144.39:5050
+#EXTINF:-1 group-title="ProxyTV.ru",78-КИНОМИКС
+http://164.215.94.88:81/udp/233.12.144.51:5050
+#EXTINF:-1 group-title="ProxyTV.ru",79-КИНОСЕРИЯ
+http://164.215.94.88:81/udp/233.12.144.238:5050
+#EXTINF:-1 group-title="ProxyTV.ru",80-КУХНЯ ТВ
+http://164.215.94.88:81/udp/233.12.144.41:5050
+#EXTINF:-1 group-title="ProxyTV.ru",81-КХЛ
+http://164.215.94.88:81/udp/233.12.144.42:5050
+#EXTINF:-1 group-title="ProxyTV.ru",82-ЛДПР ТВ
+http://164.215.94.88:81/udp/226.100.10.111:1234
+#EXTINF:-1 group-title="ProxyTV.ru",83-МАТЧ!
+http://164.215.94.88:81/udp/238.1.1.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",84-МАТЧ!
+http://164.215.94.88:81/udp/238.1.1.34:1234
+#EXTINF:-1 group-title="ProxyTV.ru",85-МИР
+http://164.215.94.88:81/udp/238.1.1.49:1234
+#EXTINF:-1 group-title="ProxyTV.ru",86-МИР СЕРИАЛА
+http://164.215.94.88:81/udp/233.12.144.246:5050
+#EXTINF:-1 group-title="ProxyTV.ru",87-МОРСКОЙ
+http://164.215.94.88:81/udp/233.12.144.11:5050
+#EXTINF:-1 group-title="ProxyTV.ru",88-МУЗ ТВ
+http://164.215.94.88:81/udp/238.1.1.51:1234
+#EXTINF:-1 group-title="ProxyTV.ru",89-МУЗЫКА ПЕРВОГО
+http://164.215.94.88:81/udp/226.100.10.115:1234
+#EXTINF:-1 group-title="ProxyTV.ru",90-МУЗЫКА ПЕРВОГО
+http://164.215.94.88:81/udp/233.12.144.47:5050
+#EXTINF:-1 group-title="ProxyTV.ru",91-МУЛЬТ
+http://164.215.94.88:81/udp/238.1.1.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",92-НАУКА
+http://164.215.94.88:81/udp/226.100.10.197:1234
+#EXTINF:-1 group-title="ProxyTV.ru",93-НАШЕ TV
+http://164.215.94.88:81/udp/226.100.10.130:1234
+#EXTINF:-1 group-title="ProxyTV.ru",94-НАШЕ TV
+http://164.215.94.88:81/udp/233.12.144.203:5050
+#EXTINF:-1 group-title="ProxyTV.ru",95-НСТ
+http://164.215.94.88:81/udp/238.1.1.27:1234
+#EXTINF:-1 group-title="ProxyTV.ru",96-НТВ
+http://164.215.94.88:81/udp/238.1.1.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",97-НТВ
+http://164.215.94.88:81/udp/238.1.1.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",98-О!
+http://164.215.94.88:81/udp/226.100.10.117:1234
+#EXTINF:-1 group-title="ProxyTV.ru",99-О!
+http://164.215.94.88:81/udp/233.12.144.253:5050
+#EXTINF:-1 group-title="ProxyTV.ru",100-ОРУЖИЕ
+http://164.215.94.88:81/udp/238.1.1.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",101-ОТР
+http://164.215.94.88:81/udp/238.1.1.40:1234
+#EXTINF:-1 group-title="ProxyTV.ru",102-ОХОТА И РЫБАЛКА
+http://164.215.94.88:81/udp/233.12.144.54:5050
+#EXTINF:-1 group-title="ProxyTV.ru",103-ОХОТНИК И РЫБОЛОВ HD
+http://164.215.94.88:81/udp/233.12.144.191:5050
+#EXTINF:-1 group-title="ProxyTV.ru",104-ПЕРВЫЙ КАНАЛ
+http://164.215.94.88:81/udp/238.1.1.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",105-ПЕРВЫЙ КАНАЛ
+http://164.215.94.88:81/udp/238.1.1.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",106-ПЕРВЫЙ КАНАЛ HD
+http://164.215.94.88:81/udp/233.12.144.56:5050
+#EXTINF:-1 group-title="ProxyTV.ru",107-ПЕРВЫЙ КАНАЛ HD
+http://164.215.94.88:81/udp/226.100.10.122:1234
+#EXTINF:-1 group-title="ProxyTV.ru",108-ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://164.215.94.88:81/udp/233.12.144.117:5050
+#EXTINF:-1 group-title="ProxyTV.ru",109-ПЕС И КО
+http://164.215.94.88:81/udp/233.12.144.10:5050
+#EXTINF:-1 group-title="ProxyTV.ru",110-ПРОБИЗНЕС
+http://164.215.94.88:81/udp/233.12.144.91:5050
+#EXTINF:-1 group-title="ProxyTV.ru",111-ПЯТНИЦА
+http://164.215.94.88:81/udp/238.1.1.47:1234
+#EXTINF:-1 group-title="ProxyTV.ru",112-РАДОСТЬ МОЯ
+http://164.215.94.88:81/udp/233.12.144.59:5050
+#EXTINF:-1 group-title="ProxyTV.ru",113-РБК
+http://164.215.94.88:81/udp/233.12.144.60:5050
+#EXTINF:-1 group-title="ProxyTV.ru",114-РЕН ТВ
+http://164.215.94.88:81/udp/238.1.1.42:1234
+#EXTINF:-1 group-title="ProxyTV.ru",115-РЕН ТВ
+http://164.215.94.88:81/udp/238.1.1.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",116-РОССИЯ 1
+http://164.215.94.88:81/udp/238.1.1.33:1234
+#EXTINF:-1 group-title="ProxyTV.ru",117-РОССИЯ 1
+http://164.215.94.88:81/udp/238.1.1.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",118-РОССИЯ 1 HD
+http://164.215.94.88:81/udp/233.12.144.64:5050
+#EXTINF:-1 group-title="ProxyTV.ru",119-РОССИЯ 24
+http://164.215.94.88:81/udp/238.1.1.38:1234
+#EXTINF:-1 group-title="ProxyTV.ru",120-РОССИЯ 24
+http://164.215.94.88:81/udp/238.1.1.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",121-РОССИЯ 24
+http://164.215.94.88:81/udp/233.12.144.63:5050
+#EXTINF:-1 group-title="ProxyTV.ru",122-РОССИЯ К
+http://164.215.94.88:81/udp/238.1.1.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",123-РОССИЯ К
+http://164.215.94.88:81/udp/238.1.1.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",124-РУССКИЙ ДЕТЕКТИВ
+http://164.215.94.88:81/udp/226.100.10.199:1234
+#EXTINF:-1 group-title="ProxyTV.ru",125-РУССКИЙ РОМАН
+http://164.215.94.88:81/udp/238.1.1.26:1234
+#EXTINF:-1 group-title="ProxyTV.ru",126-РУССКИЙ РОМАН HD
+http://164.215.94.88:81/udp/226.100.10.198:1234
+#EXTINF:-1 group-title="ProxyTV.ru",127-СЕМЕРКА
+http://164.215.94.88:81/udp/238.1.1.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",128-СОЮЗ
+http://164.215.94.88:81/udp/226.100.10.109:1234
+#EXTINF:-1 group-title="ProxyTV.ru",129-СПАС
+http://164.215.94.88:81/udp/238.1.1.43:1234
+#EXTINF:-1 group-title="ProxyTV.ru",130-СПАС
+http://164.215.94.88:81/udp/233.12.144.21:5050
+#EXTINF:-1 group-title="ProxyTV.ru",131-СТС
+http://164.215.94.88:81/udp/238.1.1.44:1234
+#EXTINF:-1 group-title="ProxyTV.ru",132-СТС
+http://164.215.94.88:81/udp/238.1.1.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",133-ТВ3
+http://164.215.94.88:81/udp/238.1.1.46:1234
+#EXTINF:-1 group-title="ProxyTV.ru",134-ТВ3
+http://164.215.94.88:81/udp/238.1.1.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",135-ТВЦ
+http://164.215.94.88:81/udp/238.1.1.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",136-ТВЦ
+http://164.215.94.88:81/udp/238.1.1.41:1234
+#EXTINF:-1 group-title="ProxyTV.ru",137-ТВЦ HD
+http://164.215.94.88:81/udp/238.1.1.77:1234
+#EXTINF:-1 group-title="ProxyTV.ru",138-ТЕЛЕКАФЕ
+http://164.215.94.88:81/udp/226.100.10.118:1234
+#EXTINF:-1 group-title="ProxyTV.ru",139-ТЕЛЕКАФЕ
+http://164.215.94.88:81/udp/226.100.10.136:1234
+#EXTINF:-1 group-title="ProxyTV.ru",140-ТЕЛЕКАФЕ
+http://164.215.94.88:81/udp/233.12.144.76:5050
+#EXTINF:-1 group-title="ProxyTV.ru",141-ТНВ ПЛАНЕТА
+http://164.215.94.88:81/udp/226.100.10.106:1234
+#EXTINF:-1 group-title="ProxyTV.ru",142-ТНТ
+http://164.215.94.88:81/udp/238.1.1.50:1234
+#EXTINF:-1 group-title="ProxyTV.ru",143-ТНТ
+http://164.215.94.88:81/udp/238.1.1.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",144-ТНТ MUSIC
+http://164.215.94.88:81/udp/233.12.144.3:5050
+#EXTINF:-1 group-title="ProxyTV.ru",145-ТОЧКА ТВ
+http://164.215.94.88:81/udp/226.100.10.103:1234
+#EXTINF:-1 group-title="ProxyTV.ru",146-ЧЕ
+http://164.215.94.88:81/udp/238.1.1.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",147-ЧЕ
+http://164.215.94.88:81/udp/233.12.144.25:5050
+#EXTINF:-1 group-title="ProxyTV.ru",148-ШАНСОН ТВ
+http://164.215.94.88:81/udp/226.100.10.120:1234
+#EXTINF:-1 group-title="ProxyTV.ru",149-Ю
+http://164.215.94.88:81/udp/238.1.1.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",150-Ю
+http://164.215.94.88:81/udp/233.12.144.80:5050
+#EXTINF:-1 group-title="ProxyTV.ru",151-ЮВЕЛИРОЧКА
+http://164.215.94.88:81/udp/233.12.144.43:5050
+#EXTINF:-1 group-title="ProxyTV.ru",152-ЮМОР
+http://164.215.94.88:81/udp/233.12.144.199:5050
+#EXTINF:-1 group-title="ProxyTV.ru",153-A-MEDIA 1 HD
+http://164.215.94.88:81/udp/233.12.144.134:5050
+#EXTINF:-1 group-title="ProxyTV.ru",154-ANIMAL PLANET
+http://164.215.94.88:81/udp/226.100.10.129:1234
+#EXTINF:-1 group-title="ProxyTV.ru",155-ANIMAL PLANET HD
+http://164.215.94.88:81/udp/226.100.10.125:1234
+#EXTINF:-1 group-title="ProxyTV.ru",156-BRIDGE TV
+http://164.215.94.88:81/udp/233.12.144.4:5050
+#EXTINF:-1 group-title="ProxyTV.ru",157-BRIDGE TV РУССКИЙ ХИТ
+http://164.215.94.88:81/udp/226.100.10.108:1234
+#EXTINF:-1 group-title="ProxyTV.ru",158-CARTOON NETWORK
+http://164.215.94.88:81/udp/233.12.144.137:5050
+#EXTINF:-1 group-title="ProxyTV.ru",159-CNN
+http://164.215.94.88:81/udp/233.12.144.245:5050
+#EXTINF:-1 group-title="ProxyTV.ru",160-DEUTSCHE WELLE
+http://164.215.94.88:81/udp/233.12.144.138:5050
+#EXTINF:-1 group-title="ProxyTV.ru",161-DISCOVERY CHANNEL
+http://164.215.94.88:81/udp/226.100.10.124:1234
+#EXTINF:-1 group-title="ProxyTV.ru",162-DISCOVERY CHANNEL HD
+http://164.215.94.88:81/udp/226.100.10.127:1234
+#EXTINF:-1 group-title="ProxyTV.ru",163-DISNEY CHANNEL
+http://164.215.94.88:81/udp/238.1.1.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",164-DISNEY CHANNEL
+http://164.215.94.88:81/udp/233.12.144.32:5050
+#EXTINF:-1 group-title="ProxyTV.ru",165-EUROSPORT 1
+http://164.215.94.88:81/udp/226.100.10.105:1234
+#EXTINF:-1 group-title="ProxyTV.ru",166-EUROSPORT 1
+http://164.215.94.88:81/udp/226.100.10.112:1234
+#EXTINF:-1 group-title="ProxyTV.ru",167-FINE LIVING
+http://164.215.94.88:81/udp/233.12.144.243:5050
+#EXTINF:-1 group-title="ProxyTV.ru",168-FOOD NETWORK
+http://164.215.94.88:81/udp/233.12.144.244:5050
+#EXTINF:-1 group-title="ProxyTV.ru",169-FRANCE 24
+http://164.215.94.88:81/udp/233.12.144.107:5050
+#EXTINF:-1 group-title="ProxyTV.ru",170-GULLI GIRL
+http://164.215.94.88:81/udp/233.12.144.110:5050
+#EXTINF:-1 group-title="ProxyTV.ru",171-IZ.RU
+http://164.215.94.88:81/udp/233.12.144.120:5050
+#EXTINF:-1 group-title="ProxyTV.ru",172-MTV HD
+http://164.215.94.88:81/udp/233.12.144.84:5050
+#EXTINF:-1 group-title="ProxyTV.ru",173-MUSIC BOX
+http://164.215.94.88:81/udp/233.12.144.147:5050
+#EXTINF:-1 group-title="ProxyTV.ru",174-MUSIC BOX RUSSIAN
+http://164.215.94.88:81/udp/233.12.144.68:5050
+#EXTINF:-1 group-title="ProxyTV.ru",175-NANO
+http://164.215.94.88:81/udp/233.12.144.8:5050
+#EXTINF:-1 group-title="ProxyTV.ru",176-NICK JR.
+http://164.215.94.88:81/udp/233.12.144.85:5050
+#EXTINF:-1 group-title="ProxyTV.ru",177-NICKELODEON
+http://164.215.94.88:81/udp/233.12.144.12:5050
+#EXTINF:-1 group-title="ProxyTV.ru",178-RTG TV
+http://164.215.94.88:81/udp/233.12.144.222:5050
+#EXTINF:-1 group-title="ProxyTV.ru",179-RU TV
+http://164.215.94.88:81/udp/233.12.144.14:5050
+#EXTINF:-1 group-title="ProxyTV.ru",180-SHOP 24
+http://164.215.94.88:81/udp/233.12.144.223:5050
+#EXTINF:-1 group-title="ProxyTV.ru",181-SHOP&SHOW
+http://164.215.94.88:81/udp/233.12.144.251:5050
+#EXTINF:-1 group-title="ProxyTV.ru",182-SHOPPING LIVE
+http://164.215.94.88:81/udp/226.100.10.101:1234
+#EXTINF:-1 group-title="ProxyTV.ru",183-SONY CHANNEL
+http://164.215.94.88:81/udp/226.100.10.119:1234
+#EXTINF:-1 group-title="ProxyTV.ru",184-SONY SCI-FI
+http://164.215.94.88:81/udp/233.12.144.17:5050
+#EXTINF:-1 group-title="ProxyTV.ru",185-SONY TURBO
+http://164.215.94.88:81/udp/233.12.144.16:5050
+#EXTINF:-1 group-title="ProxyTV.ru",186-SPIKE HD
+http://164.215.94.88:81/udp/233.12.144.250:5050
+#EXTINF:-1 group-title="ProxyTV.ru",187-TLC
+http://164.215.94.88:81/udp/226.100.10.107:1234
+#EXTINF:-1 group-title="ProxyTV.ru",188-TLC HD
+http://164.215.94.88:81/udp/226.100.10.126:1234
+#EXTINF:-1 group-title="ProxyTV.ru",189-TOP SHOP
+http://164.215.94.88:81/udp/233.12.144.15:5050
+#EXTINF:-1 group-title="ProxyTV.ru",190-TV MALL
+http://164.215.94.88:81/udp/226.100.10.114:1234
+#EXTINF:-1 group-title="ProxyTV.ru",191-ZEE TV
+http://164.215.94.88:81/udp/233.12.144.27:5050
+#EXTINF:-1 group-title="ProxyTV.ru",192-2X2
+http://31.41.98.84:81/udp/225.0.0.45:1234
+#EXTINF:-1 group-title="ProxyTV.ru",193-AMC
+http://31.41.98.84:81/udp/225.0.0.69:1234
+#EXTINF:-1 group-title="ProxyTV.ru",194-A-MEDIA HIT HD
+http://31.41.98.84:81/udp/225.0.2.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",195-ANI
+http://31.41.98.84:81/udp/225.0.0.44:1234
+#EXTINF:-1 group-title="ProxyTV.ru",196-ANIMAL PLANET HD
+http://31.41.98.84:81/udp/225.0.2.28:1234
+#EXTINF:-1 group-title="ProxyTV.ru",197-ARIRANG
+http://31.41.98.84:81/udp/225.0.0.99:1234
+#EXTINF:-1 group-title="ProxyTV.ru",198-BABY TV
+http://31.41.98.84:81/udp/225.0.0.79:1234
+#EXTINF:-1 group-title="ProxyTV.ru",199-BARELY LEGAL
+http://31.41.98.84:81/udp/225.0.0.107:1234
+#EXTINF:-1 group-title="ProxyTV.ru",200-BOOMERANG
+http://31.41.98.84:81/udp/225.0.0.80:1234
+#EXTINF:-1 group-title="ProxyTV.ru",201-BRIDGE TV
+http://31.41.98.84:81/udp/225.0.0.129:1234
+#EXTINF:-1 group-title="ProxyTV.ru",202-BRIDGE TV РУССКИЙ ХИТ
+http://31.41.98.84:81/udp/225.0.0.130:1234
+#EXTINF:-1 group-title="ProxyTV.ru",203-CARTOON NETWORK
+http://31.41.98.84:81/udp/225.0.0.75:1234
+#EXTINF:-1 group-title="ProxyTV.ru",204-CINEMA
+http://31.41.98.84:81/udp/225.0.0.50:1234
+#EXTINF:-1 group-title="ProxyTV.ru",205-CNN
+http://31.41.98.84:81/udp/225.0.0.48:1234
+#EXTINF:-1 group-title="ProxyTV.ru",206-DEUTSCHE WELLE
+http://31.41.98.84:81/udp/225.0.0.91:1234
+#EXTINF:-1 group-title="ProxyTV.ru",207-DISCOVERY CHANNEL HD
+http://31.41.98.84:81/udp/225.0.2.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",208-DISCOVERY SCIENSE HD
+http://31.41.98.84:81/udp/225.0.2.29:1234
+#EXTINF:-1 group-title="ProxyTV.ru",209-DISNEY CHANNEL
+http://31.41.98.84:81/udp/225.0.0.74:1234
+#EXTINF:-1 group-title="ProxyTV.ru",210-DOCU BOX HD
+http://31.41.98.84:81/udp/225.0.2.84:1234
+#EXTINF:-1 group-title="ProxyTV.ru",211-DTX
+http://31.41.98.84:81/udp/225.0.0.68:1234
+#EXTINF:-1 group-title="ProxyTV.ru",212-E HD
+http://31.41.98.84:81/udp/225.0.2.25:1234
+#EXTINF:-1 group-title="ProxyTV.ru",213-ENGLISH CLUB TV HD
+http://31.41.98.84:81/udp/225.0.2.65:1234
+#EXTINF:-1 group-title="ProxyTV.ru",214-EUROPA PLUS TV
+http://31.41.98.84:81/udp/225.0.0.128:1234
+#EXTINF:-1 group-title="ProxyTV.ru",215-EUROSPORT 1 HD
+http://31.41.98.84:81/udp/225.0.2.46:1234
+#EXTINF:-1 group-title="ProxyTV.ru",216-EUROSPORT 2 HD
+http://31.41.98.84:81/udp/225.0.2.30:1234
+#EXTINF:-1 group-title="ProxyTV.ru",217-A-MEDIA 1 HD
+http://31.41.98.84:81/udp/225.0.2.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",218-FOX HD
+http://31.41.98.84:81/udp/225.0.2.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",219-FOX LIFE HD
+http://31.41.98.84:81/udp/225.0.2.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",220-FRANCE 24 FR
+http://31.41.98.84:81/udp/225.0.0.90:1234
+#EXTINF:-1 group-title="ProxyTV.ru",221-FRENCH LOVER 18+
+http://31.41.98.84:81/udp/225.0.0.105:1234
+#EXTINF:-1 group-title="ProxyTV.ru",222-GALAXY
+http://31.41.98.84:81/udp/225.0.0.65:1234
+#EXTINF:-1 group-title="ProxyTV.ru",223-GULLI GIRL
+http://31.41.98.84:81/udp/225.0.0.78:1234
+#EXTINF:-1 group-title="ProxyTV.ru",224-HUSTLER HD
+http://31.41.98.84:81/udp/225.0.2.61:1234
+#EXTINF:-1 group-title="ProxyTV.ru",225-JIMJAM
+http://31.41.98.84:81/udp/225.0.0.76:1234
+#EXTINF:-1 group-title="ProxyTV.ru",226-KAZAKH TV
+http://31.41.98.84:81/udp/225.0.0.102:1234
+#EXTINF:-1 group-title="ProxyTV.ru",227-MEZZO LIFE HD
+http://31.41.98.84:81/udp/225.0.2.55:1234
+#EXTINF:-1 group-title="ProxyTV.ru",228-MGM HD
+http://31.41.98.84:81/udp/225.0.2.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",229-MTV HD
+http://31.41.98.84:81/udp/225.0.2.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",230-MTV LIFE HD
+http://31.41.98.84:81/udp/225.0.2.52:1234
+#EXTINF:-1 group-title="ProxyTV.ru",231-MUSEUM HD
+http://31.41.98.84:81/udp/225.0.2.85:1234
+#EXTINF:-1 group-title="ProxyTV.ru",232-MUSIC BOX
+http://31.41.98.84:81/udp/225.0.0.126:1234
+#EXTINF:-1 group-title="ProxyTV.ru",233-MYZEN TV HD
+http://31.41.98.84:81/udp/225.0.2.27:1234
+#EXTINF:-1 group-title="ProxyTV.ru",234-NAT GEO WILD HD
+http://31.41.98.84:81/udp/225.0.2.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",235-NATIONAL GEOGRAPHIC HD
+http://31.41.98.84:81/udp/225.0.2.42:1234
+#EXTINF:-1 group-title="ProxyTV.ru",236-NHK WORLD JAPAN
+http://31.41.98.84:81/udp/225.0.0.64:1234
+#EXTINF:-1 group-title="ProxyTV.ru",237-NICK HD
+http://31.41.98.84:81/udp/225.0.2.58:1234
+#EXTINF:-1 group-title="ProxyTV.ru",238-NICK JR.
+http://31.41.98.84:81/udp/225.0.0.73:1234
+#EXTINF:-1 group-title="ProxyTV.ru",239-NICKELODEON
+http://31.41.98.84:81/udp/225.0.0.72:1234
+#EXTINF:-1 group-title="ProxyTV.ru",240-О!
+http://31.41.98.84:81/udp/225.0.0.77:1234
+#EXTINF:-1 group-title="ProxyTV.ru",241-PARAMOUNT COMEDY HD
+http://31.41.98.84:81/udp/225.0.2.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",242-PRIVATE TV
+http://31.41.98.84:81/udp/225.0.0.104:1234
+#EXTINF:-1 group-title="ProxyTV.ru",243-RTG HD
+http://31.41.98.84:81/udp/225.0.2.81:1234
+#EXTINF:-1 group-title="ProxyTV.ru",244-RU TV
+http://31.41.98.84:81/udp/225.0.0.83:1234
+#EXTINF:-1 group-title="ProxyTV.ru",245-RUSSIA TODAY DOC HD
+http://31.41.98.84:81/udp/225.0.2.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",246-RUSSIA TODAY HD
+http://31.41.98.84:81/udp/225.0.2.62:1234
+#EXTINF:-1 group-title="ProxyTV.ru",247-RUSSIAN EXTREME HD
+http://31.41.98.84:81/udp/225.0.2.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",248-SHANT PREMIUM HD
+http://31.41.98.84:81/udp/225.0.2.72:1234
+#EXTINF:-1 group-title="ProxyTV.ru",249-SHOP 24
+http://31.41.98.84:81/udp/225.0.0.117:1234
+#EXTINF:-1 group-title="ProxyTV.ru",250-SHOP&SHOW
+http://31.41.98.84:81/udp/225.0.0.52:1234
+#EXTINF:-1 group-title="ProxyTV.ru",251-SHOPPING LIVE
+http://31.41.98.84:81/udp/225.0.0.133:1234
+#EXTINF:-1 group-title="ProxyTV.ru",252-SONY CHANNEL HD
+http://31.41.98.84:81/udp/225.0.2.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",253-SONY TURBO
+http://31.41.98.84:81/udp/225.0.0.27:1234
+#EXTINF:-1 group-title="ProxyTV.ru",254-TIJI
+http://31.41.98.84:81/udp/225.0.0.71:1234
+#EXTINF:-1 group-title="ProxyTV.ru",255-TLC HD
+http://31.41.98.84:81/udp/225.0.2.26:1234
+#EXTINF:-1 group-title="ProxyTV.ru",256-TRAVEL+ ADVENTURE HD
+http://31.41.98.84:81/udp/225.0.2.88:1234
+#EXTINF:-1 group-title="ProxyTV.ru",257-TV1000 ACTION HD
+http://31.41.98.84:81/udp/225.0.2.78:1234
+#EXTINF:-1 group-title="ProxyTV.ru",258-TV1000 HD
+http://31.41.98.84:81/udp/225.0.2.77:1234
+#EXTINF:-1 group-title="ProxyTV.ru",259-TV1000 РУССКОЕ КИНО
+http://31.41.98.84:81/udp/225.0.2.75:1234
+#EXTINF:-1 group-title="ProxyTV.ru",260-VH-1 CLASSIC
+http://31.41.98.84:81/udp/225.0.0.88:1234
+#EXTINF:-1 group-title="ProxyTV.ru",261-VIASAT EXPLORE
+http://31.41.98.84:81/udp/225.0.0.120:1234
+#EXTINF:-1 group-title="ProxyTV.ru",262-VIASAT GOLF HD
+http://31.41.98.84:81/udp/225.0.2.38:1234
+#EXTINF:-1 group-title="ProxyTV.ru",263-VIASAT HISTORY
+http://31.41.98.84:81/udp/225.0.0.60:1234
+#EXTINF:-1 group-title="ProxyTV.ru",264-VIASAT NATURE HD
+http://31.41.98.84:81/udp/225.0.2.41:1234
+#EXTINF:-1 group-title="ProxyTV.ru",265-VIASAT SPORT HD
+http://31.41.98.84:81/udp/225.0.2.57:1234
+#EXTINF:-1 group-title="ProxyTV.ru",266-VIP MEGAHIT HD
+http://31.41.98.84:81/udp/225.0.2.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",267-WORLD FASHION HD
+http://31.41.98.84:81/udp/225.0.2.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",268-АВТО 24 HD
+http://31.41.98.84:81/udp/225.0.2.44:1234
+#EXTINF:-1 group-title="ProxyTV.ru",269-АВТО ПЛЮС
+http://31.41.98.84:81/udp/225.0.0.55:1234
+#EXTINF:-1 group-title="ProxyTV.ru",270-АИСТ
+http://31.41.98.84:81/udp/225.0.0.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",271-АКТИС
+http://31.41.98.84:81/udp/226.10.10.46:1234
+#EXTINF:-1 group-title="ProxyTV.ru",272-БЕЛАРУСЬ 24
+http://31.41.98.84:81/udp/225.0.0.100:1234
+#EXTINF:-1 group-title="ProxyTV.ru",273-БОБЕР
+http://31.41.98.84:81/udp/225.0.0.123:1234
+#EXTINF:-1 group-title="ProxyTV.ru",274-В МИРЕ ЖИВОТНЫХ HD
+http://31.41.98.84:81/udp/225.0.2.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",275-ДЕТСКИЙ
+http://31.41.98.84:81/udp/225.0.0.122:1234
+#EXTINF:-1 group-title="ProxyTV.ru",276-ДИКАЯ ОХОТА HD
+http://31.41.98.84:81/udp/225.0.2.59:1234
+#EXTINF:-1 group-title="ProxyTV.ru",277-ДОЖДЬ HD
+http://31.41.98.84:81/udp/225.0.2.64:1234
+#EXTINF:-1 group-title="ProxyTV.ru",278-ДОКТОР HD
+http://31.41.98.84:81/udp/225.0.2.34:1234
+#EXTINF:-1 group-title="ProxyTV.ru",279-ДОМ КИНО
+http://31.41.98.84:81/udp/225.0.0.29:1234
+#EXTINF:-1 group-title="ProxyTV.ru",280-ДОМАШНИЙ
+http://31.41.98.84:81/udp/225.0.0.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",281-ДОМАШНИЙ
+http://31.41.98.84:81/udp/225.0.0.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",282-ДРАЙВ
+http://31.41.98.84:81/udp/225.0.0.113:1234
+#EXTINF:-1 group-title="ProxyTV.ru",283-ЕВРОКИНО
+http://31.41.98.84:81/udp/225.0.0.115:1234
+#EXTINF:-1 group-title="ProxyTV.ru",284-ЕВРОНОВОСТИ
+http://31.41.98.84:81/udp/225.0.0.127:1234
+#EXTINF:-1 group-title="ProxyTV.ru",285-ЕДА ПРЕМИУМ HD
+http://31.41.98.84:81/udp/225.0.2.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",286-ЖАРА
+http://31.41.98.84:81/udp/225.0.0.114:1234
+#EXTINF:-1 group-title="ProxyTV.ru",287-ЖИВАЯ ПЛАНЕТА
+http://31.41.98.84:81/udp/225.0.0.40:1234
+#EXTINF:-1 group-title="ProxyTV.ru",288-ЖИВИ! HD
+http://31.41.98.84:81/udp/225.0.2.63:1234
+#EXTINF:-1 group-title="ProxyTV.ru",289-ЗАГОРОДНАЯ ЖИЗНЬ
+http://31.41.98.84:81/udp/225.0.0.62:1234
+#EXTINF:-1 group-title="ProxyTV.ru",290-ЗВЕЗДА
+http://31.41.98.84:81/udp/225.0.0.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",291-ИЛЛЮЗИОН+
+http://31.41.98.84:81/udp/225.0.0.118:1234
+#EXTINF:-1 group-title="ProxyTV.ru",292-ІНТЕР+
+http://31.41.98.84:81/udp/225.0.0.98:1234
+#EXTINF:-1 group-title="ProxyTV.ru",293-ИСТОРИЯ
+http://31.41.98.84:81/udp/225.0.0.61:1234
+#EXTINF:-1 group-title="ProxyTV.ru",294-КАРУСЕЛЬ
+http://31.41.98.84:81/udp/225.0.0.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",295-КВН
+http://31.41.98.84:81/udp/225.0.0.86:1234
+#EXTINF:-1 group-title="ProxyTV.ru",296-КИНО ТВ HD
+http://31.41.98.84:81/udp/225.0.2.60:1234
+#EXTINF:-1 group-title="ProxyTV.ru",297-КИНОКОМЕДИЯ
+http://31.41.98.84:81/udp/225.0.0.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",298-КИНОПРЕМЬЕРА HD
+http://31.41.98.84:81/udp/225.0.2.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",299-КИНОСВИДАНИЕ HD
+http://31.41.98.84:81/udp/225.0.2.87:1234
+#EXTINF:-1 group-title="ProxyTV.ru",300-КИНОСЕМЬЯ HD
+http://31.41.98.84:81/udp/225.0.2.82:1234
+#EXTINF:-1 group-title="ProxyTV.ru",301-КИНОСЕРИЯ
+http://31.41.98.84:81/udp/225.0.0.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",302-КИНОХИТ HD
+http://31.41.98.84:81/udp/225.0.2.71:1234
+#EXTINF:-1 group-title="ProxyTV.ru",303-КОМЕДИЯ
+http://31.41.98.84:81/udp/225.0.0.28:1234
+#EXTINF:-1 group-title="ProxyTV.ru",304-КТО ЕСТЬ КТО
+http://31.41.98.84:81/udp/225.0.0.59:1234
+#EXTINF:-1 group-title="ProxyTV.ru",305-КХЛ
+http://31.41.98.84:81/udp/225.0.0.108:1234
+#EXTINF:-1 group-title="ProxyTV.ru",306-КХЛ HD
+http://31.41.98.84:81/udp/225.0.2.56:1234
+#EXTINF:-1 group-title="ProxyTV.ru",307-ЛЯ МИНОР
+http://31.41.98.84:81/udp/225.0.0.84:1234
+#EXTINF:-1 group-title="ProxyTV.ru",308-МАЙДАН
+http://31.41.98.84:81/udp/225.0.0.94:1234
+#EXTINF:-1 group-title="ProxyTV.ru",309-МАМА
+http://31.41.98.84:81/udp/225.0.0.63:1234
+#EXTINF:-1 group-title="ProxyTV.ru",310-МАТЧ! HD
+http://31.41.98.84:81/udp/225.0.2.51:1234
+#EXTINF:-1 group-title="ProxyTV.ru",311-МАТЧ! АРЕНА HD
+http://31.41.98.84:81/udp/225.0.2.48:1234
+#EXTINF:-1 group-title="ProxyTV.ru",312-МАТЧ! АРЕНА HD
+http://31.41.98.84:81/udp/225.0.2.79:1234
+#EXTINF:-1 group-title="ProxyTV.ru",313-МАТЧ! БОЕЦ
+http://31.41.98.84:81/udp/225.0.0.67:1234
+#EXTINF:-1 group-title="ProxyTV.ru",314-МАТЧ! ФУТБОЛ 1 HD
+http://31.41.98.84:81/udp/225.0.2.66:1234
+#EXTINF:-1 group-title="ProxyTV.ru",315-МАТЧ! ФУТБОЛ 2 HD
+http://31.41.98.84:81/udp/225.0.2.68:1234
+#EXTINF:-1 group-title="ProxyTV.ru",316-МАТЧ! ФУТБОЛ 3 HD
+http://31.41.98.84:81/udp/225.0.2.67:1234
+#EXTINF:-1 group-title="ProxyTV.ru",317-МИР 24
+http://31.41.98.84:81/udp/225.0.0.131:1234
+#EXTINF:-1 group-title="ProxyTV.ru",318-МИР PREMIUM HD
+http://31.41.98.84:81/udp/225.0.2.69:1234
+#EXTINF:-1 group-title="ProxyTV.ru",319-МОРСКОЙ HD
+http://31.41.98.84:81/udp/225.0.2.70:1234
+#EXTINF:-1 group-title="ProxyTV.ru",320-МОТОРСПОРТ HD
+http://31.41.98.84:81/udp/225.0.2.53:1234
+#EXTINF:-1 group-title="ProxyTV.ru",321-МОЯ ПЛАНЕТА
+http://31.41.98.84:81/udp/225.0.0.56:1234
+#EXTINF:-1 group-title="ProxyTV.ru",322-МУЖСКОЕ КИНО HD
+http://31.41.98.84:81/udp/225.0.2.76:1234
+#EXTINF:-1 group-title="ProxyTV.ru",323-МУЛЬТ
+http://31.41.98.84:81/udp/225.0.0.66:1234
+#EXTINF:-1 group-title="ProxyTV.ru",324-МУЛЬТИМУЗЫКА
+http://31.41.98.84:81/udp/225.0.0.134:1234
+#EXTINF:-1 group-title="ProxyTV.ru",325-НАШЕ TV
+http://31.41.98.84:81/udp/225.0.0.87:1234
+#EXTINF:-1 group-title="ProxyTV.ru",326-НАШЕ НОВОЕ КИНО
+http://31.41.98.84:81/udp/225.0.0.116:1234
+#EXTINF:-1 group-title="ProxyTV.ru",327-НОСТАЛЬГИЯ
+http://31.41.98.84:81/udp/225.0.0.47:1234
+#EXTINF:-1 group-title="ProxyTV.ru",328-НТВ
+http://31.41.98.84:81/udp/225.0.0.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",329-НТВ HD
+http://31.41.98.84:81/udp/225.0.2.54:1234
+#EXTINF:-1 group-title="ProxyTV.ru",330-О!2
+http://31.41.98.84:81/udp/225.0.0.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",331-ОРУЖИЕ
+http://31.41.98.84:81/udp/225.0.0.89:1234
+#EXTINF:-1 group-title="ProxyTV.ru",332-ОТР
+http://31.41.98.84:81/udp/225.0.0.112:1234
+#EXTINF:-1 group-title="ProxyTV.ru",333-ОХОТНИК И РЫБОЛОВ HD
+http://31.41.98.84:81/udp/225.0.2.43:1234
+#EXTINF:-1 group-title="ProxyTV.ru",334-ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ 
+http://31.41.98.84:81/udp/225.0.0.34:1234
+#EXTINF:-1 group-title="ProxyTV.ru",335-ПЕРВЫЙ КАНАЛ
+http://31.41.98.84:81/udp/225.0.0.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",336-ПЛАНЕТА HD
+http://31.41.98.84:81/udp/225.0.2.83:1234
+#EXTINF:-1 group-title="ProxyTV.ru",337-ПУТЕШЕСТВИЯ HD
+http://31.41.98.84:81/udp/225.0.2.33:1234
+#EXTINF:-1 group-title="ProxyTV.ru",338-ПЯТНИЦА
+http://31.41.98.84:81/udp/225.0.0.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",339-ПЯТЫЙ КАНАЛ
+http://31.41.98.84:81/udp/225.0.0.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",340-РАДОСТЬ МОЯ
+http://31.41.98.84:81/udp/225.0.0.81:1234
+#EXTINF:-1 group-title="ProxyTV.ru",341-РБК
+http://31.41.98.84:81/udp/225.0.0.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",342-РЕН ТВ
+http://31.41.98.84:81/udp/225.0.0.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",343-РЕН ТВ HD
+http://31.41.98.84:81/udp/225.0.2.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",344-РОДНОЕ КИНО
+http://31.41.98.84:81/udp/225.0.0.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",345-РОССИЯ 24
+http://31.41.98.84:81/udp/225.0.0.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",346-РОССИЯ К
+http://31.41.98.84:81/udp/225.0.0.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",347-РУССКИЙ БЕСТСЕЛЛЕР
+http://31.41.98.84:81/udp/225.0.0.26:1234
+#EXTINF:-1 group-title="ProxyTV.ru",348-РУССКИЙ ДЕТЕКТИВ
+http://31.41.98.84:81/udp/225.0.0.70:1234
+#EXTINF:-1 group-title="ProxyTV.ru",349-РУССКИЙ РОМАН HD
+http://31.41.98.84:81/udp/225.0.2.45:1234
+#EXTINF:-1 group-title="ProxyTV.ru",350-РЫЖИЙ
+http://31.41.98.84:81/udp/225.0.0.82:1234
+#EXTINF:-1 group-title="ProxyTV.ru",351-САРАФАН
+http://31.41.98.84:81/udp/225.0.0.93:1234
+#EXTINF:-1 group-title="ProxyTV.ru",352-СОВЕРШЕННО СЕКРЕТНО
+http://31.41.98.84:81/udp/225.0.0.124:1234
+#EXTINF:-1 group-title="ProxyTV.ru",353-СОЮЗ
+http://31.41.98.84:81/udp/225.0.0.92:1234
+#EXTINF:-1 group-title="ProxyTV.ru",354-СПАС
+http://31.41.98.84:81/udp/225.0.0.132:1234
+#EXTINF:-1 group-title="ProxyTV.ru",355-СТС
+http://31.41.98.84:81/udp/225.0.0.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",356-СТС
+http://31.41.98.84:81/udp/225.0.0.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",357-СУПЕР
+http://31.41.98.84:81/udp/225.0.0.25:1234
+#EXTINF:-1 group-title="ProxyTV.ru",358-ТВ3
+http://31.41.98.84:81/udp/225.0.0.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",359-ТВОЙ ДОМ HD
+http://31.41.98.84:81/udp/225.0.2.80:1234
+#EXTINF:-1 group-title="ProxyTV.ru",360-ТВЦ
+http://31.41.98.84:81/udp/225.0.0.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",361-ТЕХНО 24
+http://31.41.98.84:81/udp/225.0.0.119:1234
+#EXTINF:-1 group-title="ProxyTV.ru",362-ТИ ВИ СИ HD
+http://31.41.98.84:81/udp/225.0.2.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",363-ТЛУМ HD
+http://31.41.98.84:81/udp/225.0.2.40:1234
+#EXTINF:-1 group-title="ProxyTV.ru",364-ТНВ ТАТАРСТАН
+http://31.41.98.84:81/udp/225.0.0.95:1234
+#EXTINF:-1 group-title="ProxyTV.ru",365-ТНТ
+http://31.41.98.84:81/udp/225.0.0.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",366-ТНТ HD
+http://31.41.98.84:81/udp/225.0.2.73:1234
+#EXTINF:-1 group-title="ProxyTV.ru",367-ТНТ MUSIC
+http://31.41.98.84:81/udp/225.0.0.85:1234
+#EXTINF:-1 group-title="ProxyTV.ru",368-ТНТ4
+http://31.41.98.84:81/udp/225.0.0.42:1234
+#EXTINF:-1 group-title="ProxyTV.ru",369-ЧЕ
+http://31.41.98.84:81/udp/225.0.0.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",370-ЭВРИКА HD
+http://31.41.98.84:81/udp/225.0.2.86:1234
+#EXTINF:-1 group-title="ProxyTV.ru",371-ПЯТЫЙ КАНАЛ
+http://176.111.70.71:1234/udp/224.1.1.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",372-8 КАНАЛ
+http://176.111.70.71:1234/udp/224.1.1.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",373-ДОМАШНИЙ
+http://176.111.70.71:1234/udp/224.1.1.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",374-ЕВРОНОВОСТИ
+http://176.111.70.71:1234/udp/224.1.1.39:1234
+#EXTINF:-1 group-title="ProxyTV.ru",375-ЗВЕЗДА
+http://176.111.70.71:1234/udp/224.1.1.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",376-КАРУСЕЛЬ
+http://176.111.70.71:1234/udp/224.1.1.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",377-МАТЧ!
+http://176.111.70.71:1234/udp/224.1.1.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",378-МИР
+http://176.111.70.71:1234/udp/224.1.1.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",379-МУЗ ТВ
+http://176.111.70.71:1234/udp/224.1.1.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",380-НТВ
+http://176.111.70.71:1234/udp/224.1.1.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",381-ОТР
+http://176.111.70.71:1234/udp/224.1.1.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",382-ПЕРВЫЙ КАНАЛ
+http://176.111.70.71:1234/udp/224.1.1.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",383-ПЯТНИЦА
+http://176.111.70.71:1234/udp/224.1.1.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",384-РАЗ ТВ
+http://176.111.70.71:1234/udp/224.1.1.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",385-РЕН ТВ
+http://176.111.70.71:1234/udp/224.1.1.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",386-РОССИЯ 1
+http://176.111.70.71:1234/udp/224.1.1.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",387-РОССИЯ 24
+http://176.111.70.71:1234/udp/224.1.1.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",388-РОССИЯ К
+http://176.111.70.71:1234/udp/224.1.1.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",389-СОЮЗ
+http://176.111.70.71:1234/udp/224.1.1.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",390-СПАС
+http://176.111.70.71:1234/udp/224.1.1.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",391-СТС
+http://176.111.70.71:1234/udp/224.1.1.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",392-СТС LOVE
+http://176.111.70.71:1234/udp/224.1.1.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",393-ТВ3
+http://176.111.70.71:1234/udp/224.1.1.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",394-ТВЦ
+http://176.111.70.71:1234/udp/224.1.1.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",395-ТНТ
+http://176.111.70.71:1234/udp/224.1.1.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",396-ТНТ MUSIC
+http://176.111.70.71:1234/udp/224.1.1.78:1234
+#EXTINF:-1 group-title="ProxyTV.ru",397-ТНТ4
+http://176.111.70.71:1234/udp/224.1.1.38:1234
+#EXTINF:-1 group-title="ProxyTV.ru",398-ЧЕ
+http://176.111.70.71:1234/udp/224.1.1.33:1234
+#EXTINF:-1 group-title="ProxyTV.ru",399-Ю
+http://176.111.70.71:1234/udp/224.1.1.77:1234
+#EXTINF:-1 group-title="ProxyTV.ru",400-DA VINCI
+http://176.111.70.71:1234/udp/224.1.1.90:1234
+#EXTINF:-1 group-title="ProxyTV.ru",401-DISNEY CHANNEL
+http://176.111.70.71:1234/udp/224.1.1.30:1234
+#EXTINF:-1 group-title="ProxyTV.ru",402-EUROSPORT 1
+http://176.111.70.71:1234/udp/224.1.1.96:1234
+#EXTINF:-1 group-title="ProxyTV.ru",403-EUROSPORT 2
+http://176.111.70.71:1234/udp/224.1.1.98:1234
+#EXTINF:-1 group-title="ProxyTV.ru",404-SHOP&SHOW
+http://176.111.70.71:1234/udp/224.1.1.114:1234
+#EXTINF:-1 group-title="ProxyTV.ru",405-SPIKE
+http://176.111.70.71:1234/udp/224.1.1.115:1234
+#EXTINF:-1 group-title="ProxyTV.ru",406-TV1000
+http://176.111.70.71:1234/udp/224.1.1.92:1234
+#EXTINF:-1 group-title="ProxyTV.ru",407-TV1000 РУССКОЕ КИНО
+http://176.111.70.71:1234/udp/224.1.1.91:1234
+#EXTINF:-1 group-title="ProxyTV.ru",408-TV1000 ACTION
+http://176.111.70.71:1234/udp/224.1.1.97:1234
+#EXTINF:-1 group-title="ProxyTV.ru",409-VIASAT EXPLORE
+http://176.111.70.71:1234/udp/224.1.1.93:1234
+#EXTINF:-1 group-title="ProxyTV.ru",410-VIASAT HISTORY
+http://176.111.70.71:1234/udp/224.1.1.94:1234
+#EXTINF:-1 group-title="ProxyTV.ru",411-VIASAT NATURE
+http://176.111.70.71:1234/udp/224.1.1.95:1234
+#EXTINF:-1 group-title="ProxyTV.ru",412-ЖИВАЯ ПЛАНЕТА
+http://95.31.7.130:4022/udp/233.33.220.115:5050
+#EXTINF:-1 group-title="ProxyTV.ru",413-2X2
+http://95.31.7.130:4022/udp/233.33.221.80:5050
+#EXTINF:-1 group-title="ProxyTV.ru",414-АВТО 24
+http://95.31.7.130:4022/udp/233.33.221.29:5050
+#EXTINF:-1 group-title="ProxyTV.ru",415-БЕЛРОС
+http://95.31.7.130:4022/udp/233.33.210.35:5050
+#EXTINF:-1 group-title="ProxyTV.ru",416-ВРЕМЯ
+http://95.31.7.130:4022/udp/233.33.210.61:5050
+#EXTINF:-1 group-title="ProxyTV.ru",417-ДОМ КИНО
+http://95.31.7.130:4022/udp/233.33.210.124:5050
+#EXTINF:-1 group-title="ProxyTV.ru",418-РУССКИЙ ИЛЛЮЗИОН
+http://95.31.7.130:4022/udp/233.33.210.48:5050
+#EXTINF:-1 group-title="ProxyTV.ru",419-КИНО ТВ
+http://95.31.7.130:4022/udp/233.33.210.103:5050
+#EXTINF:-1 group-title="ProxyTV.ru",420-МАТЧ! НАШ СПОРТ
+http://95.31.7.130:4022/udp/233.33.220.19:5050
+#EXTINF:-1 group-title="ProxyTV.ru",421-МИР
+http://95.31.7.130:4022/udp/233.33.210.68:5050
+#EXTINF:-1 group-title="ProxyTV.ru",422-МИР 24
+http://95.31.7.130:4022/udp/233.33.221.45:5050
+#EXTINF:-1 group-title="ProxyTV.ru",423-МУЛЬТ
+http://95.31.7.130:4022/udp/233.33.220.224:5050
+#EXTINF:-1 group-title="ProxyTV.ru",424-ПРОБИЗНЕС
+http://95.31.7.130:4022/udp/233.33.210.89:5050
+#EXTINF:-1 group-title="ProxyTV.ru",425-РБК
+http://95.31.7.130:4022/udp/233.33.210.90:5050
+#EXTINF:-1 group-title="ProxyTV.ru",426-РУССКИЙ РОМАН
+http://95.31.7.130:4022/udp/233.33.220.199:5050
+#EXTINF:-1 group-title="ProxyTV.ru",427-СВОЕ ТВ
+http://95.31.7.130:4022/udp/233.33.221.78:5050
+#EXTINF:-1 group-title="ProxyTV.ru",428-СОВЕРШЕННО СЕКРЕТНО
+http://95.31.7.130:4022/udp/233.33.220.166:5050
+#EXTINF:-1 group-title="ProxyTV.ru",429-СУПЕР
+http://95.31.7.130:4022/udp/233.33.210.203:5050
+#EXTINF:-1 group-title="ProxyTV.ru",430-360° HD
+http://95.31.7.130:4022/udp/233.33.220.17:5050
+#EXTINF:-1 group-title="ProxyTV.ru",431-ЧЕ
+http://95.31.7.130:4022/udp/233.33.210.125:5050
+#EXTINF:-1 group-title="ProxyTV.ru",432-ЧЕ
+http://95.31.7.130:4022/udp/233.33.221.131:5050
+#EXTINF:-1 group-title="ProxyTV.ru",433-ЮВЕЛИРОЧКА
+http://95.31.7.130:4022/udp/233.33.221.140:5050
+#EXTINF:-1 group-title="ProxyTV.ru",434-BBC WORLD NEWS
+http://95.31.7.130:4022/udp/233.33.210.16:5050
+#EXTINF:-1 group-title="ProxyTV.ru",435-BRIDGE TV DANCE
+http://95.31.7.130:4022/udp/233.33.220.43:5050
+#EXTINF:-1 group-title="ProxyTV.ru",436-CNN
+http://95.31.7.130:4022/udp/233.33.210.52:5050
+#EXTINF:-1 group-title="ProxyTV.ru",437-DISCOVERY CHANNEL
+http://95.31.7.130:4022/udp/233.33.210.27:5050
+#EXTINF:-1 group-title="ProxyTV.ru",438-DISNEY CHANNEL
+http://95.31.7.130:4022/udp/233.33.210.7:5050
+#EXTINF:-1 group-title="ProxyTV.ru",439-ЕВРОНОВОСТИ
+http://95.31.7.130:4022/udp/233.33.210.34:5050
+#EXTINF:-1 group-title="ProxyTV.ru",440-FRANCE 24
+http://95.31.7.130:4022/udp/233.33.220.3:5050
+#EXTINF:-1 group-title="ProxyTV.ru",441-IZ.RU HD
+http://95.31.7.130:4022/udp/233.33.221.129:5050
+#EXTINF:-1 group-title="ProxyTV.ru",442-NICKELODEON
+http://95.31.7.130:4022/udp/233.33.210.80:5050
+#EXTINF:-1 group-title="ProxyTV.ru",443-OCEAN TV
+http://95.31.7.130:4022/udp/233.33.210.84:5050
+#EXTINF:-1 group-title="ProxyTV.ru",444-RUSSIA TODAY DOC HD
+http://95.31.7.130:4022/udp/233.33.221.119:5050
+#EXTINF:-1 group-title="ProxyTV.ru",445-SHOP&SHOW
+http://95.31.7.130:4022/udp/233.33.221.57:5050
+#EXTINF:-1 group-title="ProxyTV.ru",446-TOP SHOP
+http://95.31.7.130:4022/udp/233.33.220.77:5050
+#EXTINF:-1 group-title="ProxyTV.ru",447-1HD
+http://94.230.117.155:81/udp/239.1.9.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",448-2X2 
+http://94.230.117.155:81/udp/239.1.2.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",449-365 ДНЕЙ
+http://94.230.117.155:81/udp/239.1.5.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",450-ПЯТЫЙ КАНАЛ
+http://94.230.117.155:81/udp/239.1.10.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",451-ПЯТЫЙ КАНАЛ
+http://94.230.117.155:81/udp/239.1.31.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",452-ПЯТЫЙ КАНАЛ
+http://94.230.117.155:81/udp/239.1.31.113:1234
+#EXTINF:-1 group-title="ProxyTV.ru",453-8 КАНАЛ
+http://94.230.117.155:81/udp/239.1.15.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",454-АВТО 24
+http://94.230.117.155:81/udp/239.1.20.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",455-АВТО ПЛЮС
+http://94.230.117.155:81/udp/239.1.2.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",456-АРМЕНИЯ ТВ
+http://94.230.117.155:81/udp/239.1.21.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",457-БЕЛАРУСЬ 24
+http://94.230.117.155:81/udp/239.1.21.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",458-БОБЕР
+http://94.230.117.155:81/udp/239.1.2.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",459-БОКС ТВ
+http://94.230.117.155:81/udp/239.1.20.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",460-БОЛЬШАЯ АЗИЯ
+http://94.230.117.155:81/udp/239.1.3.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",461-БСТ
+http://94.230.117.155:81/udp/239.1.21.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",462-В ГОСТЯХ У СКАЗКИ
+http://94.230.117.155:81/udp/239.1.21.60:1234
+#EXTINF:-1 group-title="ProxyTV.ru",463-В МИРЕ ЖИВОТНЫХ HD
+http://94.230.117.155:81/udp/239.1.21.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",464-ВРЕМЯ
+http://94.230.117.155:81/udp/239.1.5.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",465-ГОРНАЯ СТРАНА HD
+http://94.230.117.155:81/udp/239.1.1.28:1234
+#EXTINF:-1 group-title="ProxyTV.ru",466-ДЕТСКИЙ
+http://94.230.117.155:81/udp/239.1.3.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",467-ДЕТСКИЙ МИР
+http://94.230.117.155:81/udp/239.1.3.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",468-ДОЖДЬ
+http://94.230.117.155:81/udp/239.1.13.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",469-ДОЖДЬ HD
+http://94.230.117.155:81/udp/239.1.13.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",470-ДОКТОР
+http://94.230.117.155:81/udp/239.1.20.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",471-ДОМ КИНО
+http://94.230.117.155:81/udp/239.1.4.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",472-ДОМ КИНО ПРЕМИУМ HD
+http://94.230.117.155:81/udp/239.1.17.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",473-ДОМАШНИЙ
+http://94.230.117.155:81/udp/239.1.10.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",474-ДОМАШНИЙ
+http://94.230.117.155:81/udp/239.1.31.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",475-ДОМАШНИЙ
+http://94.230.117.155:81/udp/239.1.31.33:1234
+#EXTINF:-1 group-title="ProxyTV.ru",476-ДОМАШНИЙ
+http://94.230.117.155:81/udp/239.1.31.133:1234
+#EXTINF:-1 group-title="ProxyTV.ru",477-ДОРАМА
+http://94.230.117.155:81/udp/239.1.21.56:1234
+#EXTINF:-1 group-title="ProxyTV.ru",478-ДРАЙВ
+http://94.230.117.155:81/udp/239.1.2.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",479-ЕВРОКИНО
+http://94.230.117.155:81/udp/239.1.21.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",480-ЕВРОНОВОСТИ
+http://94.230.117.155:81/udp/239.1.1.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",481-ЕДА ПРЕМИУМ HD 
+http://94.230.117.155:81/udp/239.1.17.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",482-ЖИВАЯ ПЛАНЕТА
+http://94.230.117.155:81/udp/239.1.5.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",483-ЖИВИ!
+http://94.230.117.155:81/udp/239.1.2.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",484-ЖИВИ! HD
+http://94.230.117.155:81/udp/239.1.20.43:1234
+#EXTINF:-1 group-title="ProxyTV.ru",485-ЗАГОРОДНАЯ ЖИЗНЬ
+http://94.230.117.155:81/udp/239.1.20.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",486-ЗВЕЗДА
+http://94.230.117.155:81/udp/239.1.15.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",487-ЗВЕЗДА
+http://94.230.117.155:81/udp/239.1.31.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",488-ЗВЕЗДА
+http://94.230.117.155:81/udp/239.1.31.136:1234
+#EXTINF:-1 group-title="ProxyTV.ru",489-ЗДОРОВЬЕ
+http://94.230.117.155:81/udp/239.1.21.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",490-ЗОО ТВ
+http://94.230.117.155:81/udp/239.1.21.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",491-ИЛЛЮЗИОН+
+http://94.230.117.155:81/udp/239.1.20.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",492-ИЛЛЮЗИОН+
+http://94.230.117.155:81/udp/239.1.21.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",493-ИНДИЙСКОЕ КИНО
+http://94.230.117.155:81/udp/239.1.3.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",494-ИСТОРИЯ
+http://94.230.117.155:81/udp/239.1.5.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",495-КАЛЕЙДОСКОП ТВ
+http://94.230.117.155:81/udp/239.1.20.42:1234
+#EXTINF:-1 group-title="ProxyTV.ru",496-КАРУСЕЛЬ
+http://94.230.117.155:81/udp/239.1.31.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",497-КАРУСЕЛЬ
+http://94.230.117.155:81/udp/239.1.31.115:1234
+#EXTINF:-1 group-title="ProxyTV.ru",498-КАРУСЕЛЬ 
+http://94.230.117.155:81/udp/239.1.15.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",499-КАТУНЬ 24
+http://94.230.117.155:81/udp/239.1.31.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",500-КВН
+http://94.230.117.155:81/udp/239.1.20.53:1234
+#EXTINF:-1 group-title="ProxyTV.ru",501-КИНО ТВ
+http://94.230.117.155:81/udp/239.1.4.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",502-КИНО ТВ HD
+http://94.230.117.155:81/udp/239.1.17.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",503-КИНОКОМЕДИЯ
+http://94.230.117.155:81/udp/239.1.4.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",504-КИНОМИКС
+http://94.230.117.155:81/udp/239.1.20.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",505-КИНОПОКАЗ
+http://94.230.117.155:81/udp/239.1.21.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",506-КИНОПРЕМЬЕРА
+http://94.230.117.155:81/udp/239.1.21.26:1234
+#EXTINF:-1 group-title="ProxyTV.ru",507-КИНОСВИДАНИЕ
+http://94.230.117.155:81/udp/239.1.21.25:1234
+#EXTINF:-1 group-title="ProxyTV.ru",508-КИНОСЕМЬЯ
+http://94.230.117.155:81/udp/239.1.21.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",509-КИНОХИТ
+http://94.230.117.155:81/udp/239.1.21.27:1234
+#EXTINF:-1 group-title="ProxyTV.ru",510-КРИК ТВ
+http://94.230.117.155:81/udp/239.1.20.30:1234
+#EXTINF:-1 group-title="ProxyTV.ru",511-КУРАЙ ТВ
+http://94.230.117.155:81/udp/239.1.21.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",512-КУХНЯ ТВ
+http://94.230.117.155:81/udp/239.1.2.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",513-КХЛ
+http://94.230.117.155:81/udp/239.1.12.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",514-КХЛ HD
+http://94.230.117.155:81/udp/239.1.18.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",515-ЛДПР ТВ
+http://94.230.117.155:81/udp/239.1.20.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",516-ЛЯ МИНОР
+http://94.230.117.155:81/udp/239.1.8.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",517-МАМА
+http://94.230.117.155:81/udp/239.1.3.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",518-МАТЧ! 
+http://94.230.117.155:81/udp/239.1.15.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",519-МАТЧ! 
+http://94.230.117.155:81/udp/239.1.31.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",520-МАТЧ! 
+http://94.230.117.155:81/udp/239.1.31.61:1234
+#EXTINF:-1 group-title="ProxyTV.ru",521-МАТЧ! 
+http://94.230.117.155:81/udp/239.1.31.111:1234
+#EXTINF:-1 group-title="ProxyTV.ru",522-МАТЧ! HD
+http://94.230.117.155:81/udp/239.1.15.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",523-МАТЧ! АРЕНА
+http://94.230.117.155:81/udp/239.1.12.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",524-МАТЧ! АРЕНА HD
+http://94.230.117.155:81/udp/239.1.18.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",525-МАТЧ! БОЕЦ
+http://94.230.117.155:81/udp/239.1.12.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",526-МАТЧ! ИГРА
+http://94.230.117.155:81/udp/239.1.12.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",527-МАТЧ! ИГРА HD
+http://94.230.117.155:81/udp/239.1.21.58:1234
+#EXTINF:-1 group-title="ProxyTV.ru",528-МАТЧ! НАШ СПОРТ
+http://94.230.117.155:81/udp/239.1.12.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",529-МАТЧ! НАШ СПОРТ
+http://94.230.117.155:81/udp/239.1.31.82:1234
+#EXTINF:-1 group-title="ProxyTV.ru",530-МАТЧ! ПРЕМЬЕР
+http://94.230.117.155:81/udp/239.1.20.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",531-МАТЧ! ПРЕМЬЕР HD
+http://94.230.117.155:81/udp/239.1.16.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",532-МАТЧ! ФУТБОЛ 1 HD
+http://94.230.117.155:81/udp/239.1.23.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",533-МАТЧ! ФУТБОЛ 2 HD
+http://94.230.117.155:81/udp/239.1.23.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",534-МАТЧ! ФУТБОЛ 3 HD
+http://94.230.117.155:81/udp/239.1.23.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",535-МИНИСТЕРСТВО ИДЕЙ
+http://94.230.117.155:81/udp/239.1.20.44:1234
+#EXTINF:-1 group-title="ProxyTV.ru",536-МИР
+http://94.230.117.155:81/udp/239.1.15.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",537-МИР
+http://94.230.117.155:81/udp/239.1.31.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",538-МИР
+http://94.230.117.155:81/udp/239.1.31.137:1234
+#EXTINF:-1 group-title="ProxyTV.ru",539-МИР 24
+http://94.230.117.155:81/udp/239.1.1.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",540-МИР СЕРИАЛА
+http://94.230.117.155:81/udp/239.1.20.38:1234
+#EXTINF:-1 group-title="ProxyTV.ru",541-МИР УВЛЕЧЕНИЙ
+http://94.230.117.155:81/udp/239.1.5.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",542-МИР PREMIUM HD
+http://94.230.117.155:81/udp/239.1.17.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",543-МОЯ ПЛАНЕТА
+http://94.230.117.155:81/udp/239.1.5.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",544-МУЖСКОЕ КИНО
+http://94.230.117.155:81/udp/239.1.21.28:1234
+#EXTINF:-1 group-title="ProxyTV.ru",545-МУЗ ТВ
+http://94.230.117.155:81/udp/239.1.15.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",546-МУЗ ТВ
+http://94.230.117.155:81/udp/239.1.31.39:1234
+#EXTINF:-1 group-title="ProxyTV.ru",547-МУЗ ТВ
+http://94.230.117.155:81/udp/239.1.31.139:1234
+#EXTINF:-1 group-title="ProxyTV.ru",548-МУЛЬТ
+http://94.230.117.155:81/udp/239.1.3.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",549-МУЛЬТИМАНИЯ
+http://94.230.117.155:81/udp/239.1.20.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",550-МУЛЬТИМУЗЫКА
+http://94.230.117.155:81/udp/239.1.1.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",551-НАУКА
+http://94.230.117.155:81/udp/239.1.5.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",552-НАША СИБИРЬ UHD
+http://94.230.117.155:81/udp/239.1.22.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",553-НАШЕ ЛЮБИМОЕ КИНО
+http://94.230.117.155:81/udp/239.1.20.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",554-НАШЕ ЛЮБИМОЕ КИНО
+http://94.230.117.155:81/udp/239.1.30.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",555-НАШЕ ЛЮБИМОЕ КИНО
+http://94.230.117.155:81/udp/239.1.31.83:1234
+#EXTINF:-1 group-title="ProxyTV.ru",556-НАШЕ НОВОЕ КИНО
+http://94.230.117.155:81/udp/239.1.21.30:1234
+#EXTINF:-1 group-title="ProxyTV.ru",557-НАШЕ TV
+http://94.230.117.155:81/udp/239.1.21.49:1234
+#EXTINF:-1 group-title="ProxyTV.ru",558-НОСТАЛЬГИЯ
+http://94.230.117.155:81/udp/239.1.2.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",559-НСК 49
+http://94.230.117.155:81/udp/239.1.20.202:1234
+#EXTINF:-1 group-title="ProxyTV.ru",560-НСК 49
+http://94.230.117.155:81/udp/239.1.10.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",561-НСК 49
+http://94.230.117.155:81/udp/239.1.20.208:1234
+#EXTINF:-1 group-title="ProxyTV.ru",562-НСТ
+http://94.230.117.155:81/udp/239.1.4.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",563-НТВ
+http://94.230.117.155:81/udp/239.1.15.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",564-НТВ
+http://94.230.117.155:81/udp/239.1.31.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",565-НТВ
+http://94.230.117.155:81/udp/239.1.31.51:1234
+#EXTINF:-1 group-title="ProxyTV.ru",566-НТВ
+http://94.230.117.155:81/udp/239.1.31.112:1234
+#EXTINF:-1 group-title="ProxyTV.ru",567-О! 
+http://94.230.117.155:81/udp/239.1.30.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",568-О! 
+http://94.230.117.155:81/udp/239.1.20.41:1234
+#EXTINF:-1 group-title="ProxyTV.ru",569-ОРУЖИЕ
+http://94.230.117.155:81/udp/239.1.2.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",570-ОТКРЫТЫЙ МИР
+http://94.230.117.155:81/udp/239.1.5.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",571-ОТР
+http://94.230.117.155:81/udp/239.1.15.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",572-ОТР
+http://94.230.117.155:81/udp/239.1.31.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",573-ОТР
+http://94.230.117.155:81/udp/239.1.31.116:1234
+#EXTINF:-1 group-title="ProxyTV.ru",574-ОТС
+http://94.230.117.155:81/udp/239.1.10.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",575-ОХОТА И РЫБАЛКА
+http://94.230.117.155:81/udp/239.1.2.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",576-ОХОТНИК И РЫБОЛОВ
+http://94.230.117.155:81/udp/239.1.20.26:1234
+#EXTINF:-1 group-title="ProxyTV.ru",577-ОХОТНИК И РЫБОЛОВ HD
+http://94.230.117.155:81/udp/239.1.17.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",578-ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
+http://94.230.117.155:81/udp/239.1.20.55:1234
+#EXTINF:-1 group-title="ProxyTV.ru",579-ПЕРВЫЙ КАНАЛ
+http://94.230.117.155:81/udp/239.1.15.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",580-ПЕРВЫЙ КАНАЛ
+http://94.230.117.155:81/udp/239.1.31.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",581-ПЕРВЫЙ КАНАЛ
+http://94.230.117.155:81/udp/239.1.31.110:1234
+#EXTINF:-1 group-title="ProxyTV.ru",582-ПЕРВЫЙ КАНАЛ HD
+http://94.230.117.155:81/udp/239.1.15.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",583-ПЕРВЫЙ КАНАЛ HD
+http://94.230.117.155:81/udp/239.1.20.200:1234
+#EXTINF:-1 group-title="ProxyTV.ru",584-ПЕРВЫЙ КАНАЛ HD
+http://94.230.117.155:81/udp/239.1.21.50:1234
+#EXTINF:-1 group-title="ProxyTV.ru",585-ПЛАНЕТА HD
+http://94.230.117.155:81/udp/239.1.20.29:1234
+#EXTINF:-1 group-title="ProxyTV.ru",586-ПОЕХАЛИ! 
+http://94.230.117.155:81/udp/239.1.20.57:1234
+#EXTINF:-1 group-title="ProxyTV.ru",587-ПРИКЛЮЧЕНИЯ HD
+http://94.230.117.155:81/udp/239.1.17.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",588-ПСИХОЛОГИЯ 21
+http://94.230.117.155:81/udp/239.1.2.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",589-ПЯТНИЦА
+http://94.230.117.155:81/udp/239.1.31.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",590-ПЯТНИЦА
+http://94.230.117.155:81/udp/239.1.31.135:1234
+#EXTINF:-1 group-title="ProxyTV.ru",591-ПЯТНИЦА
+http://94.230.117.155:81/udp/239.1.15.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",592-РАДОСТЬ МОЯ
+http://94.230.117.155:81/udp/239.1.20.52:1234
+#EXTINF:-1 group-title="ProxyTV.ru",593-РБК
+http://94.230.117.155:81/udp/239.1.1.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",594-РЕН ТВ
+http://94.230.117.155:81/udp/239.1.31.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",595-РЕН ТВ
+http://94.230.117.155:81/udp/239.1.15.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",596-РЕН ТВ
+http://94.230.117.155:81/udp/239.1.31.30:1234
+#EXTINF:-1 group-title="ProxyTV.ru",597-РЕТРО
+http://94.230.117.155:81/udp/239.1.21.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",598-РОССИЯ 1
+http://94.230.117.155:81/udp/239.1.15.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",599-РОССИЯ 1
+http://94.230.117.155:81/udp/239.1.31.60:1234
+#EXTINF:-1 group-title="ProxyTV.ru",600-РОССИЯ 1
+http://94.230.117.155:81/udp/239.1.31.118:1234
+#EXTINF:-1 group-title="ProxyTV.ru",601-РОССИЯ 1
+http://94.230.117.155:81/udp/239.1.15.200:1234
+#EXTINF:-1 group-title="ProxyTV.ru",602-РОССИЯ 1 HD
+http://94.230.117.155:81/udp/239.1.10.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",603-РОССИЯ 24
+http://94.230.117.155:81/udp/239.1.15.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",604-РОССИЯ 24
+http://94.230.117.155:81/udp/239.1.31.62:1234
+#EXTINF:-1 group-title="ProxyTV.ru",605-РОССИЯ 24
+http://94.230.117.155:81/udp/239.1.31.119:1234
+#EXTINF:-1 group-title="ProxyTV.ru",606-РОССИЯ К
+http://94.230.117.155:81/udp/239.1.10.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",607-РОССИЯ К
+http://94.230.117.155:81/udp/239.1.31.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",608-РОССИЯ К
+http://94.230.117.155:81/udp/239.1.31.114:1234
+#EXTINF:-1 group-title="ProxyTV.ru",609-РУССКАЯ НОЧЬ 18+
+http://94.230.117.155:81/udp/239.1.6.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",610-РУССКИЙ БЕСТСЕЛЛЕР
+http://94.230.117.155:81/udp/239.1.4.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",611-РУССКИЙ ДЕТЕКТИВ
+http://94.230.117.155:81/udp/239.1.4.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",612-РУССКИЙ ИЛЛЮЗИОН
+http://94.230.117.155:81/udp/239.1.4.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",613-РУССКИЙ РОМАН
+http://94.230.117.155:81/udp/239.1.3.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",614-САРАФАН
+http://94.230.117.155:81/udp/239.1.2.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",615-СДЕЛАНО В КУЗБАССЕ HD
+http://94.230.117.155:81/udp/239.1.17.24:1234
+#EXTINF:-1 group-title="ProxyTV.ru",616-СОЮЗ
+http://94.230.117.155:81/udp/239.1.15.19:1234
+#EXTINF:-1 group-title="ProxyTV.ru",617-СПАС
+http://94.230.117.155:81/udp/239.1.15.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",618-СПАС
+http://94.230.117.155:81/udp/239.1.31.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",619-СПАС
+http://94.230.117.155:81/udp/239.1.31.131:1234
+#EXTINF:-1 group-title="ProxyTV.ru",620-СТС
+http://94.230.117.155:81/udp/239.1.31.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",621-СТС
+http://94.230.117.155:81/udp/239.1.31.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",622-СТС
+http://94.230.117.155:81/udp/239.1.31.132:1234
+#EXTINF:-1 group-title="ProxyTV.ru",623-СТС МИР
+http://94.230.117.155:81/udp/239.1.15.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",624-СТС LOVE
+http://94.230.117.155:81/udp/239.1.3.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",625-СУПЕР
+http://94.230.117.155:81/udp/239.1.21.45:1234
+#EXTINF:-1 group-title="ProxyTV.ru",626-ТВ3
+http://94.230.117.155:81/udp/239.1.10.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",627-ТВ3
+http://94.230.117.155:81/udp/239.1.21.43:1234
+#EXTINF:-1 group-title="ProxyTV.ru",628-ТВ3
+http://94.230.117.155:81/udp/239.1.31.34:1234
+#EXTINF:-1 group-title="ProxyTV.ru",629-ТВ3
+http://94.230.117.155:81/udp/239.1.31.134:1234
+#EXTINF:-1 group-title="ProxyTV.ru",630-ТВОЙ ДОМ
+http://94.230.117.155:81/udp/239.1.21.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",631-ТВЦ
+http://94.230.117.155:81/udp/239.1.15.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",632-ТВЦ
+http://94.230.117.155:81/udp/239.1.31.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",633-ТВЦ
+http://94.230.117.155:81/udp/239.1.31.117:1234
+#EXTINF:-1 group-title="ProxyTV.ru",634-ТЕАТР
+http://94.230.117.155:81/udp/239.1.21.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",635-ТЕЛЕКАНАЛ ФУТБОЛ
+http://94.230.117.155:81/udp/239.1.12.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",636-ТЕЛЕКАФЕ
+http://94.230.117.155:81/udp/239.1.2.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",637-ТЕЛЕПУТЕШЕСТВИЯ
+http://94.230.117.155:81/udp/239.1.20.28:1234
+#EXTINF:-1 group-title="ProxyTV.ru",638-ТЕХНО24
+http://94.230.117.155:81/udp/239.1.5.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",639-ТНВ ПЛАНЕТА
+http://94.230.117.155:81/udp/239.1.21.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",640-ТНВ ТАТАРСТАН
+http://94.230.117.155:81/udp/239.1.21.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",641-ТНТ
+http://94.230.117.155:81/udp/239.1.15.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",642-ТНТ
+http://94.230.117.155:81/udp/239.1.31.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",643-ТНТ
+http://94.230.117.155:81/udp/239.1.31.38:1234
+#EXTINF:-1 group-title="ProxyTV.ru",644-ТНТ
+http://94.230.117.155:81/udp/239.1.31.138:1234
+#EXTINF:-1 group-title="ProxyTV.ru",645-ТНТ MUSIC
+http://94.230.117.155:81/udp/239.1.8.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",646-ТНТ4
+http://94.230.117.155:81/udp/239.1.2.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",647-ТНТ4
+http://94.230.117.155:81/udp/239.1.20.203:1234
+#EXTINF:-1 group-title="ProxyTV.ru",648-УСАДЬБА
+http://94.230.117.155:81/udp/239.1.2.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",649-УСПЕХ
+http://94.230.117.155:81/udp/239.1.2.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",650-ЧЕ
+http://94.230.117.155:81/udp/239.1.15.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",651-ЧЕ
+http://94.230.117.155:81/udp/239.1.31.84:1234
+#EXTINF:-1 group-title="ProxyTV.ru",652-ЧЕ
+http://94.230.117.155:81/udp/239.1.30.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",653-ШАНСОН ТВ
+http://94.230.117.155:81/udp/239.1.8.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",654-ЭВРИКА HD
+http://94.230.117.155:81/udp/239.1.21.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",655-Ю
+http://94.230.117.155:81/udp/239.1.15.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",656-ЮВЕЛИРОЧКА
+http://94.230.117.155:81/udp/239.1.21.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",657-ЮМОР
+http://94.230.117.155:81/udp/239.1.20.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",658-A-MEDIA 1
+http://94.230.117.155:81/udp/239.1.4.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",659-A-MEDIA HIT HD
+http://94.230.117.155:81/udp/239.1.21.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",660-A-MEDIA HIT HD
+http://94.230.117.155:81/udp/239.1.30.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",661-A-MEDIA PREMIUM HD
+http://94.230.117.155:81/udp/239.1.14.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",662-ACB TV 
+http://94.230.117.155:81/udp/239.1.21.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",663-ANI
+http://94.230.117.155:81/udp/239.1.20.40:1234
+#EXTINF:-1 group-title="ProxyTV.ru",664-ANIMAL PLANET
+http://94.230.117.155:81/udp/239.1.5.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",665-ANIMAL PLANET HD
+http://94.230.117.155:81/udp/239.1.17.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",666-ARIRANG
+http://94.230.117.155:81/udp/239.1.21.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",667-BABY TV
+http://94.230.117.155:81/udp/239.1.21.48:1234
+#EXTINF:-1 group-title="ProxyTV.ru",668-BBC WORLD NEWS
+http://94.230.117.155:81/udp/239.1.20.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",669-BLUE HUSTLER 18+
+http://94.230.117.155:81/udp/239.1.6.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",670-BOOMERANG
+http://94.230.117.155:81/udp/239.1.20.48:1234
+#EXTINF:-1 group-title="ProxyTV.ru",671-BOOMERANG
+http://94.230.117.155:81/udp/239.1.21.59:1234
+#EXTINF:-1 group-title="ProxyTV.ru",672-BRAZZERS TV 18+
+http://94.230.117.155:81/udp/239.1.6.40:1234
+#EXTINF:-1 group-title="ProxyTV.ru",673-BRIDGE TV
+http://94.230.117.155:81/udp/239.1.8.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",674-BRIDGE TV РУССКИЙ ХИТ 
+http://94.230.117.155:81/udp/239.1.8.14:1234
+#EXTINF:-1 group-title="ProxyTV.ru",675-BRIDGE TV CLASSIC
+http://94.230.117.155:81/udp/239.1.20.106:1234
+#EXTINF:-1 group-title="ProxyTV.ru",676-BRIDGE TV DANGE
+http://94.230.117.155:81/udp/239.1.8.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",677-CARTOON NETWORK 
+http://94.230.117.155:81/udp/239.1.3.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",678-CINEMA
+http://94.230.117.155:81/udp/239.1.20.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",679-DA VINCI
+http://94.230.117.155:81/udp/239.1.5.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",680-DEUTSCHE WELLE
+http://94.230.117.155:81/udp/239.1.20.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",681-DISCOVERY CHANNEL
+http://94.230.117.155:81/udp/239.1.5.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",682-DISCOVERY CHANNEL HD
+http://94.230.117.155:81/udp/239.1.17.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",683-DISCOVERY SCIENCE
+http://94.230.117.155:81/udp/239.1.5.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",684-DISCOVERY SCIENCE HD
+http://94.230.117.155:81/udp/239.1.20.143:1234
+#EXTINF:-1 group-title="ProxyTV.ru",685-DISNEY CHANNEL
+http://94.230.117.155:81/udp/239.1.15.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",686-DTX
+http://94.230.117.155:81/udp/239.1.5.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",687-E
+http://94.230.117.155:81/udp/239.1.30.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",688-E
+http://94.230.117.155:81/udp/239.1.5.25:1234
+#EXTINF:-1 group-title="ProxyTV.ru",689-E HD
+http://94.230.117.155:81/udp/239.1.20.141:1234
+#EXTINF:-1 group-title="ProxyTV.ru",690-ENGLISH CLUB TV
+http://94.230.117.155:81/udp/239.1.20.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",691-EROX
+http://94.230.117.155:81/udp/239.1.20.60:1234
+#EXTINF:-1 group-title="ProxyTV.ru",692-EUROPA PLUS TV
+http://94.230.117.155:81/udp/239.1.8.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",693-EUROPA PLUS TV
+http://94.230.117.155:81/udp/239.1.31.81:1234
+#EXTINF:-1 group-title="ProxyTV.ru",694-EUROSPORT 1
+http://94.230.117.155:81/udp/239.1.12.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",695-EUROSPORT 1 HD
+http://94.230.117.155:81/udp/239.1.11.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",696-EUROSPORT 2
+http://94.230.117.155:81/udp/239.1.12.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",697-EUROSPORT 2 HD
+http://94.230.117.155:81/udp/239.1.18.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",698-EXTREME SPORTS
+http://94.230.117.155:81/udp/239.1.12.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",699-FASHION ONE HD
+http://94.230.117.155:81/udp/239.1.17.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",700-FASHION TV
+http://94.230.117.155:81/udp/239.1.3.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",701-FAST&FUN BOX
+http://94.230.117.155:81/udp/239.1.20.61:1234
+#EXTINF:-1 group-title="ProxyTV.ru",702-FIGHT BOX
+http://94.230.117.155:81/udp/239.1.20.62:1234
+#EXTINF:-1 group-title="ProxyTV.ru",703-FOX
+http://94.230.117.155:81/udp/239.1.4.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",704-FOX HD
+http://94.230.117.155:81/udp/239.1.17.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",705-FOX LIFE
+http://94.230.117.155:81/udp/239.1.3.11:1234
+#EXTINF:-1 group-title="ProxyTV.ru",706-FOX LIFE HD
+http://94.230.117.155:81/udp/239.1.9.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",707-FRANCE 24 HD
+http://94.230.117.155:81/udp/239.1.20.58:1234
+#EXTINF:-1 group-title="ProxyTV.ru",708-GALAXY
+http://94.230.117.155:81/udp/239.1.20.56:1234
+#EXTINF:-1 group-title="ProxyTV.ru",709-GINGER HD
+http://94.230.117.155:81/udp/239.1.21.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",710-HDL
+http://94.230.117.155:81/udp/239.1.9.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",711-HUSTLER HD
+http://94.230.117.155:81/udp/239.1.6.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",712-ID INVESTIGATION DISCOVERY
+http://94.230.117.155:81/udp/239.1.2.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",713-IНТЕР+
+http://94.230.117.155:81/udp/239.1.21.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",714-IНТЕР+
+http://94.230.117.155:81/udp/239.1.20.59:1234
+#EXTINF:-1 group-title="ProxyTV.ru",715-INSIGHT UHD
+http://94.230.117.155:81/udp/239.1.20.63:1234
+#EXTINF:-1 group-title="ProxyTV.ru",716-IZ.RU
+http://94.230.117.155:81/udp/239.1.31.130:1234
+#EXTINF:-1 group-title="ProxyTV.ru",717-JIMJAM
+http://94.230.117.155:81/udp/239.1.3.2:1234
+#EXTINF:-1 group-title="ProxyTV.ru",718-MEZZO LIVE HD 
+http://94.230.117.155:81/udp/239.1.10.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",719-MTV
+http://94.230.117.155:81/udp/239.1.20.33:1234
+#EXTINF:-1 group-title="ProxyTV.ru",720-MTV DANCE
+http://94.230.117.155:81/udp/239.1.8.15:1234
+#EXTINF:-1 group-title="ProxyTV.ru",721-MTV HD
+http://94.230.117.155:81/udp/239.1.21.44:1234
+#EXTINF:-1 group-title="ProxyTV.ru",722-MTV HITS
+http://94.230.117.155:81/udp/239.1.20.20:1234
+#EXTINF:-1 group-title="ProxyTV.ru",723-MTV LIVE HD
+http://94.230.117.155:81/udp/239.1.17.83:1234
+#EXTINF:-1 group-title="ProxyTV.ru",724-MUSIC BOX
+http://94.230.117.155:81/udp/239.1.8.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",725-MUSIC BOX RUSSIAN
+http://94.230.117.155:81/udp/239.1.8.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",726-MYZEN TV HD
+http://94.230.117.155:81/udp/239.1.10.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",727-NAT GEO WILD
+http://94.230.117.155:81/udp/239.1.5.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",728-NAT GEO WILD HD
+http://94.230.117.155:81/udp/239.1.17.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",729-NATIONAL GEOGRAPHIC
+http://94.230.117.155:81/udp/239.1.5.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",730-NATIONAL GEOGRAPHIC HD
+http://94.230.117.155:81/udp/239.1.17.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",731-NICK JR.
+http://94.230.117.155:81/udp/239.1.20.49:1234
+#EXTINF:-1 group-title="ProxyTV.ru",732-NICK JR.
+http://94.230.117.155:81/udp/239.1.21.46:1234
+#EXTINF:-1 group-title="ProxyTV.ru",733-NICKELODEON
+http://94.230.117.155:81/udp/239.1.3.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",734-NICKELODEON HD
+http://94.230.117.155:81/udp/239.1.17.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",735-O-LA-LA 18+
+http://94.230.117.155:81/udp/239.1.6.34:1234
+#EXTINF:-1 group-title="ProxyTV.ru",736-OUTDOOR HD
+http://94.230.117.155:81/udp/239.1.17.3:1234
+#EXTINF:-1 group-title="ProxyTV.ru",737-PARAMOUNT COMEDY
+http://94.230.117.155:81/udp/239.1.20.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",738-PLAYBOY TV 18+
+http://94.230.117.155:81/udp/239.1.6.39:1234
+#EXTINF:-1 group-title="ProxyTV.ru",739-RTG HD
+http://94.230.117.155:81/udp/239.1.17.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",740-RTG TV
+http://94.230.117.155:81/udp/239.1.5.13:1234
+#EXTINF:-1 group-title="ProxyTV.ru",741-RU TV
+http://94.230.117.155:81/udp/239.1.8.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",742-RU TV
+http://94.230.117.155:81/udp/239.1.20.142:1234
+#EXTINF:-1 group-title="ProxyTV.ru",743-RU TV
+http://94.230.117.155:81/udp/239.1.20.205:1234
+#EXTINF:-1 group-title="ProxyTV.ru",744-RUSSIA TODAY DOC HD
+http://94.230.117.155:81/udp/239.1.9.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",745-RUSSIA TODAY HD
+http://94.230.117.155:81/udp/239.1.9.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",746-SHOP&SHOW
+http://94.230.117.155:81/udp/239.1.21.37:1234
+#EXTINF:-1 group-title="ProxyTV.ru",747-SHOPPING LIVE
+http://94.230.117.155:81/udp/239.1.20.17:1234
+#EXTINF:-1 group-title="ProxyTV.ru",748-SONY CHANNEL
+http://94.230.117.155:81/udp/239.1.4.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",749-SONY CHANNEL HD
+http://94.230.117.155:81/udp/239.1.17.18:1234
+#EXTINF:-1 group-title="ProxyTV.ru",750-SONY SCI-FI
+http://94.230.117.155:81/udp/239.1.4.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",751-SONY TURBO
+http://94.230.117.155:81/udp/239.1.4.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",752-SPIKE HD
+http://94.230.117.155:81/udp/239.1.21.57:1234
+#EXTINF:-1 group-title="ProxyTV.ru",753-TIJI
+http://94.230.117.155:81/udp/239.1.3.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",754-TLC
+http://94.230.117.155:81/udp/239.1.3.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",755-TLC HD
+http://94.230.117.155:81/udp/239.1.17.12:1234
+#EXTINF:-1 group-title="ProxyTV.ru",756-TOP SHOP
+http://94.230.117.155:81/udp/239.1.20.140:1234
+#EXTINF:-1 group-title="ProxyTV.ru",757-TRAVEL+ ADVENTURE
+http://94.230.117.155:81/udp/239.1.5.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",758-TRAVEL+ ADVENTURE HD
+http://94.230.117.155:81/udp/239.1.17.4:1234
+#EXTINF:-1 group-title="ProxyTV.ru",759-TV XXI
+http://94.230.117.155:81/udp/239.1.4.1:1234
+#EXTINF:-1 group-title="ProxyTV.ru",760-TV1000
+http://94.230.117.155:81/udp/239.1.30.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",761-TV1000
+http://94.230.117.155:81/udp/239.1.21.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",762-TV1000 РУССКОЕ КИНО
+http://94.230.117.155:81/udp/239.1.30.5:1234
+#EXTINF:-1 group-title="ProxyTV.ru",763-TV1000 РУССКОЕ КИНО
+http://94.230.117.155:81/udp/239.1.21.32:1234
+#EXTINF:-1 group-title="ProxyTV.ru",764-TV1000 РУССКОЕ КИНО
+http://94.230.117.155:81/udp/239.1.20.105:1234
+#EXTINF:-1 group-title="ProxyTV.ru",765-TV1000 ACTION
+http://94.230.117.155:81/udp/239.1.30.6:1234
+#EXTINF:-1 group-title="ProxyTV.ru",766-TV1000 ACTION
+http://94.230.117.155:81/udp/239.1.21.33:1234
+#EXTINF:-1 group-title="ProxyTV.ru",767-VH-1 CLASSIC
+http://94.230.117.155:81/udp/239.1.8.7:1234
+#EXTINF:-1 group-title="ProxyTV.ru",768-VH-1 EUROPEAN
+http://94.230.117.155:81/udp/239.1.8.16:1234
+#EXTINF:-1 group-title="ProxyTV.ru",769-VIASAT EXPLORE
+http://94.230.117.155:81/udp/239.1.21.35:1234
+#EXTINF:-1 group-title="ProxyTV.ru",770-VIASAT EXPLORE HD
+http://94.230.117.155:81/udp/239.1.30.8:1234
+#EXTINF:-1 group-title="ProxyTV.ru",771-VIASAT GOLF HD
+http://94.230.117.155:81/udp/239.1.21.42:1234
+#EXTINF:-1 group-title="ProxyTV.ru",772-VIASAT HISTORY
+http://94.230.117.155:81/udp/239.1.21.34:1234
+#EXTINF:-1 group-title="ProxyTV.ru",773-VIASAT HISTORY HD
+http://94.230.117.155:81/udp/239.1.30.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",774-VIASAT NATURE
+http://94.230.117.155:81/udp/239.1.21.36:1234
+#EXTINF:-1 group-title="ProxyTV.ru",775-VIASAT NATURE HD
+http://94.230.117.155:81/udp/239.1.30.10:1234
+#EXTINF:-1 group-title="ProxyTV.ru",776-VIASAT HISTORY/NATURE HD
+http://94.230.117.155:81/udp/239.1.20.201:1234
+#EXTINF:-1 group-title="ProxyTV.ru",777-VIASAT SPORT HD
+http://94.230.117.155:81/udp/239.1.21.41:1234
+#EXTINF:-1 group-title="ProxyTV.ru",778-VIP COMEDY HD
+http://94.230.117.155:81/udp/239.1.21.40:1234
+#EXTINF:-1 group-title="ProxyTV.ru",779-VIP MEGAHIT HD
+http://94.230.117.155:81/udp/239.1.21.39:1234
+#EXTINF:-1 group-title="ProxyTV.ru",780-VIP PREMIERE HD
+http://94.230.117.155:81/udp/239.1.21.38:1234
+#EXTINF:-1 group-title="ProxyTV.ru",781-VOSTOK TV
+http://94.230.117.155:81/udp/239.1.20.31:1234
+#EXTINF:-1 group-title="ProxyTV.ru",782-ZEE TV
+http://94.230.117.155:81/udp/239.1.21.29:1234
+#EXTINF:-1 group-title="ProxyTV.ru",783-ZOOПАРК
+http://94.230.117.155:81/udp/239.1.20.22:1234
+#EXTINF:-1 group-title="ProxyTV.ru",784-ПЕРВЫЙ КАНАЛ
+http://92.38.244.89:5050/udp/224.0.42.1:5000
+#EXTINF:-1 group-title="ProxyTV.ru",785-365 ДНЕЙ
+http://92.38.244.89:5050/udp/224.0.42.2:5000
+#EXTINF:-1 group-title="ProxyTV.ru",786-WORLD FASHION
+http://92.38.244.89:5050/udp/224.0.42.3:5000
+#EXTINF:-1 group-title="ProxyTV.ru",787-ТЕХНО 24
+http://92.38.244.89:5050/udp/224.0.42.4:5000
+#EXTINF:-1 group-title="ProxyTV.ru",788-ТЕЛЕДОМ HD
+http://92.38.244.89:5050/udp/224.0.42.5:5000
+#EXTINF:-1 group-title="ProxyTV.ru",789-FRANCE 24 HD
+http://92.38.244.89:5050/udp/224.0.42.6:5000
+#EXTINF:-1 group-title="ProxyTV.ru",790-BRIDGE TV
+http://92.38.244.89:5050/udp/224.0.42.7:5000
+#EXTINF:-1 group-title="ProxyTV.ru",791-ТНТ MUSIC
+http://92.38.244.89:5050/udp/224.0.42.8:5000
+#EXTINF:-1 group-title="ProxyTV.ru",792-RTG HD 
+http://92.38.244.89:5050/udp/224.0.42.9:5000
+#EXTINF:-1 group-title="ProxyTV.ru",793-ИЛЛЮЗИОН+
+http://92.38.244.89:5050/udp/224.0.42.10:5000
+#EXTINF:-1 group-title="ProxyTV.ru",794-МАТЧ! ПРЕМЬЕР HD
+http://92.38.244.89:5050/udp/224.0.42.11:5000
+#EXTINF:-1 group-title="ProxyTV.ru",795-РАДОСТЬ МОЯ
+http://92.38.244.89:5050/udp/224.0.42.12:5000
+#EXTINF:-1 group-title="ProxyTV.ru",796-МАТЧ!
+http://92.38.244.89:5050/udp/224.0.42.13:5000
+#EXTINF:-1 group-title="ProxyTV.ru",797-НТВ
+http://92.38.244.89:5050/udp/224.0.42.14:5000
+#EXTINF:-1 group-title="ProxyTV.ru",798-ТНТ
+http://92.38.244.89:5050/udp/224.0.42.15:5000
+#EXTINF:-1 group-title="ProxyTV.ru",799-ПЯТНИЦА
+http://92.38.244.89:5050/udp/224.0.42.16:5000
+#EXTINF:-1 group-title="ProxyTV.ru",800-РОССИЯ 1
+http://92.38.244.89:5050/udp/224.0.42.17:5000
+#EXTINF:-1 group-title="ProxyTV.ru",801-РОССИЯ К
+http://92.38.244.89:5050/udp/224.0.42.18:5000
+#EXTINF:-1 group-title="ProxyTV.ru",802-СТС
+http://92.38.244.89:5050/udp/224.0.42.19:5000
