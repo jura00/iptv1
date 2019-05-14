@@ -1,4 +1,3 @@
-#EXTM3U list-autor="© http://ProxyTV.ru"
-#EXTINF:-1 tvch-id="14086" group-title="ИНФОРМАЦИОННЫЕ",ДОЖДЬ HD
-http://31.41.98.84:81/udp/225.0.2.64:1234
-
+#EXTM3U
+#EXTINF:-1 group-title="ProxyTV.ru",210-DOCU BOX HD
+http://194.28.153.225:81/udp/225.0.2.84:1234
