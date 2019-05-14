@@ -1,0 +1,5 @@
+﻿#EXTM3U
+ #EXTINF:-1 tvch-id="14040" group-title="ПОЗНАВАТЕЛЬНЫЕ",MUSEUM HD
+http://31.41.96.36:81/udp/225.0.2.85:1234
+#EXTINF:-1 tvch-id="14095" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ЖАРА
+http://194.28.153.225:81/udp/225.0.0.114:1234
