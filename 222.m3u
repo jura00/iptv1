@@ -1,27 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="ProxyTV.ru",439-УКРАЇНА
-http://94.74.108.75:4022/udp/224.5.2.182:1234
-#EXTINF:-1 group-title="ProxyTV.ru",440-УНІАН
-http://94.74.108.75:4022/udp/224.5.2.78:1234
-#EXTINF:-1 group-title="ProxyTV.ru",441-ФАУНА
-http://94.74.108.75:4022/udp/224.5.4.51:1234
-#EXTINF:-1 group-title="ProxyTV.ru",442-ФУТБОЛ 1
-http://94.74.108.75:4022/udp/224.5.2.150:1234
-#EXTINF:-1 group-title="ProxyTV.ru",443-ФУТБОЛ 2
-http://94.74.108.75:4022/udp/224.5.2.155:1234
-#EXTINF:-1 group-title="ProxyTV.ru",444-ЧОРНОМОРСЬКА ТРК
-http://94.74.108.75:4022/udp/224.5.2.22:1234
-#EXTINF:-1 group-title="ProxyTV.ru",445-ЧП INFO
-http://94.74.108.75:4022/udp/224.5.2.8:1234
-#EXTINF:-1 group-title="ProxyTV.ru",446-ЮЖНАЯ ВОЛНА HD
-http://94.74.108.75:4022/udp/224.5.1.190:1234
-#EXTINF:-1 group-title="ProxyTV.ru",447-AMC
-http://94.74.108.75:4022/udp/224.5.4.21:1234
-#EXTINF:-1 group-title="ProxyTV.ru",210-DOCU BOX HD
-http://194.28.153.225:81/udp/225.0.2.84:1234
-#EXTINF:-1 group-title="ProxyTV.ru",211-DTX
-http://194.28.153.225:81/udp/225.0.0.68:1234
-#EXTINF:-1 group-title="ProxyTV.ru",212-E HD
-http://194.28.153.225:81/udp/225.0.2.25:1234
 #EXTINF:-1 tvch-id="29157" group-title="ПОЗНАВАТЕЛЬНЫЕ",DOCU BOX HD
 http://5.19.142.233:81/udp/235.10.10.148:1234
