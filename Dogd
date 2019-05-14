@@ -1,0 +1,3 @@
+#EXTM3U list-autor="© http://ProxyTV.ru"
+#EXTINF:-1 tvch-id="31035" group-title="ИНФОРМАЦИОННЫЕ",ДОЖДЬ HD
+http://178.252.113.37:81/udp/233.166.172.53:1234
