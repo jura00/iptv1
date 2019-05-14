@@ -17,3 +17,9 @@ http://94.74.108.75:4022/udp/224.5.2.8:1234
 http://94.74.108.75:4022/udp/224.5.1.190:1234
 #EXTINF:-1 group-title="ProxyTV.ru",447-AMC
 http://94.74.108.75:4022/udp/224.5.4.21:1234
+#EXTINF:-1 group-title="ProxyTV.ru",210-DOCU BOX HD
+http://194.28.153.225:81/udp/225.0.2.84:1234
+#EXTINF:-1 group-title="ProxyTV.ru",211-DTX
+http://194.28.153.225:81/udp/225.0.0.68:1234
+#EXTINF:-1 group-title="ProxyTV.ru",212-E HD
+http://194.28.153.225:81/udp/225.0.2.25:1234
