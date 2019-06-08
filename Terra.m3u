@@ -1,0 +1,555 @@
+#EXTM3U url-tvg="http://tv.terra-line.net/xmltv" refresh="3600" m3uautoload="1" deinterlace="1"
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="Информационные" ,Россия 1
+http://tv.terra-line.net:20014/c/1001
+
+#EXTINF:-1 tvg-name="Terra-Line CAM1" group-title="Информационные" ,Terra-Line CAM1
+http://tv.terra-line.net:20100/channel/9991
+#EXTINF:-1 tvg-name="Terra-Line CAM2" group-title="Информационные" ,Terra-Line CAM2
+http://tv.terra-line.net:20100/channel/9992
+
+#EXTINF:-1 tvg-name="Новороссия" groups="Информационные" group-title="Информационные" ,Новороссия
+http://tv.terra-line.net:20100/channel/1
+#EXTINF:-1 tvg-name="Оплот" group-title="Информационные" ,Оплот
+http://tv.terra-line.net:20100/channel/4
+#EXTINF:-1 tvg-name="Оплот 2" group-title="Информационные" ,Оплот 2
+http://tv.terra-line.net:20100/channel/6
+#EXTINF:-1 tvg-name="1-й Республиканский" group-title="Информационные" ,Республиканский
+http://tv.terra-line.net:20100/channel/2
+#EXTINF:-1 tvg-name="ТРК Юнион" group-title="Информационные" ,ТРК Юнион
+http://tv.terra-line.net:20100/channel/3
+#EXTINF:-1 tvg-name="1HD" group-title="Музыка" ,1HD
+http://tv.terra-line.net:20006/c/20107
+#EXTINF:-1 tvg-name="2X2" group-title="Детские" ,2X2
+http://tv.terra-line.net:20004/c/1826
+#EXTINF:-1 tvg-name="365 дней ТВ" group-title="Наука" ,365 дней ТВ
+http://tv.terra-line.net:20010/c/101
+#EXTINF:-1 tvg-name="8 канал" group-title="Информационные" ,8 канал
+http://tv.terra-line.net:20008/c/701
+#EXTINF:-1 tvg-name="A1" group-title="Кино" ,A1
+http://tv.terra-line.net:20005/c/2102
+#EXTINF:-1 tvg-name="A2" group-title="Кино" ,A2
+http://tv.terra-line.net:20005/c/2117
+#EXTINF:-1 tvg-name="ABTO24" group-title="Развлечения" ,ABTO24
+http://tv.terra-line.net:20008/c/702
+#EXTINF:-1 tvg-name="ACB TV" group-title="Развлечения" ,ACB TV
+http://tv.terra-line.net:20012/c/409
+#EXTINF:-1 tvg-name="Hollywood" group-title="Кино" ,Hollywood
+http://tv.terra-line.net:20005/c/2112
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="Кино" ,Hollywood HD
+http://tv.terra-line.net:20003/c/17108
+#EXTINF:-1 tvg-name="AMEDIA HIT" group-title="Кино" ,AMEDIA HIT
+http://tv.terra-line.net:20005/c/2103
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="Кино" ,Amedia Premium
+http://tv.terra-line.net:20005/c/2104
+#EXTINF:-1 tvg-name="Amedia Premium HD" group-title="Кино" ,Amedia Premium HD
+http://tv.terra-line.net:20007/c/26003
+#EXTINF:-1 tvg-name="Ani" group-title="Детские" ,Ani
+http://tv.terra-line.net:20012/c/411
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Наука" ,Animal Planet
+http://tv.terra-line.net:20009/c/801
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Наука" ,Animal Planet HD
+http://tv.terra-line.net:20015/c/2202
+#EXTINF:-1 tvg-name="Bollywood" group-title="Кино" ,Bollywood
+http://tv.terra-line.net:20005/c/2110
+#EXTINF:-1 tvg-name="Bollywood HD" group-title="Кино" ,Bollywood HD
+http://tv.terra-line.net:20007/c/26007
+#EXTINF:-1 tvg-name="Boomerang" group-title="Детские" ,Boomerang
+http://tv.terra-line.net:20009/c/821
+#EXTINF:-1 tvg-name="BOLT" group-title="Кино", BOLT
+http://tv.terra-line.net:20009/c/825
+#EXTINF:-1 tvg-name="BRIDGE HD" group-title="Музыка" ,BRIDGE HD
+http://tv.terra-line.net:20015/c/2206
+#EXTINF:-1 tvg-name="BRIDGE TV" group-title="Музыка" ,BRIDGE TV
+http://tv.terra-line.net:20005/c/2118
+#EXTINF:-1 tvg-name="BRIDGE TV DANCE" group-title="Музыка" ,BRIDGE TV DANCE
+http://tv.terra-line.net:20004/c/1818
+#EXTINF:-1 tvg-name="BRIDGE TV Русский Хит" group-title="Музыка" ,BRIDGE TV Русский Хит
+http://tv.terra-line.net:20005/c/2119
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские" ,Cartoon Network
+http://tv.terra-line.net:20009/c/802
+#EXTINF:-1 tvg-name="CBS Reality" group-title="Развлечения" ,CBS Reality
+http://tv.terra-line.net:20005/c/2106
+#EXTINF:-1 tvg-name="CTC Love" group-title="Развлечения" ,CTC Love
+http://tv.terra-line.net:20016/c/1106
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Развлечения" ,Discovery Channel
+http://tv.terra-line.net:20009/c/803
+#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="Развлечения" ,Discovery Channel HD
+http://tv.terra-line.net:20011/c/12105
+#EXTINF:-1 tvg-name="Discovery Science" group-title="Наука" ,Discovery Science
+http://tv.terra-line.net:20016/c/1110
+#EXTINF:-1 tvg-name="Euronews" group-title="Информационные" ,Euronews
+http://tv.terra-line.net:20002/c/19114
+#EXTINF:-1 tvg-name="Eurosport 1" group-title="Спорт" ,Eurosport 1
+http://tv.terra-line.net:20008/c/704
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Спорт" ,EUROSPORT 1 HD
+http://tv.terra-line.net:20007/c/26001
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Спорт" ,EUROSPORT 2 HD
+http://tv.terra-line.net:20003/c/17107
+#EXTINF:-1 tvg-name="Extreme Sports" group-title="Спорт" ,Extreme Sports
+http://tv.terra-line.net:20002/c/19109
+#EXTINF:-1 tvg-name="FAN" group-title="Детские" ,FAN
+http://tv.terra-line.net:20012/c/401
+#EXTINF:-1 tvg-name="Fashion TV Network" group-title="Развлечения" ,Fashion TV Network
+http://tv.terra-line.net:20012/c/405
+#EXTINF:-1 tvg-name="Fine Living" group-title="Развлечения" ,Fine Living
+http://tv.terra-line.net:20012/c/404
+#EXTINF:-1 tvg-name="Food Network" group-title="Развлечения" ,Food Network
+http://tv.terra-line.net:20012/c/416
+#EXTINF:-1 tvg-name="FOX" group-title="Кино" ,FOX
+http://tv.terra-line.net:20002/c/19115
+#EXTINF:-1 tvg-name="FOX HD" group-title="Кино" ,FOX HD
+http://tv.terra-line.net:20003/c/17101
+#EXTINF:-1 tvg-name="Fox Life" group-title="Кино" ,Fox Life
+http://tv.terra-line.net:20009/c/806
+#EXTINF:-1 tvg-name="Game Show" group-title="Развлечения" ,Game Show
+http://tv.terra-line.net:20012/c/423
+#EXTINF:-1 tvg-name="Gulli Girl" group-title="Детские" ,Gulli Girl
+http://tv.terra-line.net:20005/c/2122
+#EXTINF:-1 tvg-name="HD Life" group-title="Развлечения" ,HD Life
+http://tv.terra-line.net:20011/c/12103
+#EXTINF:-1 tvg-name="History" group-title="Наука" ,History
+http://tv.terra-line.net:20004/c/1808
+#EXTINF:-1 tvg-name="History HD" group-title="Наука" ,History HD
+http://tv.terra-line.net:20007/c/26004
+#EXTINF:-1 tvg-name="Investigation Discovery" group-title="Развлечения" ,Investigation Discovery
+http://tv.terra-line.net:20009/c/807
+#EXTINF:-1 tvg-name="JimJam" group-title="Детские" ,JimJam
+http://tv.terra-line.net:20008/c/708
+#EXTINF:-1 tvg-name="MCM Top" group-title="Музыка" ,MCM Top
+http://tv.terra-line.net:20004/c/1809
+#EXTINF:-1 tvg-name="Mezzo" group-title="Развлечения" ,Mezzo
+http://tv.terra-line.net:20002/c/19126
+#EXTINF:-1 tvg-name="Mezzo Live HD" group-title="Развлечения" ,Mezzo Live HD
+http://tv.terra-line.net:20006/c/20103
+#EXTINF:-1 tvg-name="MTV" group-title="Музыка" ,MTV
+http://tv.terra-line.net:20009/c/809
+#EXTINF:-1 tvg-name="MTV Dance" group-title="Музыка" ,MTV Dance
+http://tv.terra-line.net:20009/c/810
+#EXTINF:-1 tvg-name="MTV Hits" group-title="Музыка" ,MTV Hits
+http://tv.terra-line.net:20009/c/811
+#EXTINF:-1 tvg-name="MTV Live HD" group-title="Музыка" ,MTV Live HD
+http://tv.terra-line.net:20013/c/1404
+#EXTINF:-1 tvg-name="MTV Rocks" group-title="Музыка" ,MTV Rocks
+http://tv.terra-line.net:20009/c/812
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Наука" ,Nat Geo Wild
+http://tv.terra-line.net:20002/c/19116
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" group-title="Наука" ,Nat Geo Wild HD
+http://tv.terra-line.net:20006/c/20101
+#EXTINF:-1 tvg-name="National Geographic" group-title="Наука" ,National Geographic
+http://tv.terra-line.net:20009/c/813
+#EXTINF:-1 tvg-name="National Geographic HD" group-title="Наука" ,National Geographic HD
+http://tv.terra-line.net:20007/c/26002
+#EXTINF:-1 tvg-name="Nick Jr." group-title="Детские" ,Nick Jr.
+http://tv.terra-line.net:20009/c/814
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские" ,Nickelodeon
+http://tv.terra-line.net:20008/c/709
+#EXTINF:-1 tvg-name="Nickelodeon HD" group-title="Детские" ,Nickelodeon HD
+http://tv.terra-line.net:20013/c/14106
+#EXTINF:-1 tvg-name="O!" group-title="Детские" ,O!
+http://tv.terra-line.net:20009/c/808
+#EXTINF:-1 tvg-name="OCEAN-TV" group-title="Развлечения" ,OCEAN-TV
+http://tv.terra-line.net:20002/c/19122
+#EXTINF:-1 tvg-name="Outdoor Channel" group-title="Развлечения" ,Outdoor Channel
+http://tv.terra-line.net:20004/c/1811
+#EXTINF:-1 tvg-name="Paramount Channel" group-title="Кино" ,Paramount Channel
+http://tv.terra-line.net:20002/c/19121
+#EXTINF:-1 tvg-name="Paramount Comedy" group-title="Кино" ,Paramount Comedy
+http://tv.terra-line.net:20002/c/19118
+#EXTINF:-1 tvg-name="RTG HD" group-title="Наука" ,RTG HD
+http://tv.terra-line.net:20006/c/20102
+#EXTINF:-1 tvg-name="RTG TV" group-title="Наука" ,RTG TV
+http://tv.terra-line.net:20004/c/1816
+#EXTINF:-1 tvg-name="RTД (русск.)" group-title="Информационные" ,RTД (русск.)
+http://tv.terra-line.net:20004/c/1814
+#EXTINF:-1 tvg-name="RU.TV" group-title="Музыка" ,RU.TV
+http://tv.terra-line.net:20004/c/1812
+#EXTINF:-1 tvg-name="Shop&Show" group-title="Развлечения" ,Shop&Show
+http://tv.terra-line.net:20001/c/1323
+#EXTINF:-1 tvg-name="Shop24" group-title="Развлечения" ,Shop24
+http://tv.terra-line.net:20014/c/1012
+#EXTINF:-1 tvg-name="Shopping Live" group-title="Развлечения" ,Shopping Live
+http://tv.terra-line.net:20014/c/1011
+#EXTINF:-1 tvg-name="SONY CHANNEL" group-title="Кино" ,SONY CHANNEL
+http://tv.terra-line.net:20008/c/710
+#EXTINF:-1 tvg-name="Sony Sci-Fi" group-title="Кино" ,Sony Sci-Fi
+http://tv.terra-line.net:20008/c/711
+#EXTINF:-1 tvg-name="Sony Turbo" group-title="Кино" ,Sony Turbo
+http://tv.terra-line.net:20008/c/712
+#EXTINF:-1 tvg-name="Spike" group-title="Кино" ,Spike
+http://tv.terra-line.net:20008/c/706
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Кино" ,Star Cinema
+http://tv.terra-line.net:20009/c/826
+#EXTINF:-1 tvg-name="TB 1000 Русское кино" group-title="Кино" ,TB 1000 Русское кино
+http://tv.terra-line.net:20002/c/19104
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения" ,ТНТ
+http://tv.terra-line.net:20001/c/1319
+#EXTINF:-1 tvg-name="ТНТ +2" group-title="Развлечения" ,ТНТ +2
+http://tv.terra-line.net:20004/c/1804
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения" ,ТНТ HD
+http://tv.terra-line.net:20015/c/2207
+#EXTINF:-1 tvg-name="THT MUSIC" group-title="Музыка" ,THT MUSIC
+http://tv.terra-line.net:20001/c/1324
+#EXTINF:-1 tvg-name="THT4" group-title="Развлечения" ,THT4
+http://tv.terra-line.net:20004/c/1820
+#EXTINF:-1 tvg-name="TiJi" group-title="Детские" ,TiJi
+http://tv.terra-line.net:20005/c/2121
+#EXTINF:-1 tvg-name="TLC" group-title="Развлечения" ,TLC
+http://tv.terra-line.net:20009/c/815
+#EXTINF:-1 tvg-name="TLC HD" group-title="Развлечения" ,TLC HD
+http://tv.terra-line.net:20007/c/26005
+#EXTINF:-1 tvg-name="Travel Channel" group-title="Развлечения" ,Travel Channel
+http://tv.terra-line.net:20004/c/1813
+#EXTINF:-1 tvg-name="Travel Channel HD" group-title="Развлечения" ,Travel Channel HD
+http://tv.terra-line.net:20007/c/26006
+#EXTINF:-1 tvg-name="Travel+Adventure" group-title="Развлечения" ,Travel+Adventure
+http://tv.terra-line.net:20008/c/713
+#EXTINF:-1 tvg-name="TV 1000" group-title="Кино" ,TV 1000
+http://tv.terra-line.net:20002/c/19102
+#EXTINF:-1 tvg-name="TV 1000 Action" group-title="Кино" ,TV 1000 Action
+http://tv.terra-line.net:20002/c/19103
+#EXTINF:-1 tvg-name="TВ-21М" group-title="Развлечения" ,TВ-21М
+http://tv.terra-line.net:20005/c/2116
+#EXTINF:-1 tvg-name="VH1 Classic" group-title="Музыка" ,VH1 Classic
+http://tv.terra-line.net:20009/c/816
+#EXTINF:-1 tvg-name="VH1 European" group-title="Музыка" ,VH1 European
+http://tv.terra-line.net:20009/c/817
+#EXTINF:-1 tvg-name="Viasat Explore" group-title="Наука" ,Viasat Explore
+http://tv.terra-line.net:20002/c/19105
+#EXTINF:-1 tvg-name="Viasat History" group-title="Наука" ,Viasat History
+http://tv.terra-line.net:20002/c/19106
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Наука" ,Viasat Nature
+http://tv.terra-line.net:20002/c/19107
+#EXTINF:-1 tvg-name="Viasat Nature/History HD" group-title="Наука" ,Viasat Nature/History HD
+http://tv.terra-line.net:20003/c/17105
+#EXTINF:-1 tvg-name="Viasat Sport" group-title="Спорт" ,Viasat Sport
+http://tv.terra-line.net:20002/c/19108
+#EXTINF:-1 tvg-name="Viasat Sport HD" group-title="Спорт" ,Viasat Sport HD
+http://tv.terra-line.net:20003/c/17106
+#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино" ,VIP Comedy
+http://tv.terra-line.net:20003/c/17102
+#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино" ,VIP Megahit
+http://tv.terra-line.net:20003/c/17103
+#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино" ,VIP Premiere
+http://tv.terra-line.net:20003/c/17104
+#EXTINF:-1 tvg-name="World Fashion" group-title="Развлечения" ,World Fashion
+http://tv.terra-line.net:20001/c/1322
+#EXTINF:-1 tvg-name="Авто Плюс" group-title="Развлечения" ,Авто Плюс
+http://tv.terra-line.net:20010/c/102
+#EXTINF:-1 tvg-name="Астрахань 24" group-title="Информационные" ,Астрахань 24
+http://tv.terra-line.net:20004/c/1810
+#EXTINF:-1 tvg-name="БелРос (ТРО)" group-title="Информационные" ,БелРос (ТРО)
+http://tv.terra-line.net:20004/c/1807
+#EXTINF:-1 tvg-name="БОБЁР" group-title="Развлечения" ,БОБЁР
+http://tv.terra-line.net:20009/c/818
+#EXTINF:-1 tvg-name="БОКС ТВ" group-title="Спорт" ,БОКС ТВ
+http://tv.terra-line.net:20012/c/422
+#EXTINF:-1 tvg-name="Брянская Губерния" group-title="Информационные" ,Брянская Губерния
+http://tv.terra-line.net:20008/c/720
+#EXTINF:-1 tvg-name="В гостях у сказки" group-title="Детские" ,В гостях у сказки
+http://tv.terra-line.net:20012/c/425
+#EXTINF:-1 tvg-name="Время: далекое и близкое" group-title="Развлечения" ,Время: далекое и близкое
+http://tv.terra-line.net:20009/c/819
+#EXTINF:-1 tvg-name="Детский" group-title="Детские" ,Детский
+http://tv.terra-line.net:20016/c/1112
+#EXTINF:-1 tvg-name="Диалоги о рыбалке" group-title="Развлечения" ,Диалоги о рыбалке
+http://tv.terra-line.net:20005/c/2105
+#EXTINF:-1 tvg-name="Дикий" group-title="Развлечения" ,Дикий
+http://tv.terra-line.net:20005/c/2128
+#EXTINF:-1 tvg-name="Детский мир/Телеклуб" group-title="Детские" ,Детский мир/Телеклуб
+http://tv.terra-line.net:20008/c/703
+#EXTINF:-1 tvg-name="Доктор" group-title="Наука" ,Доктор
+http://tv.terra-line.net:20001/c/1310
+#EXTINF:-1 tvg-name="Дом Кино" group-title="Кино" ,Дом Кино
+http://tv.terra-line.net:20009/c/820
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" group-title="Кино" ,Дом Кино Премиум HD
+http://tv.terra-line.net:20015/c/2205
+#EXTINF:-1 tvg-name="ДОМАШНИЕ ЖИВОТНЫЕ" group-title="Развлечения" ,ДОМАШНИЕ ЖИВОТНЫЕ
+http://tv.terra-line.net:20002/c/19112
+#EXTINF:-1 tvg-name="Домашний" group-title="Развлечения" ,Домашний
+http://tv.terra-line.net:20016/c/1102
+#EXTINF:-1 tvg-name="ДОН 24" group-title="Информационные" ,ДОН 24
+http://tv.terra-line.net:20008/c/717
+#EXTINF:-1 tvg-name="Дорама" group-title="Кино" ,Дорама
+http://tv.terra-line.net:20012/c/430
+#EXTINF:-1 tvg-name="ЕвроКино" group-title="Кино" ,ЕвроКино
+http://tv.terra-line.net:20005/c/2107
+#EXTINF:-1 tvg-name="Европа Плюс ТВ" group-title="Музыка" ,Европа Плюс ТВ
+http://tv.terra-line.net:20010/c/103
+#EXTINF:-1 tvg-name="ЖАРА" group-title="Музыка" ,ЖАРА
+http://tv.terra-line.net:20010/c/123
+#EXTINF:-1 tvg-name="ЖИВИ!" group-title="Развлечения" ,ЖИВИ!
+http://tv.terra-line.net:20012/c/418
+#EXTINF:-1 tvg-name="Загородная жизнь" group-title="Развлечения" ,Загородная жизнь
+http://tv.terra-line.net:20008/c/715
+#EXTINF:-1 tvg-name="Звезда" group-title="Информационные" ,Звезда
+http://tv.terra-line.net:20001/c/1311
+#EXTINF:-1 tvg-name="Зоопарк" group-title="Развлечения" ,Зоопарк
+http://tv.terra-line.net:20016/c/1113
+#EXTINF:-1 tvg-name="ИНДИЙСКОЕ КИНО" group-title="Кино" ,ИНДИЙСКОЕ КИНО
+http://tv.terra-line.net:20010/c/104
+#EXTINF:-1 tvg-name="Иллюзион+" group-title="Кино" ,Иллюзион+
+http://tv.terra-line.net:20008/c/721
+#EXTINF:-1 tvg-name="Известия" group-title="Информационные" ,Известия
+http://tv.terra-line.net:20005/c/2129
+#EXTINF:-1 tvg-name="История" group-title="Наука" ,История
+http://tv.terra-line.net:20008/c/725
+#EXTINF:-1 tvg-name="Канал Disney" group-title="Детские" ,Канал Disney
+http://tv.terra-line.net:20001/c/1312
+#EXTINF:-1 tvg-name="Карусель" group-title="Детские" ,Карусель
+http://tv.terra-line.net:20009/c/822
+#EXTINF:-1 tvg-name="КВН ТВ" group-title="Развлечения" ,КВН ТВ
+http://tv.terra-line.net:20010/c/124
+#EXTINF:-1 tvg-name="КИНО ТВ" group-title="Кино" ,КИНО ТВ
+http://tv.terra-line.net:20016/c/1114
+#EXTINF:-1 tvg-name="КИНОКОМЕДИЯ" group-title="Кино" ,КИНОКОМЕДИЯ
+http://tv.terra-line.net:20010/c/108
+#EXTINF:-1 tvg-name="КИНОМИКС" group-title="Кино" ,КИНОМИКС
+http://tv.terra-line.net:20010/c/105
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" group-title="Кино" ,КИНОПРЕМЬЕРА HD
+http://tv.terra-line.net:20011/c/12101
+#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ" group-title="Кино" ,КИНОСВИДАНИЕ
+http://tv.terra-line.net:20010/c/106
+#EXTINF:-1 tvg-name="КИНОСЕМЬЯ" group-title="Кино" ,КИНОСЕМЬЯ
+http://tv.terra-line.net:20010/c/119
+#EXTINF:-1 tvg-name="КИНОСЕРИЯ" group-title="Кино" ,КИНОСЕРИЯ
+http://tv.terra-line.net:20010/c/113
+#EXTINF:-1 tvg-name="КИНОХИТ" group-title="Кино" ,КИНОХИТ
+http://tv.terra-line.net:20010/c/107
+#EXTINF:-1 tvg-name="Комедия" group-title="Кино" ,Комедия
+http://tv.terra-line.net:20016/c/1115
+#EXTINF:-1 tvg-name="КОННЫЙ МИР HD" group-title="Развлечения" ,КОННЫЙ МИР HD
+http://tv.terra-line.net:20015/c/2203
+#EXTINF:-1 tvg-name="Кто есть кто" group-title="Наука" ,Кто есть кто
+http://tv.terra-line.net:20010/c/109
+#EXTINF:-1 tvg-name="Кухня ТВ" group-title="Развлечения" ,Кухня ТВ
+http://tv.terra-line.net:20010/c/110
+#EXTINF:-1 tvg-name="Любимое Кино" group-title="Кино" ,Любимое Кино
+http://tv.terra-line.net:20008/c/722
+#EXTINF:-1 tvg-name="Ля-минор ТВ" group-title="Музыка" ,Ля-минор ТВ
+http://tv.terra-line.net:20010/c/111
+#EXTINF:-1 tvg-name="Мама" group-title="Развлечения" ,Мама
+http://tv.terra-line.net:20002/c/19120
+#EXTINF:-1 tvg-name="Малыш ТВ" group-title="Детские" ,Малыш ТВ
+http://tv.terra-line.net:20005/c/2125
+#EXTINF:-1 tvg-name="МАТЧ!" group-title="Спорт" ,МАТЧ!
+http://tv.terra-line.net:20014/c/1002
+#EXTINF:-1 tvg-name="МАТЧ! HD" group-title="Спорт" ,МАТЧ! HD
+http://tv.terra-line.net:20015/c/2204
+#EXTINF:-1 tvg-name="МАТЧ! АРЕНА" group-title="Спорт" ,МАТЧ! АРЕНА
+http://tv.terra-line.net:20001/c/1301
+#EXTINF:-1 tvg-name="МАТЧ! АРЕНА HD" group-title="Спорт" ,МАТЧ! АРЕНА HD
+http://tv.terra-line.net:20011/c/12104
+#EXTINF:-1 tvg-name="МАТЧ! БОЕЦ" group-title="Спорт" ,МАТЧ! БОЕЦ
+http://tv.terra-line.net:20001/c/1302
+#EXTINF:-1 tvg-name="МАТЧ! ИГРА" group-title="Спорт" ,МАТЧ! ИГРА
+http://tv.terra-line.net:20001/c/1303
+#EXTINF:-1 tvg-name="МАТЧ! ИГРА HD" group-title="Спорт" ,МАТЧ! ИГРА HD
+http://tv.terra-line.net:20011/c/12102
+#EXTINF:-1 tvg-name="МАТЧ! НАШ СПОРТ" group-title="Спорт" ,МАТЧ! НАШ СПОРТ
+http://tv.terra-line.net:20001/c/1304
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 1" group-title="Спорт" ,МАТЧ! ФУТБОЛ 1
+http://tv.terra-line.net:20001/c/1305
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 1 HD" group-title="Спорт" ,МАТЧ! ФУТБОЛ 1 HD
+http://tv.terra-line.net:20013/c/14105
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 2" group-title="Спорт" ,МАТЧ! ФУТБОЛ 2
+http://tv.terra-line.net:20001/c/1306
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 2 HD" group-title="Спорт" ,МАТЧ! ФУТБОЛ 2 HD
+http://tv.terra-line.net:20013/c/1401
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 3" group-title="Спорт" ,МАТЧ! ФУТБОЛ 3
+http://tv.terra-line.net:20001/c/1307
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 3 HD" group-title="Спорт" ,МАТЧ! ФУТБОЛ 3 HD
+http://tv.terra-line.net:20013/c/1402
+#EXTINF:-1 tvg-name="МИР" group-title="Развлечения" ,МИР
+http://tv.terra-line.net:20014/c/1010
+#EXTINF:-1 tvg-name="МИР 24" group-title="Информационные" ,МИР 24
+http://tv.terra-line.net:20004/c/1823
+#EXTINF:-1 tvg-name="МИР HD" group-title="Развлечения" ,МИР HD
+http://tv.terra-line.net:20013/c/1407
+#EXTINF:-1 tvg-name="Мир сериала" group-title="Кино" ,Мир сериала
+http://tv.terra-line.net:20008/c/719
+#EXTINF:-1 tvg-name="Морской" group-title="Наука" ,Морской
+http://tv.terra-line.net:20012/c/414
+#EXTINF:-1 tvg-name="Москва 24" group-title="Информационные" ,Москва 24
+http://tv.terra-line.net:20004/c/1827
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="Развлечения" ,Москва Доверие
+http://tv.terra-line.net:20012/c/417
+#EXTINF:-1 tvg-name="Моя Планета" group-title="Наука" ,Моя Планета
+http://tv.terra-line.net:20008/c/726
+#EXTINF:-1 tvg-name="МУЖСКОЕ КИНО" group-title="Кино" ,МУЖСКОЕ КИНО
+http://tv.terra-line.net:20010/c/114
+#EXTINF:-1 tvg-name="МУЗ" group-title="Музыка" ,МУЗ
+http://tv.terra-line.net:20001/c/1313
+#EXTINF:-1 tvg-name="Музыка Первого" group-title="Музыка" ,Музыка Первого
+http://tv.terra-line.net:20009/c/823
+#EXTINF:-1 tvg-name="Мульт" group-title="Детские" ,Мульт
+http://tv.terra-line.net:20012/c/407
+#EXTINF:-1 tvg-name="Мультимания" group-title="Детские" ,Мультимания
+http://tv.terra-line.net:20012/c/428
+#EXTINF:-1 tvg-name="Мультимузыка" group-title="Детские" ,Мультимузыка
+http://tv.terra-line.net:20012/c/420
+#EXTINF:-1 tvg-name="Наука 2.0" group-title="Наука" ,Наука 2.0
+http://tv.terra-line.net:20008/c/727
+#EXTINF:-1 tvg-name="НАШ ФУТБОЛ" group-title="Спорт" ,НАШ ФУТБОЛ
+http://tv.terra-line.net:20001/c/1314
+#EXTINF:-1 tvg-name="НАШ ФУТБОЛ HD" group-title="Спорт" ,НАШ ФУТБОЛ HD
+http://tv.terra-line.net:20013/c/1403
+#EXTINF:-1 tvg-name="НАШЕ НОВОЕ КИНО" group-title="Кино" ,НАШЕ НОВОЕ КИНО
+http://tv.terra-line.net:20010/c/116
+#EXTINF:-1 tvg-name="НАШЕ ТВ" group-title="Музыка" ,НАШЕ ТВ
+http://tv.terra-line.net:20004/c/1828
+#EXTINF:-1 tvg-name="Ностальгия" group-title="Развлечения" ,Ностальгия
+http://tv.terra-line.net:20010/c/117
+#EXTINF:-1 tvg-name="НСТ" group-title="Кино" ,НСТ
+http://tv.terra-line.net:20009/c/804
+#EXTINF:-1 tvg-name="НТВ" group-title="Развлечения" ,НТВ
+http://tv.terra-line.net:20001/c/1315
+#EXTINF:-1 tvg-name="НТВ" group-title="Развлечения" ,НТВ HD
+http://tv.terra-line.net:20015/c/2201
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Развлечения" ,НТВ Право
+http://tv.terra-line.net:20012/c/406
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Кино" ,НТВ Сериал
+http://tv.terra-line.net:20012/c/408
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Развлечения" ,НТВ Стиль
+http://tv.terra-line.net:20012/c/415
+#EXTINF:-1 tvg-name="НТВ-ХИТ" group-title="Кино" ,НТВ-ХИТ
+http://tv.terra-line.net:20012/c/412
+#EXTINF:-1 tvg-name="ОТР" group-title="Информационные" ,ОТР
+http://tv.terra-line.net:20001/c/1308
+#EXTINF:-1 tvg-name="Первый Вегетарианский" group-title="Развлечения" ,Первый Вегетарианский
+http://tv.terra-line.net:20002/c/19128
+#EXTINF:-1 tvg-name="Первый канал" group-title="Информационные" ,Первый канал
+http://tv.terra-line.net:20016/c/1101
+#EXTINF:-1 tvg-name="Первый канал" group-title="Информационные" ,Первый канал HD
+http://tv.terra-line.net:20013/c/1408
+#EXTINF:-1 tvg-name="МЕТЕО ТВ" group-title="Информационные" ,МЕТЕО ТВ
+http://tv.terra-line.net:20004/c/1824
+#EXTINF:-1 tvg-name="Первый образовательный" group-title="Наука" ,Первый образовательный
+http://tv.terra-line.net:20002/c/19111
+#EXTINF:-1 tvg-name="Продвижение" group-title="Кино" ,Продвижение
+http://tv.terra-line.net:20008/c/714
+#EXTINF:-1 tvg-name="ПРОСВЕЩЕНИЕ" group-title="Наука" ,ПРОСВЕЩЕНИЕ
+http://tv.terra-line.net:20004/c/1829
+#EXTINF:-1 tvg-name="ПЯТНИЦА" group-title="Развлечения" ,ПЯТНИЦА
+http://tv.terra-line.net:20014/c/1009
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Информационные" ,Пятый канал
+http://tv.terra-line.net:20014/c/1003
+#EXTINF:-1 tvg-name="Радость моя" group-title="Детские" ,Радость моя
+http://tv.terra-line.net:20008/c/716
+#EXTINF:-1 tvg-name="РБК-ТВ" group-title="Информационные" ,РБК-ТВ
+http://tv.terra-line.net:20001/c/1317
+#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Развлечения" ,РЕН ТВ
+http://tv.terra-line.net:20014/c/1004
+#EXTINF:-1 tvg-name="РОДНОЕ КИНО" group-title="Кино" ,РОДНОЕ КИНО
+http://tv.terra-line.net:20010/c/115
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Информационные" ,Россия 1 HD
+http://tv.terra-line.net:20015/c/2208
+#EXTINF:-1 tvg-name="Россия 24" group-title="Информационные" ,Россия 24
+http://tv.terra-line.net:20014/c/1006
+#EXTINF:-1 tvg-name="Россия К" group-title="Информационные" ,Россия К
+http://tv.terra-line.net:20014/c/1005
+#EXTINF:-1 tvg-name="Русский бестселлер" group-title="Кино" ,Русский бестселлер
+http://tv.terra-line.net:20012/c/421
+#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Кино" ,Русский Иллюзион
+http://tv.terra-line.net:20005/c/2111
+#EXTINF:-1 tvg-name="Русский роман" group-title="Кино" ,Русский роман
+http://tv.terra-line.net:20012/c/424
+#EXTINF:-1 tvg-name="Санкт-Петербург" group-title="Информационные" ,Санкт-Петербург
+http://tv.terra-line.net:20004/c/1825
+#EXTINF:-1 tvg-name="Сарафан" group-title="Развлечения" ,Сарафан
+http://tv.terra-line.net:20012/c/419
+#EXTINF:-1 tvg-name="Совершенно секретно" group-title="Развлечения" ,Совершенно секретно
+http://tv.terra-line.net:20004/c/1830
+#EXTINF:-1 tvg-name="СПАС" group-title="Развлечения" ,СПАС
+http://tv.terra-line.net:20014/c/1007
+#EXTINF:-1 tvg-name="Страна" group-title="Наука" ,Страна
+http://tv.terra-line.net:20012/c/420
+#EXTINF:-1 tvg-name="СТС" group-title="Развлечения" ,СТС
+http://tv.terra-line.net:20016/c/1105
+#EXTINF:-1 tvg-name="Супер" group-title="Развлечения" ,Супер
+http://tv.terra-line.net:20001/c/1321
+#EXTINF:-1 tvg-name="ТВ-3" group-title="Развлечения" ,ТВ-3
+http://tv.terra-line.net:20014/c/1008
+#EXTINF:-1 tvg-name="ТВОЙ ДОМ" group-title="Развлечения" ,ТВОЙ ДОМ
+http://tv.terra-line.net:20014/c/1015
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Развлечения" ,ТВЦ
+http://tv.terra-line.net:20005/c/2113
+#EXTINF:-1 tvg-name="ТДК" group-title="Развлечения" ,ТДК
+http://tv.terra-line.net:20016/c/1107
+#EXTINF:-1 tvg-name="Телеканал 360" group-title="Развлечения" ,Телеканал 360
+http://tv.terra-line.net:20001/c/1316
+#EXTINF:-1 tvg-name="Телеканал Да Винчи" group-title="Наука" ,Телеканал Да Винчи
+http://tv.terra-line.net:20002/c/19101
+#EXTINF:-1 tvg-name="Телеканал КХЛ" group-title="Спорт" ,Телеканал КХЛ
+http://tv.terra-line.net:20001/c/1318
+#EXTINF:-1 tvg-name="Телеканал КХЛ HD" group-title="Спорт" ,Телеканал КХЛ HD
+http://tv.terra-line.net:20011/c/12106
+#EXTINF:-1 tvg-name="ТЕЛЕКАФЕ" group-title="Развлечения" ,ТЕЛЕКАФЕ
+http://tv.terra-line.net:20009/c/824
+#EXTINF:-1 tvg-name="Тлум HD" group-title="Детские" ,Тлум HD
+http://tv.terra-line.net:20011/c/12107
+#EXTINF:-1 tvg-name="ТНВ-Планета" group-title="Развлечения" ,ТНВ-Планета
+http://tv.terra-line.net:20016/c/1108
+#EXTINF:-1 tvg-name="Точка отрыва" group-title="Спорт" ,Точка отрыва
+http://tv.terra-line.net:20002/c/19110
+#EXTINF:-1 tvg-name="Усадьба-ТВ" group-title="Развлечения" ,Усадьба-ТВ
+http://tv.terra-line.net:20002/c/19113
+#EXTINF:-1 tvg-name="Че" group-title="Развлечения" ,Че
+http://tv.terra-line.net:20016/c/1109
+#EXTINF:-1 tvg-name="Шансон-ТВ" group-title="Музыка" ,Шансон-ТВ
+http://tv.terra-line.net:20008/c/724
+#EXTINF:-1 tvg-name="Ювелирочка" group-title="Развлечения" ,Ювелирочка
+http://tv.terra-line.net:20004/c/1817
+#EXTINF:-1 tvg-name="Ю-ТВ" group-title="Развлечения" ,Ю-ТВ
+http://tv.terra-line.net:20001/c/1320
+#EXTINF:-1 tvg-name="Fashion One (4K)" group-title="Развлечения" ,Fashion One (4K)
+http://tv.terra-line.net:20017/c/201
+#EXTINF:-1 tvg-name="HOME 4K (TECT)" group-title="Развлечения" ,HOME 4K (TECT)
+http://tv.terra-line.net:20017/c/202
+#EXTINF:-1 tvg-name="Festival 4K" group-title="Развлечения" ,Festival 4K
+http://tv.terra-line.net:20017/c/203
+#EXTINF:-1 tvg-name="Юмор FM" group-title="Радио" ,Юмор FM
+http://tv.terra-line.net:20002/c/1941
+#EXTINF:-1 tvg-name="Радио Для Двоих" group-title="Радио" ,Радио Для Двоих
+http://tv.terra-line.net:20002/c/1942
+#EXTINF:-1 tvg-name="Романтика" group-title="Радио" ,Романтика
+http://tv.terra-line.net:20002/c/1943
+#EXTINF:-1 tvg-name="Авторадио" group-title="Радио" ,Авторадио
+http://tv.terra-line.net:20002/c/1944
+#EXTINF:-1 tvg-name="Радио Ваня" group-title="Радио" ,Радио Ваня
+http://tv.terra-line.net:20002/c/1945
+#EXTINF:-1 tvg-name="ENERGY FM" group-title="Радио" ,ENERGY FM
+http://tv.terra-line.net:20002/c/1946
+#EXTINF:-1 tvg-name="DFM" group-title="Радио" ,DFM
+http://tv.terra-line.net:20002/c/1947
+#EXTINF:-1 tvg-name="Русское радио" group-title="Радио" ,Русское радио
+http://tv.terra-line.net:20002/c/1948
+#EXTINF:-1 tvg-name="HIT FM" group-title="Радио" ,HIT FM
+http://tv.terra-line.net:20002/c/1949
+#EXTINF:-1 tvg-name="Maximum" group-title="Радио" ,Maximum
+http://tv.terra-line.net:20002/c/1950
+#EXTINF:-1 tvg-name="Business FM" group-title="Радио" ,Business FM
+http://tv.terra-line.net:20002/c/1951
+#EXTINF:-1 tvg-name="Милицейская волна" group-title="Радио" ,Милицейская волна
+http://tv.terra-line.net:20002/c/1952
+#EXTINF:-1 tvg-name="Comedy Radio" group-title="Радио" ,Comedy Radio
+http://tv.terra-line.net:20002/c/1953
+#EXTINF:-1 tvg-name="Комсомольская правда" group-title="Радио" ,Комсомольская правда
+http://tv.terra-line.net:20002/c/1954
+#EXTINF:-1 tvg-name="Relax FM" group-title="Радио" ,Relax FM
+http://tv.terra-line.net:20002/c/1955
+#EXTINF:-1 tvg-name="Радио МИР" group-title="Радио" ,Радио МИР
+http://tv.terra-line.net:20002/c/1957
+#EXTINF:-1 tvg-name="Love Radio" group-title="Радио" ,Love Radio
+http://tv.terra-line.net:20002/c/1958
+#EXTINF:-1 tvg-name="Радио Шансон" group-title="Радио" ,Радио Шансон
+http://tv.terra-line.net:20002/c/1959
+#EXTINF:-1 tvg-name="Детское радио" group-title="Радио" ,Детское радио
+http://tv.terra-line.net:20002/c/1960
+#EXTINF:-1 tvg-name="Вести ФМ" group-title="Радио" ,Вести ФМ
+http://tv.terra-line.net:20008/c/741
+#EXTINF:-1 tvg-name="Маяк" group-title="Радио" ,Маяк
+http://tv.terra-line.net:20008/c/742
+#EXTINF:-1 tvg-name="Радио России" group-title="Радио" ,Радио России
+http://tv.terra-line.net:20008/c/743
+
