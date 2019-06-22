@@ -1,0 +1,12 @@
+﻿#EXTM3U
+
+#EXTINF:-1,Чернобыль-1 серия.
+https://media8.viho.tv/one/v10/video-file1/00/00/00/00/00/00/00/16/68/52/166852-1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1,Чернобыль-2 серия.
+https://media8.viho.tv/one/v4/video-file1/00/00/00/00/00/00/00/17/37/97/173797-1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1,Чернобыль-3 серия.
+https://media8.viho.tv/three/v4/video-file1/00/00/00/00/00/00/00/17/47/36/174736-1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1,Чернобыль-4 серия.
+https://media8.viho.tv/three/v4/video-file1/00/00/00/00/00/00/00/17/54/83/175483-1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1,Чернобыль-5 серия.
+https://media8.viho.tv/four/v4/video-file1/00/00/00/00/00/00/00/17/62/17/176217-1080p.mp4/index-v1-a1.m3u8
