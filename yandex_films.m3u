@@ -1,143 +1,153 @@
-﻿#EXTM3U
-#EXTINF:5301290 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",13 грехов [FHD]
+#EXTM3U
+#EXTINF:5301290 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",13 грехов [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327276864-4d0398e9b5009e26b1ce99fae979b11d/master.m3u8
-#EXTINF:5141332 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",SuperАлиби [FHD]
+#EXTINF:5141332 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",SuperАлиби [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327642506-4ce638ac9433f5bc831f3044210efa17/master.m3u8
-#EXTINF:4663615 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Анонимные романтики [FHD]
+#EXTINF:4663615 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Анонимные романтики [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/415717069-4879e23e649828f5a62f3ad09d5bab8e/master.m3u8
-#EXTINF:5249578 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Без тормозов [FHD]
+#EXTINF:5249578 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Без тормозов [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327534848-421ab970a8bb5add91aa343852f0e41d/master.m3u8
-#EXTINF:4694847 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Блокбастер [FHD]
+#EXTINF:4694847 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Блокбастер [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327508795-4c85f5b7cb0d5ea6a4ea4a003e22155f/master.m3u8
-#EXTINF:5132799 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Большая свадьба [FHD]
+#EXTINF:5132799 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Большая свадьба [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326780378-4d20b660b302e3b7a797cba635fa40c1/master.m3u8
-#EXTINF:5901055 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Бриллиантовая рука [FHD]
+#EXTINF:5901055 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Бриллиантовая рука [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/373230584-4fd4720e46d437b28d753e86808c8fb6/master.m3u8
-#EXTINF:5142036 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Видели ночь [FHD]
+#EXTINF:5142036 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Видели ночь [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326375734-4d9ed5784a453ed3b27c8dd7dcc10994/master.m3u8
-#EXTINF:5408404 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Врата тьмы [FHD]
+#EXTINF:5408404 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Врата тьмы [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326497302-48c5dde03201d126a069042cf5c63452/master.m3u8
-#EXTINF:8088261 tvg-logo="https://ekzot.ucoz.net/ch_icons/v/vremja_pervykh.png",Время первых
+#EXTINF:8088261 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/v/vremja_pervykh.png",Время первых
 https://strm.yandex.ru/vh-ott-converted/vod-content/144086.m3u8
-#EXTINF:5222612 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Время псов [FHD]
+#EXTINF:5222612 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Время псов [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326555929-41be3a84e39e7e2b92d8325b5b6d9db1/master.m3u8
-#EXTINF:5355242 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Все только начинается [FHD]
+#EXTINF:5355242 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Все только начинается [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327721074-4f7fc38b79163de1a48f1e89e7676228/master.m3u8
-#EXTINF:4985066 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Выжившие [FHD]
+#EXTINF:4985066 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Выжившие [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/328506442-4d83eb29231e4ec0ab148887022fad23/master.m3u8
-#EXTINF:5041620 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Выходные! [FHD]
+#EXTINF:5041620 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Выходные! [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326106610-447ee14de1c2ba84a3c3b810768f4d5c/master.m3u8
-#EXTINF:5987007 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Гений [FHD]
+#EXTINF:5987007 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Гений [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/313993127-47e0b58829ded769b465f8e891f3de58/master.m3u8
-#EXTINF:4789760 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Даун Хаус
+#EXTINF:4789760 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Даун Хаус
 https://strm.yandex.ru/vh-ott-converted/ott-content/325944325-421bbe4e5ef76778a772632202c4f714/master.m3u8
-#EXTINF:4965525 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Демон внутри [FHD]
+#EXTINF:4965525 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Демон внутри [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327642511-4459e5d7a4cb3c4fba196cca9c92ee5d/master.m3u8
-#EXTINF:5203604 tvg-logo="https://ekzot.ucoz.net/ch_icons/d/dzhentelmeny_udachi.png",Джентельмены удачи [FHD]
+#EXTINF:5203604 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/d/dzhentelmeny_udachi.png",Джентельмены удачи [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/373254276-4e674f4389d244b185ee6c8f13794bc2/master.m3u8
-#EXTINF:5655807 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Если б я была мужчиной [FHD]
+#EXTINF:5655807 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Если б я была мужчиной [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327735351-46b5475950ab89c4bc73407b3be18ffe/master.m3u8
-#EXTINF:5197802 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Жмот [FHD]
+#EXTINF:5197802 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Жмот [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327729037-4ac4d111e792a05f865f645aa20a24c6/master.m3u8
-#EXTINF:6780778 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",За сигаретами [FHD]
+#EXTINF:6780778 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",За сигаретами [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327627870-4db7cf64bcacee858cc4ac39eb4178d3/master.m3u8
-#EXTINF:5180607 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Законы привлекательности [FHD]
+#EXTINF:5180607 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Законы привлекательности [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326986266-4b3a2afb6402ab709d2b78608964873d/master.m3u8
-#EXTINF:5042218 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Зануда [FHD]
+#EXTINF:5042218 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Зануда [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/328176632-40a3b004694fd2289162fa6d1013e1de/master.m3u8
-#EXTINF:5499156 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Иван Васильевич меняет профессию [FHD]
+#EXTINF:5499156 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Иван Васильевич меняет профессию [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/328177400-490bbf023060c574abeccac74e8ae98b/master.m3u8
-#EXTINF:6095039 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Из Неаполя с любовью [FHD]
+#EXTINF:6095039 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Из Неаполя с любовью [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/346087870-4e606eff1ef2fb438db648832aa9a8d8/master.m3u8
-#EXTINF:7433321 tvg-logo="https://ekzot.ucoz.net/ch_icons/i/illjuzija_obmana_2.png",Иллюзия обмана 2 [FHD]
+#EXTINF:7433321 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/i/illjuzija_obmana_2.png",Иллюзия обмана 2 [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326129799-496608b0bd91bde3936d5535a57dfa6e/master.m3u8
-#EXTINF:5509567 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Имущество с хвостом [FHD]
+#EXTINF:5509567 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Имущество с хвостом [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326523200-4a23fcc9dc45c853af9c51ba0135ef3c/master.m3u8
-#EXTINF:5583530 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Команда мечты [FHD]
+#EXTINF:5583530 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Команда мечты [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326505373-458c6ade5ed433148cae4b2a9007923d/master.m3u8
-#EXTINF:5063658 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Краденое свидание [FHD]
+#EXTINF:5063658 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Краденое свидание [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/318957160-47303f1afd4ac29787df6d1b9584f9de/master.m3u8
-#EXTINF:6547050 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Красные огни [FHD]
+#EXTINF:6547050 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Красные огни [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/326851930-488f6941907c7804a35f75d60c94c260/master.m3u8
-#EXTINF:5457620 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Кто эти люди?
+#EXTINF:5457620 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Кто эти люди?
 https://strm.yandex.ru/vh-ott-converted/ott-content/370413483-40fb4ca072dec05791be8fb16f47e189/master.m3u8
-#EXTINF:4838485 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Любовь вразнос [FHD]
+#EXTINF:4838485 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Любовь вразнос [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327046339-44da4a5761ec912d857baece8c9f13df/master.m3u8
-#EXTINF:6215082 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Любовь от всех болезней [FHD]
+#EXTINF:6215082 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Любовь от всех болезней [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327670565-43060b2da00e87b195924bfbb8b6da28/master.m3u8
-#EXTINF:5330004 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Миссия: Неадекватна [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/318956869-4796b4cd94bd9e4f8ecd0b258d1acc00/master.m3u8
-#EXTINF:5785002 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Мистер Штайн идёт в онлайн [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327409836-4d76e8a211b86017991ded758b2f90f7/master.m3u8
-#EXTINF:7130004 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Молодость [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327858912-4fe56b76ee4481bfa6e0bd93059559dd/master.m3u8
-#EXTINF:5269247 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Молодость по страховке [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327835235-47e4e3af5e60ceb085a0736004a004c9/master.m3u8
-#EXTINF:5127124 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Моя бывшая подружка [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327859305-493e3b0a5b0878609fd93ddf676e176f/master.m3u8
-#EXTINF:5499327 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Не может быть! [HD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327895452-475395012afb8e6f94abf091fb3393ed/master.m3u8
-#EXTINF:5887520 tvg-logo="https://ekzot.ucoz.net/ch_icons/n/neverojatnye_prikljuchenija_italjancev_v_rossii.png",Невероятные приключения итальянцев в России [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327890237-4f91e56ec31a348d94502baca65082d3/master.m3u8
-#EXTINF:6782292 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Несносные леди [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/326837390-400960890a57aa748b547f82cbee157e/master.m3u8
-#EXTINF:5952895 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Неудержимые [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/326436303-4de75b6c6cba4df2ac71877ecef07425/master.m3u8
-#EXTINF:6279935 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Области тьмы [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/326778180-4279c3b744c498bbb5beedf09a8debcf/master.m3u8
-#EXTINF:5620074 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Один потрясающий день [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327788529-446ede715f6a9732b82d822e048a2f17/master.m3u8
-#EXTINF:4500565 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Однажды в лесу [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/326412648-4e3898dcd293cab39824c0a34ebfbe94/master.m3u8
-#EXTINF:5673625 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Операция «Ы» и другие приключения Шурика [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327897357-4212be238fbf9f488dad28df6ddd60a9/master.m3u8
-#EXTINF:6391956 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",От семьи не убежишь [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/328180048-4f6d0217dc87a79eb5370f43d6c753b7/master.m3u8
-#EXTINF:6105002 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/otkrovenija_piramid.png",Откровения Пирамид
-https://strm.yandex.ru/vh-ott-converted/ott-content/328176004-4333922e5d46892eb21b444472858fcb/master.m3u8
-#EXTINF:6244223 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Ошибка времени [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/313987483-417de5343a8781ca9d2091d3fd363511/master.m3u8
-#EXTINF:6086292 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Папаши без вредных привычек [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327251859-44136234170804889c519fc053c5f0ca/master.m3u8
-#EXTINF:5364756 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Париж любой ценой [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327653439-45f3572bbf782597b1e2fa08500fe459/master.m3u8
-#EXTINF:7223359 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",План побега [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/326129360-47de4cb97c76fee4b477aea0fbef87ef/master.m3u8
-#EXTINF:5733396 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Повар для президента [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/361995661-44efb6256eebbdf8a4951187bbd7a05a/master.m3u8
-#EXTINF:5198015 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Почти замужем [FHD]
-https://strm.yandex.ru/vh-ott-converted/ott-content/327598149-4bb56dab71156c94bd232d20ae3db4a4/master.m3u8
-#EXTINF:472299 tvg-name="Прокачу! [FHD]" tvg-logo="https://ekzot.ucoz.net/ch_icons/m/masha_i_medved.png",Прокачу! [FHD]
+#EXTINF:396459 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/m/masha_i_medved.png",Маша и Медведь (Сезон 1 - Серия 1 - Первая встреча) [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/322045853-4169768a99749e32ba7680652e0ff6cf/master.m3u8
+#EXTINF:440085 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/m/masha_i_medved.png",Маша и Медведь (Сезон 3 - Серия 26 - Кем быть?) [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/421014772-4ee779c4d65afae2a6ce823fffb94d03/master.m3u8
+#EXTINF:472299 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/m/masha_i_medved.png",Маша и Медведь (Сезон 3 - Серия 3 - Эх, Прокачу!) [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/373122976-4c939d71d5e738c581bd1850f537229f/master.m3u8
-#EXTINF:7459400 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Пропавшая экспедиция
+#EXTINF:5572083 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Между нами, девочками [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/369046299-47d6d00425f083999bd7539e88fa9702/master.m3u8
+#EXTINF:5330004 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Миссия: Неадекватна [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/318956869-4796b4cd94bd9e4f8ecd0b258d1acc00/master.m3u8
+#EXTINF:5785002 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Мистер Штайн идёт в онлайн [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327409836-4d76e8a211b86017991ded758b2f90f7/master.m3u8
+#EXTINF:7130004 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Молодость [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327858912-4fe56b76ee4481bfa6e0bd93059559dd/master.m3u8
+#EXTINF:5269247 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Молодость по страховке [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327835235-47e4e3af5e60ceb085a0736004a004c9/master.m3u8
+#EXTINF:5127124 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Моя бывшая подружка [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327859305-493e3b0a5b0878609fd93ddf676e176f/master.m3u8
+#EXTINF:5499327 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Не может быть! [HD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327895452-475395012afb8e6f94abf091fb3393ed/master.m3u8
+#EXTINF:5887520 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/n/neverojatnye_prikljuchenija_italjancev_v_rossii.png",Невероятные приключения итальянцев в России [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327890237-4f91e56ec31a348d94502baca65082d3/master.m3u8
+#EXTINF:6782292 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Несносные леди [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/326837390-400960890a57aa748b547f82cbee157e/master.m3u8
+#EXTINF:5952895 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Неудержимые [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/326436303-4de75b6c6cba4df2ac71877ecef07425/master.m3u8
+#EXTINF:6279935 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Области тьмы [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/326778180-4279c3b744c498bbb5beedf09a8debcf/master.m3u8
+#EXTINF:5620074 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Один потрясающий день [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327788529-446ede715f6a9732b82d822e048a2f17/master.m3u8
+#EXTINF:4500565 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Однажды в лесу [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/326412648-4e3898dcd293cab39824c0a34ebfbe94/master.m3u8
+#EXTINF:5673625 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Операция «Ы» и другие приключения Шурика [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327897357-4212be238fbf9f488dad28df6ddd60a9/master.m3u8
+#EXTINF:6391956 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",От семьи не убежишь [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/328180048-4f6d0217dc87a79eb5370f43d6c753b7/master.m3u8
+#EXTINF:6105002 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/otkrovenija_piramid.png",Откровения Пирамид
+https://strm.yandex.ru/vh-ott-converted/ott-content/328176004-4333922e5d46892eb21b444472858fcb/master.m3u8
+#EXTINF:6244223 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Ошибка времени [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/313987483-417de5343a8781ca9d2091d3fd363511/master.m3u8
+#EXTINF:6086292 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Папаши без вредных привычек [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327251859-44136234170804889c519fc053c5f0ca/master.m3u8
+#EXTINF:5364756 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Париж любой ценой [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327653439-45f3572bbf782597b1e2fa08500fe459/master.m3u8
+#EXTINF:7223359 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",План побега [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/326129360-47de4cb97c76fee4b477aea0fbef87ef/master.m3u8
+#EXTINF:5733396 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Повар для президента [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/361995661-44efb6256eebbdf8a4951187bbd7a05a/master.m3u8
+#EXTINF:5198015 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Почти замужем [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327598149-4bb56dab71156c94bd232d20ae3db4a4/master.m3u8
+#EXTINF:7459400 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Пропавшая экспедиция
 https://strm.yandex.ru/vh-ott-converted/ott-content/328183353-46075e0f6f167db49932a331e01ffd1e/master.m3u8
-#EXTINF:5994218 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Реальные упыри [FHD]
+#EXTINF:5994218 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Реальные упыри [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/328195877-4c84dacb60bfb4f2b0ca0cbe9b985a29/master.m3u8
-#EXTINF:6354055 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Роковая красотка [FHD]
+#EXTINF:4920040 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Реальные упыри [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/327615674-44ad5b9f58dd850ba90e7583e03655ea/master.m3u8
+#EXTINF:6354055 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Роковая красотка [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/328198571-4d785ebe0109fe81b5e55539af58a6ab/master.m3u8
-#EXTINF:5238207 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",С вещами на вылет! [FHD]
+#EXTINF:5238207 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",С вещами на вылет! [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/315174334-44791f9a6d391105887325d9a0c4254a/master.m3u8
-#EXTINF:6999167 tvg-logo="https://ekzot.ucoz.net/ch_icons/s/samyj_opasnyj_chelovek.png",Самый опасный человек [FHD]
+#EXTINF:6999167 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/s/samyj_opasnyj_chelovek.png",Самый опасный человек [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327669173-4301e59387ad288bbfd6c5df94c2fdda/master.m3u8
-#EXTINF:5438932 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Семейное ограбление [FHD]
+#EXTINF:5438932 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Семейное ограбление [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327637768-47ccb1a3a6c46990bd6a5d3355fdb1e8/master.m3u8
-#EXTINF:5131960 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Синяя бездна [FHD]
+#EXTINF:5131960 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Синяя бездна [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327642501-45e1e4c93a22dcf29090214d60cf950d/master.m3u8
-#EXTINF:7041535 tvg-logo="https://ekzot.ucoz.net/ch_icons/s/skripach_djavola.png",Скрипач Дьявола [FHD]
+#EXTINF:7041535 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/s/skripach_djavola.png",Скрипач Дьявола [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/328724617-4c6cf3d6e87b13f0a8e002ecf40df68b/master.m3u8
-#EXTINF:6009578 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Случайный роман [FHD]
+#EXTINF:6009578 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Случайный роман [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327790871-43e3fe2827e03fda9f22d4fbde957ef5/master.m3u8
-#EXTINF:6174890 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Список контактов [FHD]
+#EXTINF:6174890 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Список контактов [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/373668760-41e310094e04eaa697818ef2a4898e4f/master.m3u8
-#EXTINF:5601023 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Тур де Шанс [FHD]
+#EXTINF:5548927 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Трое в лифте, не считая собаки [FHD]
+https://strm.yandex.ru/vh-ott-converted/ott-content/328724847-4ac9e68c5ac8b9f68fd1149925db988f/master.m3u8
+#EXTINF:5601023 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Тур де Шанс [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327878601-4be396e080c376c5b4658ee2dd7e6636/master.m3u8
-#EXTINF:5895018 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Ты не ты [FHD]
+#EXTINF:5895018 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Ты не ты [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/314021003-41f866642d5db576adfe33f3b707b185/master.m3u8
-#EXTINF:5215359 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Что скрывает ложь [FHD]
+#EXTINF:5215359 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Что скрывает ложь [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327835082-448c6a52b458112dbd8b98fad8ad8d69/master.m3u8
-#EXTINF:4949055 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Чудеса в Париже [FHD]
+#EXTINF:4949055 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Чудеса в Париже [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327754035-48fff8a47b257b9a8ef1afd305217621/master.m3u8
-#EXTINF:5460842 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Шутки в сторону [FHD]
+#EXTINF:5460842 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Шутки в сторону [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327046767-449e7ff70fff8c748a3113af90ef41cf/master.m3u8
-#EXTINF:6133610 tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Экстрасенс [FHD]
+#EXTINF:6133610 group-title="📽️ ФИЛЬМЫ ЯНДЕКС" tvg-logo="https://ekzot.ucoz.net/ch_icons/o/operacija_«y»_i_drugie_prikljuchenija_shurika.png",Экстрасенс [FHD]
 https://strm.yandex.ru/vh-ott-converted/ott-content/327645144-4af4a4d54781b2498c146c618c7155b2/master.m3u8
