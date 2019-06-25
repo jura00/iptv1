@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:0,1 СЕРИЯ
+https://media10.viho.tv/three/v7/video-file1/00/00/00/00/00/00/00/17/76/80/177680-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,2 СЕРИЯ
+https://media8.viho.tv/one/v4/video-file1/00/00/00/00/00/00/00/17/81/44/178144-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,3 СЕРИЯ
+https://media8.viho.tv/three/v4/video-file1/00/00/00/00/00/00/00/17/81/60/178160-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,4 СЕРИЯ
+https://media8.viho.tv/four/v4/video-file1/00/00/00/00/00/00/00/17/83/21/178321-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,5 СЕРИЯ
+https://media8.viho.tv/one/v4/video-file1/00/00/00/00/00/00/00/17/83/26/178326-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,6 СЕРИЯ
+https://media8.viho.tv/four/v4/video-file1/00/00/00/00/00/00/00/17/83/27/178327-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,7 СЕРИЯ
+https://media8.viho.tv/three/v4/video-file1/00/00/00/00/00/00/00/17/84/22/178422-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,8 СЕРИЯ
+https://media10.viho.tv/one/v4/video-file1/00/00/00/00/00/00/00/17/84/23/178423-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,9 СЕРИЯ
+https://media10.viho.tv/three/v7/video-file1/00/00/00/00/00/00/00/17/84/24/178424-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,10 СЕРИЯ
+https://media10.viho.tv/four/v4/video-file1/00/00/00/00/00/00/00/17/85/51/178551-720p.mp4/index-v1-a1.m3u8
+#EXTINF:0,11 СЕРИЯ
+https://media10.viho.tv/one/v4/video-file1/00/00/00/00/00/00/00/17/85/52/178552-720p.mp4/index-v1-a1.m3u8
