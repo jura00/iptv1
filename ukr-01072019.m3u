@@ -54,7 +54,7 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7
 #EXTINF:-1 tvg-name="36.6" group-title="Україна",36.6
 http://31.202.29.17:1212/udp/239.2.1.77:1234
 #EXTINF:-1 tvg-name="NavigatorTV HD" group-title="Україна",NavigatorTV HD
-http://31.202.29.17:1212/udp/239.2.1.84:1234
+http://46.149.48.13:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-name="Донбас" group-title="Україна",Донбас
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/donbass/donbass.m3u8
 #EXTINF:-1 tvg-name="Донеччина TV HD" group-title="Україна",Донеччина TV HD
