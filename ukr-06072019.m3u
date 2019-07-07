@@ -45,6 +45,8 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/faunatv/faunatv.m3u8
 #EXTINF:-1 tvg-name="Epoque" group-title="Україна",Epoque
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/epoque/epoque.m3u8
+#EXTINF:-1 tvg-name="Эпоха" group-title="Україна",Эпоха
+http://195.138.78.66:8000/udp/239.0.251.45:1234
 #EXTINF:-1 tvg-name="НЛО ТВ" group-title="Україна",НЛО ТВ
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/nlotv/nlotv.m3u8
 #EXTINF:-1 tvg-name="НТН" group-title="Україна",НТН
