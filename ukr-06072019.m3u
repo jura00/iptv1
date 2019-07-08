@@ -65,6 +65,8 @@ http://46.149.48.13:8000/play/a01r/index.m3u8
 http://open-cdn.lanet.tv/live/1019.m3u8
 #EXTINF:-1 tvg-name="Сонце" group-title="Україна",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 tvg-name="Сонце" group-title="Україна",Сонце
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/sonce/sonce.m3u8
 #EXTINF:-1 tvg-name="Донбас" group-title="Україна",Донбас
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/donbass/donbass.m3u8
 #EXTINF:-1 tvg-name="Донеччина TV HD" group-title="Україна",Донеччина TV HD
@@ -73,8 +75,6 @@ http://stream.dn.ua/hls/stream.m3u8
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/oce/oce.m3u8
 #EXTINF:-1 tvg-name="ОЦЕ" group-title="Україна",ОЦЕ
 http://31.202.29.17:1212/udp/239.2.1.47:1234
-#EXTINF:-1 tvg-name="Сонце" group-title="Україна",Сонце
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/sonce/sonce.m3u8
 #EXTINF:-1 tvg-name="Киев TV" group-title="Україна",Киев TV
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/trkkiev/trkkiev.m3u8
 #EXTINF:-1 tvg-name="4 Київ" group-title="Україна",4 Київ
