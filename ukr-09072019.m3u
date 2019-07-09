@@ -185,24 +185,14 @@ http://stream.atr.ua/atr/live/index.m3u8
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/babytv/babytv.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Black Sea TV
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/blacksea_trk/blacksea_trk.m3u8
-#EXTINF:-1 group-title="Україна Регіони",G TV (Одесса)
+#EXTINF:-1 group-title="Україна Регіони",G TV (Одеса)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:-1 group-title="Україна Регіони",GTV
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/gtvukrtv/gtvukrtv.m3u8
+#EXTINF:-1 group-title="Україна Регіони",G TV (Одеса) [HD]
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",IV Rai
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/iv_rai_int/iv_rai_int.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",KRATU (Херсон)
 http://212.113.32.169:8080/Apple/2/index.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Maxxi-TV
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/maxxitv/maxxitv.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Milady Television
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/miladytv/miladytv.m3u8
-#EXTINF:-1 group-title="Україна Регіони",MostVideo UA HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Natali TV
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/natalitv/natalitv.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Odessa Int
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/odessa/odessa.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Olvia (Одесса)
@@ -299,30 +289,16 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Думская ТВ (Одесса)
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Еко ТV
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ekotv/ekotv.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Ескулап-TV
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/eskulap/eskulap.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Еспресо
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Здоровье (Одесса)
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",ИРТ (Днепр)
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
-#EXTINF:-1 group-title="Україна Регіони",К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Київ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Київ ТВ
-http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Кілія (Одесса)
 http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",М-студіо (Мукачево)
 http://213.174.23.59:8080/MS
 #EXTINF:-1 group-title="Україна Регіони",Медіа Інформ (Одесса)
 http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
-#EXTINF:-1 group-title="Україна Регіони",НЛО ТВ
-http://195.138.78.66:8000/udp/239.1.251.48:1234
 #EXTINF:-1 group-title="Україна Регіони",НТА
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/nta_intl/nta_intl.m3u8
 #EXTINF:-1 group-title="Україна Регіони",НТА (Львов) (HD)
@@ -401,12 +377,14 @@ http://iptv.rubintele.com:8552/play/a001
 http://159.224.182.177:8080/stream5/stream.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Чернiвцi
 http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Чернівецький Промінь
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/promin_intl/promin_intl.m3u8
-#EXTINF:-1 group-title="Україна Регіони",Чернівецький Проминь HD
-http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Черноморская ТРК
 http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Україна Регіони",Чернівецький Проминь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Україна Регіони",Чернівецький Промінь
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/promin_intl/promin_intl.m3u8
+#EXTINF:-1 group-title="Україна Регіони",Южная Волна ТВ (Одеса)
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
 #EXTINF:-1 group-title="Україна Регіони",Южная Волна ТВ HD (Одесса)
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",1-й городской (Одеса)
@@ -416,9 +394,9 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-name="112 Україна" group-title="Україна - Дублі",112 Україна
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
 #EXTINF:-1 tvg-name="112 Україна HD" group-title="Україна - Дублі",112 Україна HD
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1 tvg-name="112 Україна HD" group-title="Україна - Дублі",112 Україна HD
 http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-name="112 Україна HD" group-title="Україна - Дублі",112 Україна HD
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",24 канал HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",34
@@ -437,10 +415,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",ATR
 http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",ATR
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",ATR
-http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
 #EXTINF:-1 tvg-name="Bambarbia TV" group-title="Україна - Дублі",Bambarbia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Bambarbia TV HD" group-title="Україна - Дублі",Bambarbia TV HD
@@ -449,18 +423,24 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 http://jabber.divan.tv:8002/tv.m3u8
 #EXTINF:-1 tvg-name="Enter-фильм" group-title="Україна - Дублі",Enter-фильм
 http://31.202.29.17:1212/udp/239.2.1.61:1234
-#EXTINF:-1 group-title="Україна - Дублі",G TV (Одеса)
+#EXTINF:-1 group-title="Україна - Дублі",G TV (Одесса)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",G TV (Одеса) [HD]
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",GTV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/gtvukrtv/gtvukrtv.m3u8
 #EXTINF:-1 tvg-name="ICTV" group-title="Україна - Дублі",ICTV
 http://31.202.29.17:1212/udp/239.2.1.10:1234
 #EXTINF:-1 group-title="Україна - Дублі",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",KRATU (Херсон)
 http://212.113.32.169:8080/Apple/2/index.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",NAVIGATOR TV
-http://46.149.48.13:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",Maxxi-TV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/maxxitv/maxxitv.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",Milady Television
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/miladytv/miladytv.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",MostVideo UA HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",Natali TV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/natalitv/natalitv.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Olvia (Одеса)
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",RAI
@@ -469,14 +449,10 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Sirius
 https://open-cdn.lanet.tv/live/1019.m3u8?key=d69eadf593a8396f8f01905b00ae3cf3
-#EXTINF:-1 group-title="Україна - Дублі",Sirius
-http://open-cdn.lanet.tv/live/1019.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",STV (Одеса)
 http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",TBN_HD Україна
 http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",TV5 (Запоріжжя)
-http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",TV5 (Запоріжжя)
 http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",TV7+ (Хмельницький)
@@ -515,10 +491,6 @@ http://46.149.48.13:8000/play/a00j/index.m3u8
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/hromadsketv/hromadsketv.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Громадське HD
 http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Громадське HD
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Громадське ТБ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Громадське ТБ
 http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Донбас
@@ -533,6 +505,12 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",ЕСКУЛАП-ТВ
 http://46.175.163.130:7000/Eskulap
+#EXTINF:-1 group-title="Україна - Дублі",Еко ТV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ekotv/ekotv.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",Ескулап-TV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/eskulap/eskulap.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Еспресо
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Здоровье (Одеса)
@@ -553,6 +531,8 @@ http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
 http://213.174.23.59:8080/MS
 #EXTINF:-1 group-title="Україна - Дублі",Медіа Інформ (Одеса)
 http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",НЛО ТВ
+http://195.138.78.66:8000/udp/239.1.251.48:1234
 #EXTINF:-1 group-title="Україна - Дублі",НТА (Львів)
 http://95.67.106.10/hls/nta_ua_low/index.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",НТА (Львів) HD
@@ -568,8 +548,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700
 #EXTINF:-1 group-title="Україна - Дублі",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 tvg-name="Новини 24" group-title="Україна - Дублі",Новини 24
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Новини 24
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="Новини 24 HD" group-title="Україна - Дублі",Новини 24 HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
@@ -593,34 +571,22 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Первый городской (Кривий Ріг)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Первый деловой
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Перший Козацький
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/1st_kozaks_tv/1st_kozaks_tv.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Перший західний
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Перший західний
 http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Перший західний
-http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Правда ТУТ HD (Київ)
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Прямий
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Прямий
 http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Прямий HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Прямий TIM
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Прямий TIM
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Рада
 http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Рада
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Рада
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",СК1 (Житомир)
@@ -631,8 +597,6 @@ https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Скіфія (Херсон)
 https://cdn1.suspilne.media/hls/reg/scythia.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-name="Сонце" group-title="Україна - Дублі",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Сімон (Харків)
@@ -663,17 +627,9 @@ http://109.68.40.67/life/magnolia_3/index.m3u8
 http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Черновицкий Проминь HD
 http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Черноморска ТРК
-http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Черноморская ТРК
-http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Черноморская ТРК
 http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
 #EXTINF:-1 tvg-name="Эпоха" group-title="Україна - Дублі",Эпоха
 http://195.138.78.66:8000/udp/239.0.251.45:1234
-#EXTINF:-1 group-title="Україна - Дублі",Южная Волна ТВ (Одеса)
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",Южная Волна ТВ HD (Одеса)
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",ЯТБ Херсон
 https://webcams.ks.ua/tvhls/stream2/index.m3u8
