@@ -676,6 +676,4 @@ http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Южная Волна ТВ HD (Одеса)
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",ЯТБ Херсон
-http://46.175.163.130/vod/9/index.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",ЯТБ Херсон
 https://webcams.ks.ua/tvhls/stream2/index.m3u8
