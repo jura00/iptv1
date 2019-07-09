@@ -3,7 +3,7 @@
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ntku/ntku.m3u8
 #EXTINF:-1 tvg-name="1+1" group-title="Україна",1+1
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/oneplusone/oneplusone.m3u8
-#EXTINF:-1 tvg-name="Інтер" group-title="Україна",Интер
+#EXTINF:-1 tvg-name="Інтер" group-title="Україна",Інтер 
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/inter/inter.m3u8
 #EXTINF:-1 tvg-name="ICTV" group-title="Україна",ICTV
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ictv/ictv.m3u8
