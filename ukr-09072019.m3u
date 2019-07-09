@@ -84,7 +84,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
 #EXTINF:-1 tvg-name="Громадське ТБ HD" group-title="Україна",Громадське ТБ HD
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/hromadsketv_hd/hromadsketv_hd.m3u8
 #EXTINF:-1 tvg-name="100% News" group-title="Україна",100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8 
 #EXTINF:-1 tvg-name="УНИАН ТВ" group-title="Україна",УНИАН ТВ
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/unian/unian.m3u8
 #EXTINF:-1 tvg-name="ЧП Інфо" group-title="Україна",ЧП Інфо
