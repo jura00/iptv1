@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="UA: Перший" group-title="Україна",UA: Перший
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ntku/ntku.m3u8
 #EXTINF:-1 tvg-name="1+1" group-title="Україна",1+1
@@ -445,12 +445,10 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7
 http://31.202.29.17:1212/udp/239.2.1.10:1234
 #EXTINF:-1 group-title="Україна - Дублі",ICTV
 http://176.118.53.254:8080/ICTV/mono.m3u8
+#EXTINF:-1 tvg-name="INTER +" group-title="Україна - Дублі",INTER +
+http://185.226.245.248:81/udp/239.195.3.36:1234
 #EXTINF:-1 group-title="Україна - Дублі",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",K1
-http://176.118.53.254:8080/K1/mono.m3u8
-#EXTINF:-1 group-title="Україна - Дублі",K2
-http://176.118.53.254:8080/K2/mono.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",KRATU (Херсон)
 http://212.113.32.169:8080/Apple/2/index.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Lale
@@ -560,9 +558,9 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7
 #EXTINF:-1 group-title="Україна - Дублі",ЕКО-ТВ
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",ЕСКУЛАП-ТВ
-http://46.175.163.130:7000/Eskulap
-#EXTINF:-1 group-title="Україна - Дублі",ЕСКУЛАП-ТВ
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/eskulap/eskulap.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",ЕСКУЛАП-ТВ
+http://46.175.163.130:7000/Eskulap
 #EXTINF:-1 group-title="Україна - Дублі",Еспресо
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",Здоровье (Одеса)
@@ -571,6 +569,10 @@ http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playli
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
 #EXTINF:-1 group-title="Україна - Дублі",К1
 http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",К1
+http://176.118.53.254:8080/K1/mono.m3u8
+#EXTINF:-1 group-title="Україна - Дублі",К2
+http://176.118.53.254:8080/K2/mono.m3u8
 #EXTINF:-1 tvg-name="К2" group-title="Україна - Дублі",К2
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ktwo/ktwo.m3u8
 #EXTINF:-1 tvg-name="К2" group-title="Україна - Дублі",К2
