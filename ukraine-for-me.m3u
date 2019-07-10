@@ -33,7 +33,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/countryhs/countryhs.m3u8
 #EXTINF:-1 tvg-name="Дача HD" group-title="Україна",Дача HD
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/countryhs_hd/countryhs_hd.m3u8
-#EXTINF:-1 tvg-name="Наука" group-title="Україна",Наука
+#EXTINF:-1 tvg-name="Наука" group-title="Україна",Наука 
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/sciencetv/sciencetv.m3u8
 #EXTINF:-1 tvg-name="Тера" group-title="Україна",Тера
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/terra/terra.m3u8
